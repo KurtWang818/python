@@ -6,10 +6,10 @@ import sys
 import argparse
 import requests
 # from stackauth import StackAuth
-from stackexchange import Site, StackOverflow
-from stackpy import API, Site
+#from stackexchange import Site, StackOverflow
+#from stackpy import API, Site
 # from stackapi import StackAPI
-from datetime import datetime
+#from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Search stack exchange api.')
 parser.add_argument("directory")
