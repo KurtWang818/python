@@ -4,10 +4,11 @@ import json
 import os
 import sys
 import argparse
+import requests
 from stackauth import StackAuth
 from stackexchange import Site, StackOverflow
 from stackpy import API, Site
-from stackapi import StackAPI
+# from stackapi import StackAPI
 from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Search stack exchange api.')
@@ -15,7 +16,7 @@ parser.add_argument("directory")
 args = parser.parse_args()
 
 def createFolder():
-    
+	
 	# if not os.path.exists("/Users/KurtWang/Desktop/study"):
 	# 	os.makedirs("/Users/KurtWang/Desktop/study")
 	# else:
@@ -56,8 +57,28 @@ def query():
 	    f.write(json.dumps(t))
 	    f.write(",") 
 	    f.write("\n")
-	    
+		
 	f.write("]")
+
+	tagsInfo = requests.get("https://api.stackexchange.com/2.2/tags/python; pandas/info?site=stackoverflow&key=j5VAW9jTzqHlVWRbeZZ2ng((")
+	a= open(args.directory + "/stackApi" + "/stackTagsOutput.json", 'w+')
+	t_count = 2
+	a.write("[")
+	for t in tagsInfo.json()['items']:
+		t_count -= 1
+		
+		if t_count < 0:
+			break
+
+		if t_count == 0:
+			a.write(json.dumps(t))
+			continue
+
+		a.write(json.dumps(t))
+		a.write(",") 
+		a.write("\n")
+		
+	a.write("]")
 
 createFolder()
 query()
