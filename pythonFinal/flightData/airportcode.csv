@@ -1,0 +1,8111 @@
+Name,Code
+Goroka,GKA
+Madang,MAG
+Mount Hagen,HGU
+Nadzab,LAE
+Port Moresby,POM
+Wewak,WWK
+Narssarssuaq,UAK
+Godthaab,GOH
+Sondrestrom,SFJ
+Thule,THU
+Akureyri,AEY
+Egilsstadir,EGS
+Hofn,HFN
+Husavik,HZK
+Isafjordur,IFJ
+Keflavik,KEF
+Patreksfjordur,PFJ
+Reykjavik,RKV
+Siglufjordur,SIJ
+Vestmannaeyjar,VEY
+Sault Sainte Marie,YAM
+Winnipeg,YAV
+Halifax,YAW
+St. Anthony,YAY
+Tofino,YAZ
+Pelly Bay,YBB
+Baie Comeau,YBC
+Bagotville,YBG
+Baker Lake,YBK
+Campbell River,YBL
+Brandon,YBR
+Cambridge Bay,YCB
+Nanaimo,YCD
+Castlegar,YCG
+Chatham,YCH
+Charlo,YCL
+Coppermine,YCO
+Coronation,YCT
+Chilliwack,YCW
+Clyde River,YCY
+Coral Harbour,YZS
+Dawson,YDA
+Burwash,YDB
+Princeton,YDC
+Deer Lake,YDF
+Dease Lake,YDL
+Dauphin,YDN
+Dawson Creek,YDQ
+Edmonton,YEG
+Eskimo Point,YEK
+Estevan,YEN
+Edson,YET
+Eureka,YEU
+Inuvik,YEV
+Iqaluit,YFB
+Fredericton,YFC
+Forestville,
+Flin Flon,YFO
+Fort Resolution,YFR
+Fort Simpson,YFS
+Kingston,YGK
+La Grande Riviere,YGL
+Gaspe,YGP
+Geraldton,YGQ
+Iles De La Madeleine,YGR
+Hudson Bay,YHB
+Dryden,YHD
+Holman Island,YHI
+Gjoa Haven,YHK
+Hamilton,YHM
+Montreal,YHU
+Hay River,YHY
+Halifax,YHZ
+Atikokan,YIB
+Pond Inlet,YIO
+St. Jean,YJN
+Stephenville,YJT
+Kamloops,YKA
+Waterloo,YKF
+Schefferville,YKL
+Kindersley,YKY
+Toronto,YKZ
+Chapleau,YLD
+Meadow Lake,YLJ
+Lloydminster,YLL
+Alert,YLT
+Kelowna,YLW
+Mayo,YMA
+Moose Jaw,YMJ
+Fort Mcmurray,YMM
+Moosonee,YMO
+Maniwaki,YMW
+Montreal,YMX
+Natashquan,YNA
+Gatineau,YND
+Matagami,YNM
+Old Crow,YOC
+Cold Lake,YOD
+High Level,YOJ
+Ottawa,YOW
+Prince Albert,YPA
+Peace River,YPE
+Portage-la-prairie,YPG
+Pitt Meadows,
+Pickle Lake,YPL
+Port Menier,YPN
+Peterborough,YPQ
+Prince Pupert,YPR
+Fort Chipewyan,YPY
+Muskoka,YQA
+Quebec,YQB
+Red Deer Industrial,YQF
+Windsor,YQG
+Watson Lake,YQH
+Kenora,YQK
+Lethbridge,YQL
+Moncton,YQM
+Comox,YQQ
+Regina,YQR
+Thunder Bay,YQT
+Grande Prairie,YQU
+Yorkton,YQV
+North Battleford,YQW
+Gander,YQX
+Sydney,YQY
+Quesnel,YQZ
+Resolute,YRB
+Riviere Du Loup,YRI
+Roberval,YRJ
+Rocky Mountain House,YRM
+Rankin Inlet,YRT
+Sudbury,YSB
+Sherbrooke,YSC
+St. John,YSJ
+Fort Smith,YSM
+Nanisivik,YSR
+Summerside,YSU
+Sachs Harbour,YSY
+Cape Dorset,YTE
+Thompson,YTH
+Trenton,YTR
+Timmins,YTS
+Toronto,YTZ
+Tuktoyaktuk,YUB
+Montreal,YUL
+Repulse Bay,YUT
+Hall Beach,YUX
+Rouyn,YUY
+La Ronge,YVC
+Vermillion,YVG
+Broughton Island,YVM
+Val D'or,YVO
+Quujjuaq,YVP
+Norman Wells,YVQ
+Vancouver,YVR
+Buffalo Narrows,YVT
+Wiarton,YVV
+Petawawa,YWA
+Winnipeg,YWG
+Wabush,YWK
+Williams Lake,YWL
+Wrigley,YWY
+Cranbrook,YXC
+Edmonton,YXD
+Saskatoon,YXE
+Medicine Hat,YXH
+Fort Saint John,YXJ
+Sioux Lookout,YXL
+Pangnirtung,YXP
+Earlton,YXR
+Prince George,YXS
+Terrace,YXT
+London,YXU
+Abbotsford,YXX
+Whitehorse,YXY
+North Bay,YYB
+Calgary,YYC
+Smithers,YYD
+Fort Nelson,YYE
+Penticton,YYF
+Charlottetown,YYG
+Spence Bay,YYH
+Victoria,YYJ
+Lynn Lake,YYL
+Swift Current,YYN
+Churchill,YYQ
+Goose Bay,YYR
+St. John's,YYT
+Kapuskasing,YYU
+Armstrong,YYW
+Mont Joli,YYY
+Toronto,YYZ
+Toronto,YZD
+Gore Bay,YZE
+Yellowknife,YZF
+Slave Lake,YZH
+Sandspit,YZP
+Sarnia,YZR
+Port Hardy,YZT
+Whitecourt,YZU
+Sept-iles,YZV
+Teslin,YZW
+Greenwood,YZX
+Faro,ZFA
+Fort Mcpherson,ZFM
+Blida,
+Bou Saada,
+Bejaja,BJA
+Algier,ALG
+Djanet,DJG
+Boufarik,QFD
+Reggan,
+Illizi,VVZ
+Ain Oussera,
+Tamanrasset,TMR
+Jijel,GJL
+Mecheria,
+Relizane,
+Annaba,AAE
+Constantine,CZL
+Tebessa,TEE
+Tilrempt,HRM
+Tiaret,TID
+Bou Sfer,
+Tindouf,TIN
+Ech-cheliff,QAS
+Oran,TAF
+Tlemcen,TLM
+Oran,ORN
+Sidi Bel Abbes,
+Ghriss,MUW
+Adrar,AZR
+Biskra,BSK
+El Golea,ELG
+Ghardaia,GHA
+Hassi Messaoud,HME
+In Salah,INZ
+Touggourt,TGR
+Laghouat,LOO
+Timimoun,TMX
+Ouargla,OGX
+Zarzaitine,IAM
+Cotonou,COO
+Ouagadougou,OUA
+Bobo-dioulasso,BOY
+Accra,ACC
+Tamale,TML
+Wa,
+Sunyani,NYI
+Takoradi,TKD
+Abidjan,ABJ
+Bouake,BYK
+Daloa,DJO
+Korhogo,HGO
+Man,MJC
+San Pedro,SPY
+Yamoussoukro,ASK
+Abuja,ABV
+Akure,AKR
+Benin,BNI
+Calabar,CBQ
+Enugu,ENU
+Gusau,QUS
+Ibadan,IBA
+Ilorin,ILR
+Jos,JOS
+Kaduna,KAD
+Kano,KAN
+Maiduguri,MIU
+Makurdi,MDI
+Lagos,LOS
+Minna,MXJ
+Port Hartcourt,PHC
+Sokoto,SKO
+Yola,YOL
+Zaria,ZAR
+Maradi,MFQ
+Niamey,NIM
+Tahoua,THZ
+Agadez,AJY
+Dirkou,
+Diffa,
+Zinder,ZND
+Monastir,MIR
+Tunis,TUN
+Bizerte,
+Remada,
+Gafsa,GAF
+Gabes,GAE
+Bordj El Amri,
+Djerba,DJE
+El Borma,EBM
+Sfax,SFA
+Tozeur,TOE
+Niatougou,LRL
+Lome,LFW
+Antwerp,ANR
+Beauvechain,
+Kleine Brogel,
+Brussels,BRU
+Bertrix,
+Charleroi,CRL
+Chievres,
+Koksijde,
+Florennes,
+Kortrijk-vevelgem,QKT
+Liege,LGG
+Ostend,OST
+Zutendaal,
+Sint-truiden,
+St.-hubert,
+Ursel,
+Weelde,
+Zoersel,
+Bautzen,BBJ
+Altenburg,AOC
+Dessau,
+Eisenhuettenstadt,
+Greencastle,4I7
+Suhl,
+Muehlhausen,
+Halle,
+Riesa,
+Rechlin-laerz,
+Strausberg,
+Schoenhagen,
+Barth,BBH
+Jena,
+Kyritz,
+Magdeburg,
+Rothenburg/ol,
+Anklam,
+Cottbus,
+Kamenz,
+Berlin,SXF
+Dresden,DRS
+Erfurt,ERF
+Frankfurt,FRA
+Munster,FMO
+Hamburg,HAM
+Berlin,THF
+Cologne,CGN
+Duesseldorf,DUS
+Munich,MUC
+Nuernberg,NUE
+Leipzig,LEJ
+Saarbruecken,SCN
+Stuttgart,STR
+Berlin,TXL
+Hannover,HAJ
+Bremen,BRE
+Egelsbach,
+Hahn,HHN
+Mannheim,MHG
+Allendorf,
+Worms,
+Mainz,
+Eisenach,
+Siegerland,
+Hamburg,XFW
+Kiel,KEL
+Luebeck,LBC
+Dahlemer Binz,
+Meinerzhagen,
+Arnsberg,ZCA
+Essen,ESS
+Bielefeld,
+Moenchengladbach,MGL
+Paderborn,PAD
+Stadtlohn,
+Dortmund,DTM
+Augsburg,AGB
+Biberach,
+Eggenfelden,
+Mindelheim,
+Oberpfaffenhofen,OBF
+Straubing,
+Vilshofen,
+Leutkirch,
+Friedrichshafen,FDH
+Parchim,SZW
+Stendal,ZSN
+Aalen-heidenheim,
+Bayreuth,BYU
+Burg Feuerstein,
+Hof,HOQ
+Hassfurt,
+Koblenz,ZNV
+Trier,ZQF
+Speyer,ZQC
+Zweibruecken,
+Donaueschingen,ZQL
+Freiburg,
+Mengen,
+Schwaebisch Hall,
+Soest,
+Braunschweig,BWE
+Kassel,KSF
+Hildesheim,
+Bremerhaven,BRV
+Emden,EME
+Leer,
+Wilhelmshaven,WVN
+Borkum,BMK
+Norderney,NRD
+Flensburg,FLF
+Rendsburg,
+Westerland,GWT
+Armari Air Force Base,
+Kardla,KDL
+Kuressaare,URE
+Parnu,EPU
+Tallinn-ulemiste International,TLL
+Tartu,TAY
+Enontekio,ENF
+Eura,
+Halli,KEV
+Helsinki,HEM
+Helsinki,HEL
+Hameenkyro,
+Hanko,
+Hyvinkaa,HYV
+Kikala,
+Immola,
+Kitee,
+Ivalo,IVL
+Joensuu,JOE
+Jyvaskyla,JYV
+Kauhava,KAU
+Kemi,KEM
+Kajaani,KAJ
+Kauhajoki,
+Kruunupyy,KOK
+Kemijarvi,
+Kuusamo,KAO
+Kittila,KTT
+Kuopio,KUO
+Vesivehmaa,
+Lappeenranta,LPP
+Mariehamn,MHQ
+Menkijarvi,
+Mikkeli,MIK
+Nummela,
+Oulu,OUL
+Piikajarvi,
+Pori,POR
+Pudasjarvi,
+Pyhasalmi,
+Pattijoki,
+Rantasalmi,
+Rovaniemi,RVN
+Rayskala,
+Savonlinna,SVL
+Selanpaa,
+Sodankyla,SOT
+Tampere,TMP
+Teisko,
+Turku,TKU
+Utti,QVY
+Vaasa,VAA
+Varkaus,VRK
+Ylivieska-raudaskyla,
+Belfast,BFS
+Enniskillen,ENK
+Belfast,BHD
+Londonderry,LDY
+Birmingham,BHX
+Coventry,CVT
+Leicester,
+Golouchestershire,GLO
+Halfpenny Green,
+Pailton,
+Turweston,
+Wellesbourne,
+Manchester,MAN
+Woodfort,
+Chivenor,
+Newquai,NQY
+Lyneham,LYE
+Boscombe Down,
+Culdrose,
+St. Athan,
+Yeovilton,YEO
+Haverfordwest,
+Cardiff,CWL
+Swansea,SWS
+Bristol,BRS
+Liverpool,LPL
+London,LTN
+Plymouth,PLH
+Bournemouth,BOH
+Southampton,SOU
+Lasham,QLA
+Alderney,ACI
+Guernsey,GCI
+Jersey,JER
+Shoreham By Sea,ESH
+Biggin Hill,BQH
+London,LGW
+London,LCY
+Farnborough,FAB
+Chalsgrove,
+Blackbushe,BBS
+London,LHR
+Southend,SEN
+Lydd,LYX
+Manston,MSE
+Brough,
+Carlisle,CAX
+Repton,
+Blackpool,BLK
+Humberside,HUY
+Barrow Island,BWF
+Leeds,LBA
+Warton,
+Hawarden,CEG
+Isle Of Man,IOM
+Newcastle,NCL
+Teesside,MME
+East Midlands,EMA
+Llanbedr,
+Ternhill,
+Shawbury,
+Woodvale,
+Kirkwall,KOI
+Sumburgh,LSI
+Wick,WIC
+Aberdeen,ABZ
+Inverness,INV
+Glasgow,GLA
+Edinburgh,EDI
+Islay,ILY
+Prestwick,PIK
+Benbecula,BEB
+Scatsta,SDZ
+Dundee,DND
+Stornoway,SYY
+Tiree,TRE
+Leuchars,ADX
+Lossiemouth,LMO
+Cambridge,CBG
+Peterborough,
+Norwich,NWI
+London,STN
+North Weald,
+Fowlmere,
+Cranfield,
+Exeter,EXT
+Bristol,FZO
+Oxford,OXF
+Benson,
+Lakenheath,
+Mildenhall,MHZ
+Wattisham,
+Wyton,
+Fairford,FFD
+Brize Norton,BZZ
+Odiham,ODH
+Cosford,
+Northolt,NHT
+Coningsby,QCY
+Dishforth,
+Leeming,
+Church Fenton,
+Honington,BEQ
+Cottesmore,
+Scampton,
+Wittering,
+Linton-on-ouse,
+Waddington,WTN
+Topcliffe,
+Cranwell,
+Barkston Heath,
+Marham,KNF
+Mount Pleasant,MPN
+Amsterdam,AMS
+Weert,
+Maastricht,MST
+Deelen,
+Drachten,
+Eindhoven,EIN
+Groningen,GRQ
+Gilze-rijen,
+De Kooy,DHR
+Lelystad,
+Leeuwarden,LWR
+Rotterdam,RTM
+Soesterberg,UTC
+Enschede,ENS
+Valkenburg,LID
+Woensdrecht,WOE
+Cork,ORK
+Galway,GWY
+Dublin,DUB
+Connaught,NOC
+Kerry,KIR
+Casement,
+Shannon,SNN
+Sligo,SXL
+Waterford,WAT
+Aarhus,AAR
+Billund,BLL
+Copenhagen,CPH
+Esbjerg,EBJ
+Gronholt,
+Karup,KRP
+Laeso,
+Maribo,
+Odense,ODE
+Krusa-padborg,
+Copenhagen,RKE
+Ronne,RNN
+Soenderborg,SGD
+Skrydstrup,SKS
+Skive,
+Thisted,TED
+Kolding,
+Vagar,FAE
+Vesthimmerland,
+Stauning,STA
+Aalborg,AAL
+Luxemburg,LUX
+Alesund,AES
+Andoya,ANX
+Alta,ALF
+Voss,
+Bronnoysund,BNN
+Bodo,BOO
+Bergen,BGO
+Batsfjord,BJF
+Kristiansand,KRS
+Geilo,
+Bardufoss,BDU
+Harstad/Narvik,EVE
+Fagernes,VDB
+Floro,FRO
+Oslo,OSL
+Haugesund,HAU
+Hasvik,HAA
+Kristiansund,KSU
+Kjeller,
+Kirkenes,KKN
+Farsund,FAN
+Molde,MOL
+Mosjoen,MJF
+Lakselv,LKL
+Notodden,NTB
+Orland,OLA
+Roros,RRS
+Rygge,RYG
+Svalbard,LYR
+Skien,SKE
+Stord,SRP
+Sandnessjoen,SSJ
+Tromso,TOS
+Sandefjord,TRF
+Trondheim,TRD
+Stavanger,SVG
+Warsaw,
+Gdansk,GDN
+Krakow,KRK
+Katowice,
+Katowice,KTW
+Mielec,
+Poznan,POZ
+Rzeszow,RZE
+Szczecin,SZZ
+Slupsk,OSP
+Shapaja,
+Warsaw,WAW
+Wroclaw,WRO
+Zielona Gora,IEG
+Linkoeping,
+Norrkoeping,
+Uppsala,
+Ronneby,RNB
+Rada,
+Gothenborg,GOT
+Joenkoeping,JKG
+Falkoping,
+Lidkoping,LDK
+Gothenborg,GSE
+Skovde,KVB
+Trollhattan,THN
+Karlsborg,
+Satenas,
+Stockholm,
+Karlskoga,KSK
+Mora,MXX
+Stockholm,NYO
+Arvika,
+Emmaboda,
+Ljungby,
+Kristianstad,KID
+Landskrona,JLD
+Oskarshamn,OSK
+Anderstorp,
+Kalkmar,KLR
+Malmoe,MMX
+Halmstad,HAD
+Hagshult,
+Vaxjo,VXO
+Hallviken,
+Hede,
+Sveg,EVG
+Gallivare,GEV
+Hudiksvall,HUV
+Jokkmokk,
+Kramfors,KRF
+Lycksele,LYC
+Optand,
+Sundsvall,SDL
+Ornskoldsvik,OER
+Pitea,
+Kiruna,KRN
+Orsa,
+Skelleftea,SFT
+Sattna,
+Umea,UME
+Vilhelmina,VHM
+Arvidsjaur,AJR
+Orebro,ORB
+Vasteras,VST
+Lulea,LLA
+Vidsel,
+Arboga,
+Stockholm,ARN
+Stockholm,BMA
+Borlange,BLE
+Hultsfred,HLF
+Gavle,GVX
+Linkoeping,LPI
+Norrkoeping,NRK
+Eskilstuna,
+Visby,VBY
+Kalixfors,
+Spangdahlem,SPM
+Ramstein,RMS
+Bamberg,
+Giebelstadt,GHF
+Brueckeburg,
+Celle,ZCN
+Rheine-brentlange,
+Fritzlar,
+Laupheim,
+Mendig,
+Niederstetten,
+Roth,
+Fassberg,
+Grafenwoehr,
+Hanau,ZNF
+Hohenfels,
+Kitzingen,
+Nordholz,
+Diepholz,
+Geilenkirchen,GKE
+Hohn,
+Jever,
+Laage,RLG
+Noervenich,
+Schleswig,
+Wittmundhafen,
+Neubrandenburg,
+Wunstorf,
+Vilseck,
+Coleman,
+Wiesbaden,
+Landsberg,
+Buechel,
+Erding,
+Fuerstenfeldbruck,FEL
+Holzdorf,
+Ingolstadt,
+Lechfeld,
+Neuburg,
+Guetersloh,GUT
+Alexander Bay,ALJ
+Aggeneys,AGZ
+Brakpan,
+Bisho,BIY
+Bloemfontein,BFN
+Bethlehem,
+Bothaville,
+Cape Town,CPT
+Calvinia,
+Durban,DUR
+East London,ELS
+Ermelo,
+Ficksburg,
+Johannesburg,GCJ
+George,GRJ
+Graaff Reinet,
+Grahamstown,
+Greytown,
+Harmony,
+Harrismith,
+Hoedspruit,HDS
+Hendrik Verwoerddam,
+Johannesburg,JNB
+Klerksdorp,
+Kimberley,KIM
+Krugersdorp,
+Kroonstad,
+Kuruman,
+Kleinsee,KLZ
+Johannesburg,HLA
+Lichtenburg,
+Lambertsbaai,
+Langebaanweg,
+Ladysmith,LAY
+Middelburg,
+Margate,MGH
+Marble Hall,
+Majuba Power Station,
+Kangia,
+Malalane,
+Musina,MEZ
+Mkuze,
+Newcastle,NCS
+Nylstroom,
+Overberg,
+Oudtshoorn,DUH
+Port Elizabeth,PLZ
+Plettenberg Bay,
+Phalaborwa,PHW
+Polokwane,PTG
+Port Saint Johns,
+Pietermaritzburg,PZB
+Pilanesberg,NTY
+Potgietersrus,
+Potchefstroom,
+Parys,
+Queenstown,UTW
+Richard's Bay,RCB
+Rustenburg,
+Robertson,
+Springbok,SBU
+Secunda,
+Saldanha,
+Springs,
+Swartkop,
+Sishen,SIS
+Swellendam,
+Skukuza,SZK
+Tommy's Field,
+Bloemfontein,
+Tutuka,
+Tzaneen,LTA
+Ulundi,ULD
+Upington,UTN
+Umtata,UTT
+Vryburg,VRU
+Durban,VIR
+Vredendal,
+Vereeniging,
+Pretoria,PRY
+Witbank,
+Waterkloof,
+Welkom,WEL
+Ysterplaat,
+Zeerust,
+Francistown,FRW
+Jwaneng,JWA
+Kasane,BBK
+Maun,MUB
+Gaberone,GBE
+Selebi-phikwe,PKW
+Brazzaville,BZV
+Owando,FTX
+Ouesso,OUE
+Pointe-noire,PNR
+Manzini,MTS
+Bangui,BGF
+Berberati,BBT
+Bata,BSG
+Malabo,SSG
+Wide Awake,
+Plaisance,MRU
+Rodriguez Island,RRG
+Diego Garcia Island,
+Tiko,TKC
+Douala,DLA
+Maroua,MVR
+Foumban,FOM
+N'gaoundere,NGE
+Garoua,GOU
+Bafoussam,BFX
+Bamenda,BPC
+Yaounde,YAO
+Kasompe,
+Livingstone,LVI
+Lusaka,LUN
+Mfuwe,MFU
+Mongu,
+Ndola,NLA
+Southdowns,KIW
+Moroni,HAH
+Moheli,NWA
+Anjouan,AJN
+Dzaoudzi,DZA
+St.-denis,RUN
+St.-pierre,ZSE
+Antananarivo,TNR
+Miandrivazo,ZVA
+Sainte Marie,SMS
+Toamasina,TMM
+Morondava,MOQ
+Antsiranana,DIE
+Mananara,WMR
+Andapa,ZWA
+Ambilobe,AMB
+Antalaha,ANM
+Analalava,HVA
+Mahajanga,MJN
+Nosy-be,NOS
+Besalampy,BPY
+Maroantsetra,WMN
+Sambava,SVB
+Vohemar,VOH
+Antsohihy,WAI
+Ampampamena,
+Tolagnaro,FTU
+Fianarantsoa,WFI
+Farafangana,RVA
+Manakara,WVK
+Mananjary,MNJ
+Morombe,MXM
+Toliara,TLE
+M'banza-congo,SSY
+Benguela,BUG
+Cabinda,CAB
+Culebra Island,CPX
+Huambo,NOV
+Kuito,SVP
+Lobito,
+Luanda,LAD
+Malanje,MEG
+Menongue,SPP
+Negage,GXG
+Porto Amboim,PBN
+Saurimo,VHC
+Soyo,SZA
+Lubango,SDD
+Luena,LUO
+Uige,UGO
+Xangongo,XGN
+Oyem,OYE
+Okondja,OKN
+Lambarene,LBQ
+Bitam,BMM
+Port Gentil,POG
+Omboue Hospial,OMB
+Makokou,MKU
+Libreville,LBV
+Franceville,MVB
+Principe,PCP
+Sao Tome,TMS
+Beira,BEW
+Inhambane,INH
+Lichinga,VXC
+Lumbo,
+Maputo,MPM
+Mueda,
+Mocimboa Da Praia,MZB
+Marrupa,
+Nacala,MNC
+Nampula,APL
+Pemba,POL
+Quelimane,UEL
+Songo,
+Tete,TET
+Ulongwe,
+Vilankulu,VNX
+Alphonse,
+Desroches,DES
+Farquhar,
+Mahe,SEZ
+Praslin,PRI
+Coetivy,
+Abeche,AEH
+Moundou,MQQ
+N'djamena,NDJ
+Faya-largeau,FYT
+Bulawayo,BUQ
+Harare,
+Chiredzi,BFO
+Victoria Falls,VFA
+Harare,HRE
+Kariba,KAB
+Mutoko,
+Mutare,
+Masvingo,MVZ
+Zvishavane,
+Gwert,GWE
+Hwange National Park,WKM
+Blantyre,BLZ
+Karonga,KGJ
+Kasungu,
+Lilongwe,LLW
+Mzuzu,ZZU
+Maseru,MSU
+Maseru,
+Kinshasa,FIH
+Kinshasa,NLO
+Muanda,MNB
+Kitona Base,
+Bandoundu,FDU
+Kikwit,KKW
+Mbandaka,MDK
+Gbadolite,BDT
+Gemena,GMA
+Kotakoli,
+Lisala,LIQ
+Kisangani,FKI
+Isiro,IRP
+Bunia,BUX
+Buta Zega,
+Bukavu/kavumu,BKY
+Goma,GOM
+Kindu,KND
+Lubumashi,FBM
+Kolwezi,KWZ
+Kalemie,FMI
+Kamina Base,KMN
+Kananga,KGA
+Mbuji-mayi,MJM
+Bamako,BKO
+Gao,GAQ
+Kayes,KYS
+Mopti,MZI
+Tombouctou,TOM
+Tessalit,
+Banjul,BJL
+Fuerteventura,FUE
+Hierro,VDE
+Santa Cruz De La Palma,SPC
+Gran Canaria,LPA
+Las Palmas,ACE
+Tenerife,TFS
+Tenerife,TFN
+Melilla,MLN
+Freetown,FNA
+Cufar,
+Monrovia,MLW
+Monrovia,ROB
+Agadir,AGA
+Tan Tan,TTA
+Fes,FEZ
+Ifrane,
+Er-rachidia,ERH
+Meknes,MEK
+Oujda,OUD
+Ben Slimane,
+Rabat,RBA
+Casablanca,CMN
+Marrakech,RAK
+Kentira,NNA
+Ouarzazate,OZZ
+Al Hociema,AHU
+Tetouan,TTU
+Tanger,TNG
+Ziguinchor,ZIG
+Cap Skiring,CSK
+Kaolack,KLC
+Dakar,DKR
+St. Louis,XLS
+Bakel,BXE
+Kedougou,KGG
+Tambacounda,TUD
+Aioun El Atrouss,IEO
+Tidjikja,TIY
+Kiffa,KFA
+Nema,EMN
+Kaedi,KED
+Nouakschott,NKC
+Selibabi,SEY
+Atar,ATR
+Nouadhibou,NDB
+Bir Moghrein,
+Fira,FIG
+Faranah,FAA
+Labe,LEK
+Amilcar Cabral,SID
+Boa Vista,BVC
+Maio,MMO
+Sao Nocolau Island,SNE
+Sao Vicente Island,VXE
+Addis Ababa,ADD
+Addis Ababa,
+Arba Minch,AMH
+Axum,AXU
+Bahar Dar,BJR
+Dire Dawa,DIR
+Gambella,GMB
+Gondar,GDQ
+Paradies Island,
+Jimma,JIM
+Lalibella,LLI
+Makale,MQX
+Asosa,ASO
+Bujumbura,BJM
+Hargeisa,HGA
+Berbera,BBO
+Kismayu,KMU
+Dowagiac,C91
+Alexandria,ALY
+Abu Simbel,ABS
+Cairo,CAI
+Cairo,
+Hurghada,HRG
+El Gorah,EGR
+Luxor,LXR
+Mersa-matruh,MUH
+Port Said,PSD
+St. Catherine,SKV
+Aswan,ASW
+El-tor,ELT
+Eldoret,EDL
+Kakamega,
+Kisumu,KIS
+Kitale,KTL
+Cambridge,CDI
+Lodwar,LOK
+Lamu,LAU
+Mombasa,MBA
+Naivasha,
+Nairobi,WIL
+Nairobi,
+Wajir,WJR
+Buattifel,
+Giallo,
+Ghat,GHT
+Kufra,AKF
+Benghazi,BEN
+Sebha,SEB
+Tripoli,TIP
+Marsa Brega,
+Ras Lanouf V 40,
+Hon,
+Dahra,
+Ghadames,LTD
+Zella 74,
+Gisenyi,GYI
+Kigali,KGL
+Kamembe,KME
+Dongola,DOG
+Damazin,
+El Fasher,ELF
+Kassala,KSL
+Kadugli,
+El Obeid,EBD
+Juba,JUB
+Malakal,MAK
+Khartoum,KRT
+Arusha,ARK
+Dar Es Salaam,DAR
+Dodoma,DOD
+Iringa,IRI
+Kilimanjaro,JRO
+Lake Manyara,LKY
+Mtwara,MYW
+Mwanza,MWZ
+Pemba,PMA
+Tanga,TGT
+Zanzibar,ZNZ
+Entebbe,EBB
+Dusseldorf,QDU
+Soroti,SRT
+Tirana,TIA
+Bourgas,BOJ
+Gorna Orechovica,GOZ
+Plovdiv,PDV
+Sofia,SOF
+Stara Zagora,
+Varna,VAR
+Larnaca,LCA
+Paphos,PFO
+Akrotiri,AKT
+Dubrovnik,DBV
+Cepin,
+Osijek,OSI
+Pula,PUY
+Grobnik,
+Rijeka,RJK
+Split,SPU
+Varazdin,
+Zagreb,ZAG
+Zadar,ZAD
+Udbina,
+Albacete,
+Alicante,ALC
+Almeria,LEI
+Aviles,OVD
+Cordoba,ODB
+Bilbao,BIO
+Barcelona,BCN
+Badajoz,BJZ
+La Coruna,LCG
+Granada,
+Gerona,GRO
+Granada,GRX
+Madrid,
+Ibiza,IBZ
+Jerez,XRY
+Murcia,MJV
+Porto Heli,PKH
+Madrid,MAD
+Malaga,AGP
+Menorca,MAH
+Sevilla,OZP
+Ocana,
+Pamplona,PNA
+Murcia,
+Reus,REU
+Rota,
+Salamanca,SLM
+Son Bonet,
+Palma De Mallorca,
+San Luis,
+San Sebastian,EAS
+Santiago,SCQ
+Seo De Urgel,LEU
+Madrid,TOJ
+Valencia,VLC
+Valladolid,VLL
+Madrid,
+Vitoria,VIT
+Vigo,VGO
+Santander,SDR
+Zaragoza,ZAZ
+Sevilla,SVQ
+Calais,CQF
+Peronne,
+Nangis,
+Bagnole-de-l'orne,
+Albert,
+Le Tourquet,LTQ
+Valenciennes,
+Amiens,
+Agen,AGF
+Cazaux,
+Bordeaux,BOD
+Bergerac,EGC
+Toulouse,
+Cognac,CNG
+Poitiers,PIS
+Montlucon-gueret,
+Limoges,LIG
+Mont-de-marsan,
+Niort,NIT
+Toulouse,TLS
+Pau,PUF
+La Rochelle,
+Tarbes,LDE
+Angouleme,ANG
+Brive,BVE
+Perigueux,PGX
+Biarritz-bayonne,BIQ
+Cahors,
+St.-girons,
+Arcachon,XAC
+Albi,LBI
+Castres,DCM
+Toulouse,
+Millau,
+Graulhet,
+Rodez,RDZ
+Ussel,
+Villeneuve-sur-lot,
+Royan,RYN
+Mimizan,
+Aire-sur-l'adour,
+Montauban,
+Auch,
+Libourne,
+Pamiers,
+Marmande,
+Rochefort,RCO
+Pontivy,
+Aubigny-sur-nere,
+Guiscriff-scaer,
+Ancenis,
+Brienne-le Chateau,
+Colmar,CMR
+Beaune,
+Dole,DLE
+Joigny,
+Verdun,
+Aubenas-vals-lanas,OBS
+Le Puy,LPY
+St.-flour,
+Bourg,XBK
+Vilefrance,XVF
+Moulins,XMU
+St.-afrique-belmont,
+Cassagnes-beghones,
+Metz,ETZ
+Bastia,BIA
+Calvi,CLY
+Figari,FSC
+Ajaccio,AJA
+Propriano,
+Solenzara,SOZ
+Corte,
+Auxerre,AUF
+Chambery,CMF
+Clermont-Ferrand,CFE
+Bourges,BOU
+Chambery,
+Chalon,XCD
+Annemasse,QNJ
+Lyon,LYS
+Macon,QNX
+St.-yan,
+Roanne,RNE
+Annecy,NCY
+Grenoble,GNB
+Montlucon,MCU
+Valence,VAF
+Vichy,VHY
+Aurillac,AUR
+Chateauroux,CHR
+Lyon,LYN
+Aix-les-milles,QXB
+Le Luc,
+Cannes,CEQ
+St-Etienne,EBU
+Istres,
+Carcassonne,CCF
+Marseille,MRS
+Nice,NCE
+Orange,
+Perpignan,PGF
+Le Castellet,CTT
+Ales,
+Montpellier,MPL
+Beziers,BZR
+Avignon,AVN
+Salon,
+Lezignan-corbieres,
+Mende,MEN
+Carpentras,
+Avord,
+Beauvais,BVA
+Chateaudun,
+Saumur,
+Evreux,
+Le Havre,LEH
+Abbeville,
+Orleans,ORE
+Chalons,XCR
+Rouen,URO
+Tours,TUF
+Cholet,CET
+Laval,LVA
+Orleans,
+Paris,LBG
+Creil,CSF
+Paris,CDG
+Coulommiers,
+Melun,
+Toussous-le-noble,TNF
+Paris,ORY
+Pontoise,POX
+Villacoublay,
+Reims,
+Troyes,QYR
+Luneville,
+Etain,
+Autun,
+Nevers,NVS
+Cambrai,
+Maubeuge,
+Besancon-la-veze,
+Phalsbourg,
+Lille,LIL
+Merville,
+Charleville,
+Vesoul-frotey,
+Brest,BES
+Cherbourg,CER
+Dinard,DNR
+La Baule,
+Granville,GFR
+Deauville,DOL
+Lorient,LRT
+La Roche-sur-yon,EDM
+Landivisiau,
+Caen,CFR
+Lanvedoc,
+Le Mans,LME
+Rennes,RNS
+Lannion,LAI
+Quimper,UIP
+Nantes,NTE
+St.-brieuc Armor,SBK
+Morlaix,MXN
+Vannes,VNE
+St.-nazaire,SNR
+Mulhouse,MLH
+Colmar,
+Dijon,DIJ
+Metz,MZM
+Epinal,EPL
+Haguenau,
+St.-dizier,
+Montbeliard,
+Nancy,ENC
+Nancy,
+Pontarlier,
+Reims,RHE
+Strasbourg,SXB
+Luxeuil,
+Cuers,
+Hyeres,TLN
+Nimes,FNI
+Miquelon,MQC
+St.-pierre,FSP
+Amberieu,
+Damblain,
+Andravida,PYR
+Agrinion,AGQ
+Alexandroupolis,AXD
+Alexandria,
+Nea Anghialos,VOL
+Elefsis,
+Chios,JKH
+Ioannina,IOA
+Heraklion,HER
+Kastoria,KSO
+Kithira,KIT
+Keffallinia,EFL
+Kalamata,KLX
+Kavala,
+Kos,KGS
+Karpathos,AOK
+Kerkyra/corfu,CFU
+Kasos,KSJ
+Kavala,KVA
+Kozani,KZI
+Leros,LRS
+Limnos,LXS
+Larissa,LRA
+Megara,
+Mykonos,JMK
+Mytilini,MJT
+Preveza,PVK
+Rhodos,
+Rhodos,RHO
+Patras,GPA
+Chania,CHQ
+Skiathos,JSI
+Samos,SMI
+Lympne,LYM
+Sparti,
+Thira,JTR
+Sitia,JSH
+Stefanovikion,
+Skiros,SKU
+Tanagra,
+Kasteli,
+Tripolis,
+Thessaloniki,SKG
+Dekelia,
+Zakynthos,ZTH
+Budapest,BUD
+Debrecen,DEB
+Kecskemet,
+Nyirregyhaza,
+Ocseny,
+Sturgeon Bay,SUE
+Azentkilyszabadja,
+Szolnok,
+Amendola,
+Crotone,CRV
+Bari,BRI
+Foggia,FOG
+Grottaglie,TAR
+Lecce,LCC
+Pescara,PSR
+Brindisi,BDS
+Gioia Del Colle,
+Lamezia,SUF
+Catania,CTA
+Lampedusa,LMP
+Pantelleria,PNL
+Palermo,PMO
+Palermo,
+Reggio Calabria,REG
+Trapani,TPS
+Sigonella,NSY
+Alghero,AHO
+Decimomannu,DCI
+Cagliari,CAG
+Olbia,OLB
+Tortoli,TTB
+Turin,
+Milano,
+Milano,MXP
+Bergamo,BGY
+Torino,TRN
+Albenga,ALL
+Genoa,GOA
+Milan,LIN
+Cameri,
+Parma,PMF
+Piacenza,QPZ
+Stewartstown,0P2
+Cuneo,CUF
+Aviano,AVB
+Bolzano,BZO
+Cervia,
+Bologna,BLQ
+Treviso,TSF
+Rivolto,
+Forli,FRL
+Ghedi,
+Verona,
+Brescia,VBS
+Ronchi De Legionari,TRS
+Rimini,RMI
+Treviso,
+Vicenza,VIC
+Padova,QPA
+Villafranca,VRN
+Venice,VCE
+Siena,SAY
+Rome,CIA
+Pratica Di Mare,
+Rome,FCO
+Guidonia,
+Marina Di Campo,EBA
+Latina,QLT
+Grazzanise,
+Naples,NAP
+Pisa,PSA
+Florence,FLR
+Grosseto,GRS
+Rome,
+Viterbo,
+Perugia,PEG
+Cerklje,
+Ljubljana,LJU
+Maribor,MBX
+Portoroz,POW
+Slovenj Gradec,
+Ceske Budejovice,
+Caslav,
+Hradec Kralove,
+Horovice,
+Praha,
+Kunovice,
+Karlovy Vary,KLV
+Line,
+Mnichovo Hradiste,
+Ostrava,OSR
+Namest,
+Pardubice,PED
+Pribram,
+Prerov,PRV
+Prague,PRG
+Brno,BRQ
+Vodochody,
+Tel-aviv,TLV
+Beer-sheba,BEV
+Tel-nof,
+Eyn-shemer,
+Elat,ETH
+Eyn-yahav,
+Haifa,HFA
+Haztor,
+Rosh Pina,RPN
+Megido Airstrip,
+Metzada,
+Nevatim,
+Ovda,VDA
+Ramat David,
+Ramon,
+Tel-aviv,SDV
+Malta,MLA
+Wiener Neustadt Ost,
+Wels,
+Graz,GRZ
+Innsbruck,INN
+Linz,LNZ
+Salzburg,SZG
+Vienna,VIE
+Klagenfurt,
+Zeltweg,
+Alverca,
+Santa Maria (island),SMA
+Braganca,BGC
+Beja (madeira),
+Braga,
+Coimba,
+Cascais,
+Covilha,
+Evora,
+Flores,FLW
+Faro,FAO
+Graciosa Island,GRW
+Horta,HOR
+Lajes (terceira Island),TER
+Monte Real,
+Montijo,
+Ovar,
+Ponta Delgada,PDL
+Pico,PIX
+Portimao,
+Porto,OPO
+Porto Santo,PXO
+Lisbon,LIS
+Sao Jorge Island,SJZ
+Sintra,
+Tancos,
+Vila Real,VRL
+Viseu,
+Pendleton,PDT
+Mostar,OMO
+Sarajevo,SJJ
+Arad,ARW
+Bacau,BCM
+Baia Mare,BAY
+Bucharest,BBU
+Constanta,CND
+Cluj-napoca,CLJ
+Caransebes,CSB
+Craiova,CRA
+Iasi,IAS
+Oradea,OMR
+Bucharest,OTP
+Sibiu,SBZ
+Satu Mare,SUJ
+Suceava,SCV
+Tulcea,TCE
+Tirgu Mures,TGM
+Timisoara,TSR
+Les Eplatures,
+Geneva,GVA
+Saanen,
+Sion,SIR
+Alpnach,
+Dubendorf,
+Emmen,
+Mollis,
+Meiringen,
+Payerne,
+Buochs,
+Lugano,LUG
+Bern,BRN
+Grenchen,
+Zurich,ZRH
+Altenrhein,ACH
+Samedan,SMV
+Ankara,
+Ankara,ESB
+Ankara,ANK
+Ankara,
+Adana,ADA
+Adana,
+Afyon,AFY
+Antalya,AYT
+Gaziantep,GZT
+Iskenderun,
+Konya,KYA
+Malatya,
+Merzifon,MZH
+Sivas,VAS
+Malatya,MLX
+Kayseri,ASR
+Sivrihisar,
+Tokat,
+Denizli,DNZ
+Istanbul,IST
+Balikesir,BZI
+Bandirma,BDM
+Tyonek,TYE
+Eskisehir,ESK
+Izmir,ADB
+Izmir,
+Izmir,IGL
+Isparta,
+Kutahya,
+Yalova,
+Topel,
+Dalaman,DLM
+Akhisar,
+Riverton WY,RIW
+Bodrum,BXN
+Istanbul,
+Elazig,EZS
+Diyabakir,DIY
+Erzincan,ERC
+Erzurum,ERZ
+Trabzon,TZX
+Montrose CO,MTJ
+Van,VAN
+Batman,BAL
+Siirt,
+Izmir,
+Izmir,
+Saltsy,
+Chisinau,KIV
+Ohrid,OHD
+Skopje,SKP
+Gibraltar,GIB
+Belgrade,BEG
+Nis,INI
+Podgorica,TGD
+Pristina,PRN
+Tivat,TIV
+Vrsac,
+Bratislava,BTS
+Kosice,KSC
+Malacky,
+Piestany,PZY
+Sliac,SLD
+Trencin,
+Poprad,TAT
+Bolingbrook,1CS
+North Caicos,NCA
+Providenciales,PLS
+South Caicos,XSC
+Samana,EPS
+Barahona,BRX
+Cabo Rojo,
+La Romana,LRM
+Punta Cana,PUJ
+Puerto Plata,POP
+Santo Domingo,SDQ
+San Isidoro,
+Santiago,STI
+Bananera,
+Coban,CBV
+Guatemala City,GUA
+Retalhuleu,
+San Jose,
+La Ceiba,LCE
+San Pedro Sula,SAP
+Guanaja,GJA
+Roatan,RTB
+Tela,TEA
+Tegucigalpa,TGU
+Trujillo,
+Ocho Rios,OCJ
+Kingston,KIN
+Montego Bay,MBJ
+Port Antonio,POT
+Kingston,KTP
+Acapulco,ACA
+Monterrey,NTR
+Aguascalientes,AGU
+Huatulco,HUX
+Cuernavaca,CVJ
+Ciudad Acuna,
+Ciudad Del Carmen,CME
+Nuevo Casas Grandes,
+Chilpancingo,
+Culiacan,CUL
+Chetumal,CTM
+Ciudad Obregon,CEN
+Campeche,CPE
+Ciudad Juarez,CJS
+Chihuahua,CUU
+Ciudad Victoria,CVM
+Kenosha,ENW
+Cozumel,CZM
+Durango,DGO
+Tepic,TPQ
+Ensenada,ESE
+Guadalajara,GDL
+Guaymas,GYM
+Tehuacan,TCN
+Hermosillo,HMO
+Colima,CLQ
+Isla Mujeres,ISJ
+Saltillo,SLW
+Iztepec,
+Lazard Cardenas,LZC
+Los Mochis,LMM
+Del Bajio,BJX
+La Paz,LAP
+Loreto,LTO
+Matamoros,MAM
+Merida,MID
+Mexicali,MXL
+Morelia,MLM
+Minatitlan,MTT
+Monclova,LOV
+Mexico City,MEX
+Monterrey,MTY
+Mazatlan,MZT
+Nogales,NOG
+Nuevo Laredo,NLD
+Oaxaca,OAX
+Poza Rico,PAZ
+Puebla,PBC
+Pachuca,PCA
+Punta Penasco,PPE
+Piedras Negras,PDS
+Uruapan,UPN
+Puerto Vallarta,PVR
+Puerto Escondido,PXM
+Queretaro,QRO
+Reynosa,REX
+San Jose Del Cabo,SJD
+San Filipe,
+San Luis Potosi,SLP
+Tlaxcala,TXA
+Tuxtla Gutierrez,
+Torreon,TRC
+Tuxtla Gutierrez,TGZ
+Tijuana,TIJ
+Tampico,TAM
+Tamuin,TSL
+Toluca,TLC
+Tapachula,TAP
+Cancun,CUN
+Villahermosa,VSA
+Vera Cruz,VER
+Zacatecas,ZCL
+Zihuatanejo,ZIH
+Zamora,ZMM
+Manzanillo,ZLO
+Zapopan,
+Bluefields,BEF
+Los Brasiles,
+Leon,
+Managua,MGA
+Puerto Cabezas,PUZ
+Bocas Del Toro,BOC
+Changuinola,CHX
+David,DAV
+Howard,HOW
+Panama,PAC
+Santiago,
+Panama City,PTY
+Buenos Aires,
+Las Vegas,VGT
+Coto 47,OTR
+Chacarita,
+Georgetown,
+El Carmen,
+Finca 10,
+Golfito,GLF
+Guapiles,
+Liberia,LIR
+Los Chiles,
+Limon,LIO
+Nosara Beach,NOB
+San Jose,SJO
+Pandora,
+Palmar Sur,PMZ
+Quepos,XQP
+Santa Clara,
+San Vito De Jaba,
+San Salvador,SAL
+San Salvador,
+Cayes,
+Cap Haitien,CAP
+Jacmel,
+Port-au-prince,PAP
+Baracoa Playa,BCA
+Bayamo,BYM
+Ciego De Avila,AVI
+Cunagua,
+Cienfuegos,CFG
+Cayo Largo del Sur,CYO
+Camaguey,CMW
+Santiago De Cuba,SCU
+Florida,
+Guantanamo,
+Guantanamo,GAO
+Havana,HAV
+Holguin,HOG
+La Coloma,LCL
+Moa,MOA
+Manzanillo,MZO
+Nueva Gerona,GER
+Baracoa Playa,
+Pinar Del Rio Norte,
+San Antonio De Banos,
+Santa Clara,SNU
+Santa Lucia,
+Siguanea,
+Sancti Spiritus,
+Lake Geneva,C02
+Varadero,VRA
+Las Tunas,VTU
+Cayman Barac,CYB
+Georgetown,GCM
+Clarence Bain,
+Andros Town,ASD
+Marsh Harbor,MHH
+San Andros,SAQ
+Spring Point,AXP
+Sandy Point,
+Treasure Cay,TCB
+Chub Cay,CCZ
+Bullocks Harbour,
+Alice Town,BIM
+De Kalb,DKB
+Great Exuma,GGT
+George Town,
+North Eleuthera,ELH
+Governor's Harbor,GHB
+Norman's Cay,
+Rock Sound,RSD
+Staniel Cay,
+Freeport,FPO
+Matthew Town,IGA
+Dead Man's Cay,LGI
+Stella Maris,SML
+Mayaguana,MYG
+Nassau,NAS
+Duncan Town,
+Port Nelson,
+Cockburn Town,ZSA
+Belize City,BZE
+Aitutaki,AIT
+Avarua,RAR
+Nandi,NAN
+Nausori,SUV
+Tongatapu,TBU
+Vava'u,VAV
+Tarawa,TRW
+Tabiteuea North,TBF
+Maitland,MTL
+Wallis,WLS
+Faleolo,APW
+Pago Pago,PPG
+Rurutu,RUR
+Tubuai,TUB
+Anaa,AAA
+Fangatau,
+Tikehau,TIH
+Reao,REA
+Fakarava,FAV
+Manihi,XMH
+Totegegie,GMR
+Kaukura Atoll,KKR
+Makemo,MKP
+Puka Puka,PKP
+Takapoto,TKP
+Arutua,AXR
+Mataiva,MVT
+Takaroa,TKX
+Nuku Hiva,NHV
+Lafayette,LAF
+Bora Bora,BOB
+Rangiroa,RGI
+Huahine Island,HUH
+Moorea,MOZ
+Hao Island,HOI
+Maupiti,MAU
+Raiatea Island,RFP
+Port-vila,VLI
+Kone,KNQ
+Koumac,KOC
+Lifou,LIF
+Noumea,GEA
+Mare,MEE
+Touho,TOU
+Ouvea,UVE
+Noumea,NOU
+Auckland,AKL
+Taupo,TUO
+Ardmore,AMZ
+Christchurch,CHC
+Chatham Island,CHT
+Dunedin,DUD
+Gisborne,GIS
+Glentanner,MON
+Hokitika,HKK
+Hamilton,HLZ
+Hastings,
+Kerikeri,KKE
+Kaitaia,KAT
+Alexandra,ALR
+Mount Cook,GTN
+Manapouri,TEU
+Masterton,MRO
+New Plymouth,NPL
+Nelson,NSN
+Invercargill,IVC
+Ohakea,
+Oamaru,OAM
+Palmerston North,PMR
+Paraparaumu,PPQ
+Queenstown International,ZQN
+Rotorua,ROT
+Waiouru,
+Stephen's Island,
+Tauranga,TRG
+Timaru,TIU
+Pukaki,
+Woodbourne,BHE
+Weydon,
+Wanaka,WKA
+Wigram,
+Whakatane,WHK
+Wellington,WLG
+Wairoa,
+Whenuapai,
+Whangarei,WRE
+Westport,WSZ
+Wanganui,WAG
+Herat,HEA
+Jalalabad,JAA
+Kabul,KBL
+Kandahar,KDH
+Maimama,MMZ
+Mazar-i-sharif,MZR
+Shindand,
+Sheberghan,
+Kunduz,UND
+Bahrain,BAH
+Bahrain,
+Abha,AHB
+Al-ahsa,HOF
+El-baha,ABT
+Bisha,BHH
+Abqaiq,
+Dammam,DMM
+Dhahran,DHA
+Gizan,GIZ
+Gassim,ELQ
+Guriat,URY
+Hail,HAS
+Jubail,
+Jeddah,
+Jeddah,JED
+King Khalid Mil.city,HBT
+Madinah,MED
+Nejran,EAM
+Hafr Al-batin,AQI
+Petroline 3,
+Petroline 6,
+Petroline 10,
+Rabigh,
+Rafha,RAH
+Riyadh,RUH
+Rash Mishab,
+Arar,RAE
+Ras Tanura,
+Sharurah,SHW
+Mudgee,DGE
+Sulayel,SLF
+Tabuk,TUU
+Taif,TIF
+Thumamah,
+Ras Tanajib,
+Turaif,TUI
+Oxford,OXD
+Wejh,EJH
+Yenbo,YNB
+Abadan,ABD
+Dezful,
+Aghajari,
+Gachsaran,
+Masjed Soleiman,QMJ
+Omidyeh,
+Bandar Mahshahr,MRX
+Ahwaz,AWZ
+Abumusa I.,
+Bushehr,BUZ
+Bastak,
+Golbandi,
+Kish Island,KIH
+Bandar Lengeh,BDH
+Khark Island,
+Siri Island,
+Lavan Island,
+Bakhtaran,KSH
+Sanandaj,SDG
+Daran,
+Esfahan,
+Kashan,
+Esfahan,
+Sepah,
+Rasht,RAS
+Muncie,MIE
+Arak,
+Abe-ali,
+Kushke Nosrat,
+Teheran,
+Abyek,
+Teheran,
+Teheran,THR
+Ghazvin,
+Khoram Dareh,
+Bandar Abbas,BND
+Jiroft,
+Kerman,KER
+Bandar Abbas,
+Gheshm I.,
+Sirjan,
+Birjand,XBJ
+Sarakhs,
+Emam Shahr,
+Airlie Beach,WSY
+Tabas,
+Kalaleh,
+Ramsar,RZR
+Rafaela,RAF
+Fasa,
+Jahrom,
+Lamerd,
+Shiraz,SYZ
+Khoy,
+Sabadell,QSA
+Tabriz,TBZ
+Zanjan,
+Yazd,AZD
+Zabol,
+Chah Bahar,ZBR
+Zahedan,ZAH
+Iran Shahr,
+Saravan,
+Amman,AMM
+Amman,ADJ
+Aqaba,AQJ
+Hotel Four,
+Jerusalem,
+Mafraq,OMF
+Kuwait,KWI
+Beirut,BEY
+Kleiat,
+Abu Dhabi,AUH
+Abu Dhabi,AZI
+Al Hamra,
+Jebel Dhana,
+Myvatn,MVA
+Abu Dhabi,
+Arzana,
+Das Island,
+Zirku,
+Dubai,DXB
+Fujeirah,FJR
+Ras Al Khaimah,RKT
+Sharjah,SHJ
+Khasab,KHS
+Masirah,MSH
+Muscat,MCT
+Salalah,SLL
+Thumrait,TTH
+Bhagtanwala,
+Spray View,
+Lyon,XYD
+Faisalabad,LYP
+Gwadar,GWD
+Gilgit,GIL
+Jacobsbad,
+Karachi,KHI
+Lahore,LHE
+Lahore,
+Mangla,
+Muzaffarabad,MFG
+Mianwali,
+Moenjodaro,MJD
+Karachi,
+Multan,MUX
+Nawabshah,WNS
+Okara,
+Panjgur,PJG
+Pasni,PSI
+Peshawar,PEW
+Qasim,
+Quetta,UET
+Rahim Yar Khan,RYK
+Islamabad,ISB
+Risalpur,
+Rawala Kot,RAZ
+Point Roberts,1RL
+Sukkur,SKZ
+Saidu Sharif,SDT
+Sui,SUL
+Talhar,BDN
+Wana,
+Zhob,PZH
+Basrah,BSR
+Aleppo,ALP
+Damascus,DAM
+Deire Zor,DEZ
+Latakia,LTK
+Palmyra,PMS
+Doha,DOH
+Canton Island,CIS
+Rota,ROP
+Saipan,SPN
+Andersen,UAM
+Agana,GUM
+West Tinian,TIQ
+Scone,NSO
+Majuro,MAJ
+Kwajalein,
+Kwajalein,KWA
+Kiritimati,CXI
+Midway,MDY
+Chuuk,TKK
+Pohnpei,PNI
+Babelthuap,ROR
+Kosrae,KSA
+Yap,YAP
+Kinmen,KNH
+Pingtung,PIF
+Longtang,
+Fengnin,TTT
+Green Island,GNI
+Kaohsiung,KHH
+Chiayi,CYI
+Lanyu,KYD
+Taichung,RMQ
+Cessnock,CES
+Tainan,TNN
+Hsinchu,
+Makung,MZG
+Taitung,
+Pingtung,
+Taipei,TSA
+Taipei,TPE
+Wang An,WOT
+Hualien,HUN
+Tokyo,NRT
+Matsumoto,MMJ
+Ibaraki,IBR
+Minami Tori Shima,
+Iwojima,IWO
+Nanki-shirahama,SHM
+Kohnan,
+Obihiro,OBO
+Sapporo,CTS
+Hakodate,HKD
+Chitose,SPK
+Memanbetsu,MMB
+Nakashibetsu,SHB
+Tokachi,
+Wakkanai,WKJ
+Iki,IKI
+Yamaguchi,UBJ
+Tsushima,TSJ
+Monbetsu,MBE
+Asahikawa,AKJ
+Okushiri,OIR
+Rishiri Island,RIS
+Ashiya,
+Yakushima,KUM
+Fukue,FUJ
+Fukuoka,FUK
+Tanegashima,TNE
+Kagoshima,KOJ
+Miyazaki,KMI
+Nyutabaru,
+Oita,OIT
+Kitakyushu,KKJ
+Kumamoto,KMJ
+Nagasaki,NGS
+Kanoya,
+Tsuiki,
+Amami,ASJ
+Okierabu,
+Tokunoshima,TKN
+Fukui,
+Gifu,
+Hamamatsu,
+Kanazawa,KMQ
+Oki Island,OKI
+Toyama,TOY
+Yaizu,
+Hiroshima,HIJ
+Okayama,OKJ
+Izumo,IZO
+Hofu,
+Miho,YGJ
+Iwakuni,
+Kochi,KCZ
+Matsuyama,MYJ
+Osaka,ITM
+Tottori,TTJ
+Tokushima,TKS
+Takamatsu,TAK
+Osaka,
+Ozuki,
+Aomori,AOJ
+Yamagata,GAJ
+Sado,
+Hachinoe,
+Hanamaki,HNA
+Akita,AXT
+Misawa,MSJ
+Sendai,SDJ
+Matsushima,
+Sazena,LKS
+Atsugi,
+Tateyama,
+Hachijojima,HAC
+Iruma,
+Kisarazu,
+Shimofusa,
+Oshima,OIM
+Zama,
+Tokyo,HND
+Yokota,OKO
+Kwangju,KWJ
+Jhunju,
+Yeosu,RSU
+Sokch'o,SHO
+Kangnung,KAG
+Macomb,MQB
+Cheju,CJU
+Chinhae,
+Busan,PUS
+Bungle Bungle,
+Ulsan,USN
+Pyongtaek,
+Seoul East,SSN
+Osan,OSN
+Seoul,GMP
+Suwon,
+Pohang,KPO
+Taegu,TAE
+Yechon,YEC
+Okinawa,OKA
+Iejima,
+Kadena,DNA
+Ishigaki,ISG
+Kumejima,UEO
+Minami Daito,MMD
+Miyako,MMY
+Kitadaito,KTD
+Shimojishima,SHI
+Tarama,
+Yoron,RNJ
+Futema,
+Yonaguni Jima,OGN
+Manila,MNL
+Mary,MYP
+Cotabato,CBO
+Ladag,CGY
+Pagadian,PAG
+Romblon,
+Tsavo East,
+Zamboanga,ZAM
+Baguio,BAG
+Daet,
+Floridablanca,
+Lingayen,
+San Jose,
+Lipa,
+Mamburao,
+Vigan,
+Baler,
+Kimana,
+Solio,
+Kalundborg,
+Bagabag,
+Tacloban,TAC
+Bacolod,BCD
+Oslo,GEN
+Dumaguete,DGT
+Caticlan,
+Guiuan,
+Iloilo,ILO
+Kalibo,KLO
+Masbate,
+Wausau,AUW
+Puerto Princesa,PPS
+San Jose,SJI
+Concordia,COC
+Gualeguaychu,GHU
+Junin,
+Parana,PRA
+Rosario,ROS
+Santa Fe,SFN
+Buenos Aires,AEP
+Cordoba,COR
+Gobernador Gordillo,
+San Fernando,
+Jose C. Paz,
+La Plata,LPG
+Moron,
+El Palomar,
+Chosmadal,
+Fuerte Gral Roca,
+Mendoza,MDZ
+Malargue,LGS
+San Rafael,AFA
+Catamarca,CTC
+Santiago Del Estero,SDE
+Tinogasta,
+La Rioja,IRJ
+Chilecito,
+Tucuman,TUC
+San Julian,UAQ
+Rio Cuarto,RCU
+Villa Dolores,VDR
+Laboulaye,
+Marcos Juarez,
+Villa Reynolds,
+San Luis,LUQ
+Corrientes,CNQ
+Resistencia,RES
+Formosa,FMA
+Iguazu Falls,IGR
+Paso De Los Libres,AOL
+Monte Caseros,
+Posadas,PSS
+Presidencia R.s.pena,
+Salta,SLA
+Jujuy,JUJ
+Oran,ORA
+La Quiaca,
+Portage,C47
+El Dorado,
+Goya,
+Obera,
+Reconquista,
+Curuzu Cuatia,
+El Bolson,EHL
+Comodoro Rivadavia,CRD
+Esquel,EQS
+Trelew,REL
+Viedma,VDM
+Puerto Madryn,PMY
+Marambio Base,
+Puerto Deseado,PUD
+Rio Grande,RGA
+Rio Gallegos,RGL
+Ushuaia,USH
+San Julian,ULA
+Perito Moreno,PMQ
+Santa Cruz,RZA
+Bahia Blanca,BHI
+Colonel Suarez,
+Olavarria,
+General Pico,
+Tres Arroyos,
+Bolivar,
+Ironwood,IWD
+Mar Del Plata,MDQ
+Neuquen,NQN
+Mackinac Island,MCD
+Pehuajo,
+Santa Rosa,RSA
+San Carlos De Bariloche,BRC
+Tandil,TDL
+Villa Gesell,VLG
+Cutralco,
+San Martin Des Andes,CPC
+Conceicao Do Araguaia,CDJ
+Rio De Janeiro,
+Amapa,
+Araracuara,AQA
+Aracaju,AJU
+Assis,
+Alta Floresta,AFL
+Aracatuba,ARU
+Belem,BEL
+Bage,BGX
+Belo Horizonte,PLU
+Curitiba,BFH
+Barbacena,
+Brasilia,BSB
+Bauru,BAU
+Boa Vista,BVB
+Barra Do Garcas,
+Cascavel,CAC
+Itaituba,
+Belo Horizonte,CNF
+Campo Grande,CGR
+Chapeco,XAP
+Carolina,CLN
+Criciuma,CCM
+Porto Alegre,
+Campos,CAW
+Corumba,CMG
+Curitiba,CWB
+Caravelas,CRQ
+Caxias Do Sul,CXJ
+Cuiaba,CGB
+Cruzeiro do Sul,CZS
+President Prudente,PPB
+Manaus,MAO
+Jacare-acanga,
+Sao Pedro Da Aldeia,
+Foz Do Iguacu,IGU
+Florianopolis,FLN
+Fernando Do Noronha,FEN
+Fronteira,
+Alpinopolis,
+Fortaleza,FOR
+Rio De Janeiro,GIG
+Guajara-mirim,
+Goiania,GYN
+Macae,
+Sao Paulo,GRU
+Guaratingueta,
+Altamira,ATM
+Itaituba,
+Itaituba,
+Ilheus,IOS
+Ipatinga,IPN
+Itumbiara,
+Imperatriz,IMP
+Belem,
+Juiz De Fora,JDF
+Joao Pessoa,JPA
+Joinville,JOI
+Campina Grande,CPV
+Campinas,VCP
+Lajes,
+Lins,LIP
+Londrina,LDB
+Bom Jesus Da Lapa,LAZ
+Lagoa Santa,
+Maraba,MAB
+Almeirim,
+Maringa,MGF
+Montes Claros,MOC
+Grand Marais,GRM
+Manaus,
+Maceio,MCZ
+Macapa,MCP
+Mocord,
+Sao Paulo,
+Manicore,MNX
+Navegantes,NVT
+Santo Angelo,GEL
+Natal,NAT
+Oioiapoque,
+Porto Alegre,POA
+Parnaiba,
+Pocos De Caldas,POO
+Passo Fundo,PFB
+Pelotas,PET
+Petrolina,PNZ
+Porto Nacional,PNB
+Ponta Pora,PMG
+Porto Velho,PVH
+Valparaiso,NPZ
+Rio Branco,RBR
+Recife,REC
+Rio Grande,RIG
+Rio De Janeiro,SDU
+Ribeirao Preto,RAO
+Rio De Janeiro,STU
+Sao Jose Dos Campos,SJK
+Sao Luis,SLZ
+Sao Paulo,CGH
+Sao Jose Do Rio Preto,SJP
+Santos,SSZ
+Salvador,SSA
+Oriximina,TMT
+Teresina,THE
+Tefe,TFF
+Tarauaca,
+Telemaco Borba,
+Obidos Tirios,
+Tabatinga,TBT
+Tucurui,TUR
+Sao Gabriel,
+Paulo Alfonso,PAV
+Uruguaiana,URG
+Uberlandia,UDI
+Castilho,
+Uberaba,UBA
+Varginha,VAG
+Vilhena,BVH
+Vitoria,VIX
+Iauarete,
+Piracununga,QPS
+Arica,ARI
+Balmaceda,BBA
+Santiago,
+Chile Chico,CCH
+Calama,CJC
+Chillan,
+Punta Arenas,PUQ
+Coyhaique,GXQ
+Iquique,IQQ
+Santiago,SCL
+Antofagasta,ANF
+Porvenir,
+Futaleufu,
+Los Angeles,LSQ
+Puerto Williams,
+Concepcion,CCP
+Easter Island,IPC
+Osorno,ZOS
+Vallenar,
+Rancagua,
+Isla Rey Jorge,
+La Serena,LSC
+Santiago,
+Temuco,ZCO
+Puerto Montt,PMC
+Chaiten,WCH
+Valdivia,ZAL
+Ambato,ATF
+Clementia,
+Coca,OCC
+Cuenca,CUE
+Galapagos,GPS
+Guayaquil,GYE
+Gualaquiza,
+Ibarra,
+Km-192,
+La Julia,
+Latacunga,
+Macara,
+Macas,XMS
+Machala,MCH
+Montalvo,
+Manta,MEC
+Maragrosa,
+Pasaje,
+Portoviejo,PVO
+Quevedo,
+Quito,UIO
+Riobamba,
+Santa Rosa,
+Salinas,SNC
+Santo Domingo,
+Taura,
+Tena,
+Tarapoa,TPC
+Tulcan,TUA
+Silverton,
+Asuncion,ASU
+Ayolas,
+Conception,
+Itaipu,
+Mariscal Estigarribia,
+Pilar,
+Armenia,AXM
+Puerto Asis,PUU
+El Banco,
+Bucaramanga,BGA
+Bogota,BOG
+Barranquilla,BAQ
+Bahia Solano,BSC
+Buenaventura,BUN
+Cucuta,CUC
+Cartagena,CTG
+Cali,CLO
+Tumaco,TCO
+Corozal,CZU
+Barrancabermeja,EJA
+Florencia,FLA
+Girardot,
+McCarthy,MXY
+Guapi,GPI
+Guaymaral,
+Ibague,IBE
+Ipiales,IPI
+Carepa,
+La Mina,
+Leticia,LET
+Medellin,EOH
+Magangue,MGN
+Monteria,MTR
+Mitu,MVP
+Manizales,MZL
+Neiva,NVA
+Ocana,OCV
+Otu,OTU
+Puerto Bolivar,
+Puerto Carreno,PCR
+Pereira,PEI
+Pitalito,
+Popayan,PPN
+Pasto,PSO
+Providencia,PVA
+Mariquita,
+Rio Negro,MDE
+Rio Hacha,RCH
+San Jose Del Guaviare,SJE
+Santa Marta,SMR
+San Andres Island,ADZ
+San Vincente De Caguan,SVI
+Tame,TME
+Arauca,AUC
+Quibdo,UIB
+Tulua,ULQ
+Valledupar,VUP
+Villavicencio,VVC
+Bermejo,BJO
+Cochabamba,CBB
+Chapacura,
+Cobija,CIJ
+La Paz,LPB
+Oruro,
+Potosi,POI
+Puerto Suarez,PSZ
+Santa Ana,
+Sucre,SRE
+Tarija,TJA
+Trinidad,TDD
+Villa Montes,
+Santa Cruz,VVI
+Yacuiba,BYC
+Zandery,PBM
+Cayenne,CAY
+St.-georges Oyapock,
+Huancabamba,
+Andoas,
+Atalaya,
+Seward,SWD
+Iberia,
+Pucallpa,PCL
+Chimbote,CHM
+Puerto Esperanza,
+Moquegua,
+Chiclayo,CIX
+Ayacucho,AYP
+Andahuaylas,ANS
+Anta,ATA
+Lima,LIM
+Juanjui,JJI
+Jauja,
+Juliaca,JUL
+Michigan City,MGC
+Ilo,
+Las Palmas,
+Tumbes,TBP
+Yurimaguas,YMS
+Collique,
+Chachapoyas,CHH
+Iquitos,IQT
+Arequipa,AQP
+San Ramon,
+Trujillo,TRU
+Pisco,PIO
+Tarapoto,TPP
+Tacna,TCQ
+Puerto Maldonado,PEM
+Piura,PIU
+Talara,TYL
+Niijima,
+Cuzco,CUZ
+Montevideo,
+Durazno,
+East Glacier,
+Montevideo,MVD
+Salto,STY
+Acarigua,AGV
+Anaco,AAO
+San Fernando Deatabapo,
+Barcelona,BLA
+Barinas,BNS
+Maracaibo,
+Barquisimeto,BRM
+Ciudad Bolivar,CBL
+Caicara De Orinoco,
+San Carlos,
+Calabozo,
+Canaima,CAJ
+Carora,
+Carupano,CUP
+Coro,CZE
+Caracas,
+Cumana,CUM
+Carrizal,
+El Dorado,
+Elorza,
+Guasdualito,
+Guiria,GUI
+Guanare,GUQ
+Higuerote,
+Isla De Coche,
+Paraguana,LSP
+San Juan De Los Morros,
+La Fria,LFR
+La Orchila,
+Maracaibo,MAR
+Merida,MRD
+Porlamar,PMV
+Caracas,CCS
+Maturin,MUN
+Puerto Ayacucho,PYH
+Puerto Cabello,PBL
+San Cristobal,
+Guayana,PZO
+Palmarito,
+San Antonio,SVZ
+Santa Barbara,
+Santa Ana De Uairen,
+Santo Domingo,STD
+San Felipe,SFH
+San Fernando De Apure,SFD
+San Tome,SOM
+Santa Barbara,STB
+Tucupita,TUV
+Tumeremo,
+Valencia,VLN
+Hoexter Holzminden,
+Valera,VLV
+Valle De La Pascua,VDP
+Linden,
+Lethem,LTM
+Antigua,ANU
+Bridgetown,BGI
+Canefield,DCF
+Dominica,DOM
+Fort-de-france,FDF
+St. Martin,SFG
+Pointe-a-pitre,PTP
+Point Salines,GND
+St. Thomas,STT
+St. Croix Island,STX
+Aguadilla,BQN
+Fajardo,FAJ
+San Juan,SIG
+Mayaguez,MAZ
+Ponce,PSE
+San Juan,SJU
+Basse Terre,SKB
+Dinslaken,
+Castries,SLU
+Hewandorra,UVF
+Oranjestad,AUA
+Kralendijk,BON
+Willemstad,CUR
+Oranjestad,EUX
+Philipsburg,SXM
+The Valley,AXA
+Scarborough,TAB
+Port-of-spain,POS
+Tortola,EIS
+Allakaket,AET
+Canouan Island,CIW
+Mustique,MQS
+Kingstown,SVD
+Alma-ata,ALA
+Balkhash,
+Tselinograd,TSE
+Dzhambul,DMB
+Bishkek,FRU
+Osh,OSS
+Chimkent,CIT
+Yakutat,YAK
+Uralsk,URA
+Pavlodar,PWQ
+Semiplatinsk,PLX
+Shevchenko,
+Aktyubinsk,AKX
+Baku,GYD
+Yakutsk,YKS
+Mirnyj,MJZ
+Blagoveschensk,BQS
+Khabarovsk,KHV
+Marquette,MQT
+Provideniya Bay,PVS
+Magadan,GDX
+Pevek,PWE
+Petropavlovsk,PKC
+Yuzhno-sakhalinsk,UUS
+Vladivostok,VVO
+Chita,HTA
+Bratsk,BTK
+Irkutsk,IKT
+Ulan-ude,UUD
+Kiev,KBP
+Donetsk,DOK
+Dnepropetrovsk,DNK
+Simferopol,SIP
+Kiev,IEV
+Lvov,LWO
+Iron Mountain,IMT
+Odessa,ODS
+St. Petersburg,LED
+Murmansk,MMK
+Gomel,GME
+Vitebsk,VTB
+Kaliningrad,KGD
+Minsk,MHP
+Minsk 2,MSQ
+Abakan,ABA
+Barnaul,BAX
+Kemorovo,KEJ
+Omsk,OMS
+Krasnodar,KRR
+Makhachkala,MCX
+Mineralnye Vody,MRV
+Stavropol,STW
+Rostov,ROV
+Sochi,AER
+Astrakhan,ASF
+Volgograd,VOG
+Chelyabinsk,CEK
+Magnetiogorsk,MQF
+Claris,GBZ
+Nizhnevartovsk,NJC
+Perm,PEE
+Surgut,SGC
+Yekaterinburg,SVX
+Ashkhabad,ASB
+Krasnovodsk,KRW
+Chardzhou,
+Dushanbe,DYU
+Bukhara,BHK
+Samarkand,SKD
+Doha,IUD
+Tashkent,TAS
+Bryansk,BZK
+Moscow,SVO
+Tver,KLD
+Voronezh,VOZ
+Moscow,VKO
+Syktyvkar,SCW
+Kazan,KZN
+Orenburg,REN
+Ufa,UFA
+Samara,KBY
+Ahmedabad,AMD
+Akola,AKD
+Aurangabad,IXU
+Mumbai,BOM
+Bilaspur,PAB
+Bhuj,BHJ
+Belgaum,IXG
+Baroda,BDQ
+Bhopal,BHO
+Bhaunagar,BHU
+Daman,NMB
+Deesa,
+Guna,
+Goa,GOI
+Indore,IDR
+Jabalpur,JLR
+Jamnagar,JGA
+Kandla,IXY
+Khajuraho,HJR
+Kolhapur,KLH
+Keshod,IXK
+Nagpur,NAG
+Nasik Road,ISK
+Pune,PNQ
+Porbandar,PBD
+Rajkot,RAJ
+Raipur,RPR
+Sholapur,SSE
+Surat,STV
+Udaipur,UDR
+Colombo,CMB
+Anuradhapura,
+Batticaloa,
+Colombo,RML
+Galoya,GOY
+Jaffna,JAF
+Trinciomalee,TRR
+Kirkuk,KIK
+Kompong Chnang,
+Phnom-penh,PNH
+Siem-reap,REP
+Stung Treng,
+Along,
+Agartala,IXA
+Aizwal,AJL
+Baghdogra,IXB
+Bokaro,
+Bhubaneswar,BBI
+Kolkata,CCU
+Cooch-behar,COH
+Dhanbad,DBD
+Escanaba,ESC
+Lillinghof,
+Gaya,GAY
+Hirakud,
+Imphal,IMF
+Jharsuguda,
+Jamshedpur,IXW
+Jorhat,JRH
+Kailashahar,IXH
+Silchar,IXS
+Lilabari,IXI
+Mohanbari,MOH
+Mazuffarpur,
+Nawapara,
+Panagarh,
+Patina,PAT
+Purnea,
+Ranchi,IXR
+Rourkela,RRK
+Utkela,
+Vishakhapatnam,VTZ
+Zero,
+Cox's Bazar,CXB
+Chittagong,CGP
+Ishurdi,IRD
+Jessore,JSR
+Rajshahi,RJH
+Saidpur,SPD
+Sylhet Osmani,ZYL
+Dhaka,
+Dhaka,DAC
+Hong Kong,HKG
+Sek Kong,
+Agra,AGR
+Allahabad,IXD
+Amritsar,ATQ
+Bikaner,
+Bakshi Ka Talab,
+Varanasi,VNS
+Kulu,KUU
+Bhatinda,
+Bhiwani,
+Bareilly,
+Chandigarh,IXC
+Kanpur,
+Delhi,
+Dehra Dun,DED
+Delhi,DEL
+Gwalior,GWL
+Hissar,
+Jhansi,
+Jodhpur,JDH
+Jaipur,JAI
+Jaisalmer,JSA
+Jammu,IXJ
+Kanpur,KNU
+Kota,KTU
+Ludhiaha,LUH
+Leh,IXL
+Lucknow,LKO
+Pathankot,IXP
+Patiala,
+Nainital,PGH
+Raibarelli,
+Saharanpur,
+Srinagar,SXR
+Satna,TNI
+Balkhash,BXH
+Luang Prabang,LPQ
+Pakse,PKZ
+Phong Savanh,
+Savannakhet,ZVK
+Sam Neua,
+Vientiane,VTE
+Macau,MFM
+Bhairawa,BWA
+Nastaetten,
+Janakpur,
+Kathmandu,KTM
+Pokhara,PKR
+Simara,SIF
+Biratnagar,BIR
+Agatti Island,AGX
+Bangalore,BLR
+Bellary,BEP
+Bidar,
+Vijayawada,VGA
+Coimbatore,CJB
+Kochi,COK
+Calicut,CCJ
+Cuddapah,CDP
+Carnicobar,
+Dundigul,
+Hyderabad,HYD
+Madurai,IXM
+Mangalore,IXE
+Madras,MAA
+Nagarjunsagar,
+Port Blair,IXZ
+Pendicherry,PNY
+Rajahmundry,RJA
+Salem,
+Tanjore,
+Tirupeti,TIR
+Tiruchirappalli,TRZ
+Trivandrum,TRV
+Tambaram,
+Thimphu,PBH
+Male,MLE
+Bangkok,DMK
+Nakhon Pathom,
+Lop Buri,
+Naha,NAH
+Pattaya,UTP
+Prachin Buri,
+Lampang,LPT
+Phrae,PRH
+Prachuap Khiri Khan,HHQ
+Nakhon Sawan,
+Phetchabun,
+Nakhon Sawan,
+Phitsanulok,PHS
+Tak,
+Satun,
+Narathiwat,NAW
+Krabi,KBV
+Songkhla,
+Pattani,PAN
+Ko Samui,USM
+Nakhon Si Thammarat,
+Phuket,HKT
+Ranong,
+Hat Yai,HDY
+Trang,TST
+Udon Thani,UTH
+Sakon Nakhon,SNO
+Surin,
+Loei,LOE
+Nakhon Ratchasima,
+Roi Et,
+Finsterwalde,
+Fraser Island,OKB
+Mara Lodges,
+Danang,DAD
+Hanoi,
+Kep,
+Hanoi,HAN
+Nhatrang,NHA
+Hue,
+Namanga,
+Phuquoc,
+Ho Chi Minh City,SGN
+Ann,
+Anisakan,
+Bagan,
+Bamburi,BMQ
+Coco Island,
+Heho,HEH
+Hommalin,
+Kengtung,KET
+Marion,MWA
+Kyaukpyu,KYP
+Lommis,
+Lashio,LSH
+Lanywa,
+Mandalay,MDL
+Myeik,MGZ
+Myitkyina,MYT
+Momeik,
+Mong Hsat,MOG
+Nampong,
+Namsang,
+Hpa-an,
+Amlikon,
+Putao,PBU
+Pyay,
+Shante,
+Sittwe,AKY
+Thandwe,SNW
+Tachilek,THL
+Taungoo,
+Yangon,RGN
+Ujung Pandang,UPG
+Biak,BIK
+Nabire,NBX
+Timika,TIM
+Jayapura,DJJ
+Wamena,WMX
+Merauke,MKQ
+Gorontalo,GTO
+Seoul,ICN
+Palu,PLW
+Manado,MDC
+Poso,PSJ
+Morotai Island,OTI
+Ternate,TTE
+Luwuk,LUW
+Mukacheve,
+Ambon,AMQ
+Fak Fak,FKQ
+Kaimana,KNG
+Babo,BXB
+Manokwari,MKW
+Sorong,SOQ
+Bintulu,BTU
+Kuching,KCH
+Limbang,LMN
+Marudi,MUR
+Miri,MYY
+Sibu,SBW
+Lahad Datu,LDU
+Kota Kinabalu,BKI
+Labuan,LBU
+Tawau,TWU
+Bandar Seri Begawan,BWN
+Pekanbaru,PKU
+Dumai,DUM
+Jakarta,CGK
+Gunung Sitoli,GNS
+Padang Sidempuan,
+Padang,PDG
+Medan,MES
+Sibolga,
+Nangapinoh,
+Ketapang,KTG
+Mukacheve,
+Pontianak,PNK
+Minsk,
+Hellwege,
+Jambi,DJB
+Bengkulu,BKS
+Palembang,PLM
+Rengat,RGT
+Lhok Sukon,
+Strymba,BZY
+Banda Aceh,BTJ
+Kluang,
+Alor Setar,AOR
+Butterworth,
+Kota Bahru,KBR
+Kuantan,KUA
+Kerteh,KTE
+Simpang,
+Ipoh,IPH
+Johor Bahru,JHB
+Kuala Lumpur,KUL
+Pulau,LGK
+Malacca,MKZ
+Kuala Terengganu,TGG
+Penang,PEN
+Suai,
+Dili,DIL
+Baucau,
+Sembawang,
+Paya Lebar,QPG
+Tengah,
+Singapore,XSP
+Singapore,SIN
+Brisbane,
+Amberley,ABM
+Alice Springs,ASP
+Brisbane,BNE
+Coolangatta,OOL
+Cairns,CNS
+Charlieville,CTL
+Mount Isa,ISA
+Maroochydore,MCY
+Mackay,MKY
+Prosserpine,PPP
+Rockhampton,ROK
+Townsville,TSV
+Weipa,WEI
+Avalon,AVV
+Albury,ABX
+Melbourne,MEB
+East Sale,
+Hobart,HBA
+Launceston,LST
+Melbourne,MBW
+Melbourne,MEL
+Point Cook,
+Adelaide,ADL
+Edinburgh,
+Perth,JAD
+Karratha,KTA
+Kalgoorlie,KGI
+Kununurra,KNX
+Learmonth,LEA
+Port Hedland,PHE
+Adelaide,
+Perth,PER
+Woomera,UMR
+Christmas Island,XCH
+Sydney,BWU
+Canberra,CBR
+Coff's Harbour,CFS
+Camden,CDU
+Dubbo,DBO
+Norfolk Island,NLK
+Richmond,RCM
+Sydney,SYD
+Tamworth,TMW
+Wagga Wagga,WGA
+Beijing,PEK
+Hongyuan,
+Hailar,HLD
+Tianjin,TSN
+Taiyuan,TYN
+Guangzhou,CAN
+Changcha,CSX
+Guilin,KWL
+Nanning,NNG
+Shenzhen,SZX
+Zhengzhou,CGO
+Wuhan,WUH
+Pyongyang,FNJ
+Lanzhou,ZGC
+Xi'an,XIY
+Ulan Bator,ULN
+Jinghonggasa,
+Kunming,KMG
+Xiamen,XMN
+Nanchang,KHN
+Fuzhou,FOC
+Hangzhou,HGH
+Ninbo,NGB
+Nanjing,NKG
+Hefei,HFE
+Qingdao,TAO
+Shanghai,SHA
+Yantai,YNT
+Chongqing,CKG
+Guiyang,KWE
+Chengdu,CTU
+Xichang,XIC
+Kashi,KHG
+Hotan,HTN
+Urumqi,URC
+Harbin,HRB
+Hohenems,HOJ
+Mudanjiang,
+Dalian,DLC
+Shanghai,PVG
+Tioman,TOD
+Kuala Lumpur,SZB
+Wajima,NTQ
+Alexandria,HBE
+Barter Island,BTI
+Fort Wainwright,K03
+Cape Lisburne,LUR
+Point Lay,PIZ
+Hilo,ITO
+Orlando,ORL
+Bettles,BTT
+Clear Mews,Z84
+Indian Mountains,UTO
+Fort Yukon,FYU
+Sparrevohn,SVW
+Fort Richardson,FRN
+Tatalina,TLJ
+Cape Romanzof,CZF
+Bedford,BED
+St. Paul Island,SNP
+Cape Newenham,EHM
+Point Barrow,PBV
+Iliamna,ILI
+Port Moller,PTU
+Big Mountain,BMX
+Oscoda,OSC
+Fort Ord,OAR
+Sacramento,MHR
+Fort Irwin,BYS
+Twenty Nine Palms,NXP
+Fort Smith,FSM
+Anchorage,MRI
+Grants,GNT
+Ponca City,PNC
+Hunter Aaf,SVN
+Grand Forks,GFK
+Pine Bluff,PBF
+Milton,NSE
+Hana,HNM
+Prescott,PRC
+Trenton,TTN
+Boston,BOS
+Fairfield,SUU
+Rome,RME
+Wendover,ENV
+Mobile,BFM
+Oakland,OAK
+Omaha,OMA
+Port Angeles,NOW
+Kahului,OGG
+Wichita,ICT
+Kansas City,MCI
+Madison,MSN
+Dillingham,DLG
+Harrison,HRO
+Phoenix,PHX
+Bangor,BGR
+Fort Lauderdale,FXE
+Longview,GGG
+Andersen,AND
+Spokane,GEG
+Hollywood,HWO
+San Francisco,SFO
+Cutbank,CTB
+Louisiana,ARA
+Gainesville,GNV
+Memphis,MEM
+Douglas,DUG
+Delta Junction,BIG
+Waco,CNW
+Annette Island,ANN
+Caribou,CAR
+Jacksonville,LRF
+Redstone,HUA
+Fort Bragg,POB
+Dalhart,DHT
+Del Rio,DLF
+Los Angeles,LAX
+Anniston,ANB
+Cleveland,CLE
+Dover,DOV
+Cincinnati,CVG
+Fort Meade,FME
+China,NID
+Huron,HON
+Juneau,JNU
+Lafayette,LFT
+Newark,EWR
+Boise,BOI
+Indian Springs,INS
+Garden City,GCK
+Minot,MOT
+Wahiawa,HHI
+Montgomery,MXF
+Robinson,RBM
+Dallas,DAL
+Fort Carson,FCS
+Helena,HLN
+Miramar,NKX
+Phoenix,LUF
+Mary Esther,HRT
+Hawthorne,HHR
+Houlton,HUL
+Enid,END
+Point Mugu,NTD
+Edwards Afb,EDW
+Lake Charles,LCH
+Kona,KOA
+Myrtle Beach,MYR
+Lemoore,NLC
+Nantucket,ACK
+Fort Eustis,FAF
+Hopkinsville,HOP
+Washington,DCA
+Patuxent River,NHK
+Palacios,PSX
+Blytheville,BYH
+Atlantic City,ACY
+Oklahoma City,TIK
+Elizabeth City,ECG
+Pueblo,PUB
+Presque Isle,PQI
+Kirtland A.f.b.,IKR
+Fort Lewis,GRF
+Kodiak,ADQ
+Opolu,UPP
+Fort Lauderdale,FLL
+Muskogee,MKO
+International Falls,INL
+Salt Lake City,SLC
+Childress,CDS
+Biloxi,BIX
+Fort Benning,LSF
+Kingsville,NQI
+Fort Riley,FRI
+Harrisburg,MDT
+Lincoln,LNK
+Lansing,LAN
+Kamuela,MUE
+Massena,MSS
+Hickory,HKY
+St. Petersburg,SPG
+Fort Myers,FMY
+Houston,IAH
+Millinocket,MLT
+Camp Springs,ADW
+Winston-salem,INT
+Victorville,VCV
+Crestview,CEW
+Fort Drum,GTB
+Port Huron,PHN
+Bakersfield,BFL
+El Paso,ELP
+Harlingen,HRL
+Columbia,CAE
+Tucson,DMA
+Pensacola,NPA
+Pensacola,PNS
+Red River,RDR
+Houston,HOU
+Buckley,BKF
+Northway,ORT
+Palmer,PAQ
+Pittsburgh,PIT
+Barrow,BRW
+Houston,EFD
+Whidbey Island,NUW
+Alice,ALI
+Valdosta,VAD
+Miami,MIA
+Seattle,SEA
+Chattanooga,CHA
+Stratford,BDR
+Jackson,JAN
+Galveston,GLS
+Long Beach,LGB
+Dillingham,HDH
+Williamsport,IPT
+Indianapolis,IND
+Knobnoster,SZL
+Akron,AKC
+Greenwood,GWO
+White Plains,HPN
+West Hampton Beach,FOK
+Jonesboro,JBR
+Tonopah,TNX
+West Palm Beach,LNA
+San Diego,NZY
+El Paso,BIF
+Yuma,YUM
+Carlsbad,CNM
+Duluth,DLH
+Bethel,BET
+Louisville,LOU
+Fort Huachuca,FHU
+Lihue,LIH
+Terre Haute,HUF
+Havre,HVR
+Grant County Airport,MWH
+Montpelier,MPV
+San Nicolas Island,
+Richmond,RIC
+Shreveport,SHV
+Cordova,CDV
+Norfolk,ORF
+Beaumont,BPT
+Savannah,SAV
+Ogden,HIF
+Nome,OME
+San Luis,SPB
+St. Petersburg,PIE
+Macon,MNM
+Conroe,CXO
+Deadhorse,SCC
+San Antonio,SAT
+Rochester,ROC
+Coco Beach,COF
+Teterboro,TEB
+Rapid City,RCA
+Raleigh-durham,RDU
+Dayton,DAY
+Kenai,ENA
+Mcalester,MLC
+Niagara Falls,IAG
+Bryan,CFD
+Wright,
+Newport News,PHF
+Alexandria,ESF
+Altus,LTS
+Tucson,TUS
+Minot,MIB
+Marysville,BAB
+Kankakee,IKK
+Goldsboro,GSB
+Providence,PVD
+Salisbury,SBY
+Rancho Murieta,RIU
+Burbank,BUR
+Detroit,DTW
+Tampa,TPA
+Pembina,PMB
+Fort Polk,POE
+Fairbanks,EIL
+Hibbing,HIB
+Lufkin,LFK
+Midland,MAF
+Green Bay,GRB
+Ardmore,ADM
+Wrightstown,WRI
+Cherry Point,NKT
+Santa Barbara,SBO
+Bush Field,AGS
+Williston,ISN
+Little Rock,LIT
+Newburgh,SWF
+Baudette,BDE
+Sacramento,SAC
+Homer,HOM
+Fort Leonardwood,TBN
+Marietta,MGE
+Spokane,SKA
+Houghton Lake,HTL
+Panama City,PAM
+Dallas-Fort Worth,DFW
+Melbourne,MLB
+Tacoma,TCM
+Austin,AUS
+Columbus,LCK
+Gwinn,
+Knoxville,TYS
+Fort Hood,HLR
+St. Louis,STL
+Millville,MIV
+Wichita Falls,SPS
+Cincinnati,LUK
+Atlanta,ATL
+Merced,MER
+Sacramento,MCC
+Grand Rapids,GRR
+Wink,INK
+Fresno,FAT
+Vero Beach,VRB
+Imperial,IPL
+Nashville,BNA
+Laredo,LRD
+Anchorage,EDF
+Kotzebue,OTZ
+Altoona,AOO
+Abilene,DYS
+El Dorado,ELD
+New York,LGA
+Tallahassee,TLH
+West Chicago,DPA
+Waco,ACT
+Augusta,AUG
+Hillsboro,INJ
+Jacksonville,NIP
+Jackson,MKL
+Molokai,MKK
+Fort Knox,FTK
+Jacksonville,
+San Angelo,SJT
+Calexico,CXL
+Chico,CIC
+Burlington,BTV
+Jacksonville,JAX
+Durango,DRO
+Washington,IAD
+College Station,CLL
+Spokane,SFF
+Milwaukee,MKE
+Abilene,ABI
+Columbia,COU
+Portland,PDX
+Miami,TNT
+West Palm Beach,PBI
+Fort Worth,FTW
+Ogdensburg,OGS
+Falmouth,FMH
+Seattle,BFI
+San Antonio,SKF
+Honolulu,HNL
+Des Moines,DSM
+New Bern,EWN
+San Diego,SAN
+Monroe,MLU
+Sumter,SSC
+Ontario,ONT
+Greenvile,GVT
+Roswell,ROW
+Detroit,DET
+Brownsville,BRO
+Dothan,DHN
+Wildwood,WWD
+Fallon,NFL
+Mount Clemens,MTC
+Farmington,FMN
+Corpus Christi,CRP
+Syracuse,SYR
+Key West,NQX
+Chicago,MDW
+San Jose,SJC
+Hobbs,HOB
+Philadelphia,PNE
+Denver,DEN
+Philadelphia,PHL
+Sioux City,SUX
+Macon,MCN
+Truth Or Consequences,TCS
+Palmdale,PMD
+San Antonio,RND
+El Centro,NJK
+Columbus,CMH
+Fayetteville,FYV
+Fort Sill,FSI
+Princeton,PNM
+Dayton,FFO
+Galena,GAL
+Chandler,
+Mineral Wells,MWL
+Wichita,IAB
+New Orleans,NBG
+Beaufort,BFT
+Texarkana,TXK
+Plattsburgh,PBG
+Aberdeen,APG
+Tucumcari,TCC
+Anchorage,ANC
+Killeen,GRK
+Zuni Pueblo,ZUN
+Bellingham,BLI
+Millington,NQA
+Elkins,EKN
+Hartford,HFD
+Smithfield,SFZ
+Mobile,MOB
+Mountain View,NUQ
+Santa Fe,SAF
+Barking Sands,BKH
+Deridder,DRI
+Bradshaw Field,BSF
+Nogales,OLS
+Tampa,MCF
+Belleville,BLV
+Miami,OPF
+Del Rio,DRT
+Fort Myers,RSW
+King Salmon,AKN
+Muir,MUI
+Lahania-kapalua,JHM
+New York,JFK
+Homestead,HST
+Riverside,RAL
+Fort Leavenworth,FLV
+Wallops Island,WAL
+Alamogordo,HMN
+Willow Grove,NXX
+Cheyenne,CYS
+Stockton,SCK
+Charleston,CHS
+Reno,RNO
+Ketchikan,KTN
+Detroit,YIP
+Lompoc,VBG
+Birmingham,BHM
+Lakehurst,NEL
+Shemya,SYA
+Las Vegas,LSV
+Riverside,RIV
+Modesto,MOD
+Sacramento,SMF
+Chicago,UGN
+Colorado Springs,COS
+Buffalo,BUF
+Sandusky,SKY
+Everett,PAE
+Mountain Home,MUO
+Cedar City,CDC
+Windsor Locks,BDL
+Mcallen,MFE
+Norfolk,NGU
+Chicopee Falls,CEF
+Lubbock,LBB
+Chicago,ORD
+Boca Raton,BCT
+Fairbanks,FAI
+Quantico,NYG
+Clovis,CVS
+Kaneohe Bay,NGF
+Omaha,OFF
+Gulkana,GKN
+Watertown,ART
+Palm Springs,PSP
+Amarillo,AMA
+Fort Dodge,FOD
+Shreveport,BAD
+Topeka,FOE
+Cotulla,COT
+Wilmington,ILM
+Baton Rouge,BTR
+Meridian,NMM
+Tyler,TYR
+Baltimore,BWI
+Hobart,HBR
+Lanai,LNY
+Alexandria,AEX
+White Sands,WSD
+Cold Bay,CDB
+Tulsa,TUL
+Sitka,SIT
+Islip,ISP
+Minneapolis,MSP
+Wilmington,ILG
+Unalaska,DUT
+New Orleans,MSY
+Portland,PWM
+Oklahoma City,OKC
+Albany,ALB
+Valdez,VDZ
+Hampton,LFI
+Santa Ana,SNA
+Colombus,CBM
+Kendall-tamiami,TMB
+Oceana,NTU
+Peru,GUS
+Casper,CPR
+Valparaiso,VPS
+Selma,SEM
+Key West,EYW
+Charlotte,CLT
+Las Vegas,LAS
+Orlando,MCO
+Florence,FLO
+Great Falls,GTF
+Youngstown,YNG
+Fort Wainwright,FBK
+Mackminnville,MMV
+Macon,WRB
+Bangkok,BKK
+Masamba,
+Soroako,
+Makale,
+Kendari,KDI
+Sabang,SBG
+Tasikmalaya,
+Madiun,
+Malang,MLG
+Tangerang,
+Bandung,BDO
+Cirebon,CBN
+Yogyakarta,JOG
+Cilacap,CXP
+Jakarta,PCB
+Semarang,SRG
+Batam,BTH
+Tanjung Pandan,TJQ
+Pangkal Pinang,PGK
+Tanjung Pinang,TNJ
+Singkep,SIQ
+Banjarmasin,BDJ
+Batu Licin,
+Pangkalan Bun,PKN
+Palangkaraya,PKY
+S-Chanf,
+Maumere,MOF
+Ende,ENE
+Ruteng,RTG
+Kupang,KOE
+Labuhan Bajo,LBJ
+Balikpapan,BPN
+Taraken,TRK
+Samarinda,SRI
+Tanjung Santan,
+Mataram,AMI
+Bima,BMU
+Krems,
+Waingapu,WGP
+Surabaya,SUB
+Solo City,SOC
+Chiang Mai,CNX
+Chiang Rai,CEI
+Nakhon Si Thammarat,NST
+Denpasar,DPS
+Nakhon Ratchasima,NAK
+Nakhon Phanom,KOP
+Ubon Ratchathani,UBP
+Khon Kaen,KKC
+Sukhothai,THS
+Athens,ATH
+Nagoya,NGO
+Kobe,UKB
+Pullman,PUW
+Lewiston,LWS
+Elmira,ELM
+Ithaca,ITH
+Monterey,MRY
+Santa Barbara,SBA
+Daytona Beach,DAB
+Zhongli,
+Liepaja,LPX
+Riga,RIX
+Siauliai,SQQ
+Barysiai,HLJ
+Kaunas,KUN
+Kaunas,
+Palanga,PLQ
+Vilnius,VNO
+Panevezys,PNV
+Yerevan,
+Stepanavan,
+Yerevan,EVN
+Gyumri,LWN
+Assab,ASA
+Asmara,ASM
+Massawa,MSW
+Gaza,GZA
+Mukalla,RIY
+Batumi,BUS
+Kutaisi,KUT
+Tbilisi,TBS
+Taiz,TAI
+Hodeidah,HOD
+Aden,ADE
+Ataq,AXK
+Al Ghaidah Intl,AAY
+Sanaa,SAH
+Memmingen,FMM
+Beihan,BHN
+Panorama,
+Socotra,SCT
+Al Badie,
+Nevsehir,NAV
+Buenos Aires,EZE
+Erbil,EBL
+Emerald,EMD
+Athens,
+Osaka,KIX
+New York,JRB
+Tagbilaran,TAG
+Ilulissat,JAV
+Qasigiannguit,JCH
+Aasiaat,JEG
+Palma de Mallorca,PMI
+Darwin,DRW
+Surat Thani,URT
+Nyuang U,NYU
+Caticlan,MPH
+Bimini,NSB
+Talkeetna,TKA
+Gozo,GZM
+New Haven,HVN
+Asheville,AVL
+Greensboro,GSO
+Sioux Falls,FSD
+Uluru,AYQ
+Manchester NH,MHT
+Naples,APF
+Redang,RDN
+Louisville,SDF
+Charlottesville VA,CHO
+Roanoke VA,ROA
+Lexington KY,LEX
+Evansville,EVV
+Albuquerque,ABQ
+Bozeman,BZN
+Billings,BIL
+Butte,BTM
+Traverse City,TVC
+Flores,FRS
+Bar Harbor,BHB
+Rockland,RKD
+Jacksn Hole,JAC
+Rockford,RFD
+Moscow,DME
+Sanya,SYX
+Milford Sound,MFN
+New York,TSS
+Lijiang,LJG
+Greenville,GSP
+Cologne,QKL
+Stuttgart,ZWS
+Bloomington,BMI
+Gulfport,GPT
+Kalamazoo,AZO
+Toledo,TOL
+Fort Wayne,FWA
+Decatur,DEC
+Cedar Rapids,CID
+La Crosse,LSE
+Wassau,CWA
+Peoria,PIA
+Appleton,ATW
+Rochester,RST
+Champaign,CMI
+Manhattan,MHK
+Kingscote,KGC
+Hervey Bay,HVB
+Basel,BSL
+Dali,DLU
+Jinghong,JHG
+Mulu,MZV
+Sharm El Sheikh,SSH
+Franklin,FKL
+Nairobi,NBO
+Seronera,SEU
+El Calafate,FTE
+Armidale,ARM
+Grand Junction,GJT
+Saint George,SGU
+Houston,DWH
+Port O\\\\'Connor,S46
+Sarasota,SRQ
+Van Nuys,VNY
+Bermuda,BDA
+Titusville,X21
+Moline,MLI
+Panama City,PFN
+Honiara,HIR
+Papeete,PPT
+Nauru,INU
+Funafuti,FUN
+Novosibirsk,OVB
+Orlando,DWS
+Samsoe,
+Phon Savan,XKH
+Hue,HUI
+Bismarck,BIS
+Telluride,TEX
+Yinchuan,INC
+Mae Hong Son,HGN
+Rapid City,RAP
+Carlsbad,CLD
+Flint,FNT
+Davao,DVO
+Funchal,FNC
+Santarem,STM
+Sihanoukville,KOS
+Ekati,YOA
+NAPIER,NPE
+Levuka,LEV
+Lhasa,LXA
+Redding,RDD
+Eugene,EUG
+Idaho Falls,IDA
+Medford,MFR
+Kaikoura,KBZ
+Redmond-Bend,RDM
+Picton,PCN
+Windhoek,WDH
+Victoria,YWH
+Vancouver,CXH
+Jinan,TNA
+Changzhou,CZX
+Yibin,YBP
+Tyumen,TJM
+Akron,CAK
+Huntsville,HSV
+PARKERSBURG,PKB
+MONTGOMERY,MGM
+BRISTOL,TRI
+PADUCAH,PAH
+Samara,KUF
+Djibouti,JIB
+Haikou,HAK
+Mafia Island,MFA
+Kalispell,FCA
+Selous,
+Page,PGA
+Utila,UII
+Santa Elena de Uairen,SNV
+Saginaw,MBS
+Binghamton,BGM
+Baghdad,BGW
+Nan,NNT
+Roi Et,ROI
+Buri Ram,BFV
+Ranong,UNN
+Trat,TDX
+Blythe,BLH
+Al Asad,
+Al Taqaddum,
+Al Bakr,
+Angeles City,CRK
+Sandakan,SDK
+Luang Namtha,LXG
+Muang Xay,ODY
+Shenyang,SHE
+Dongying,DOY
+Geralds,MNI
+Petersburg,PSG
+Luoyang,LYA
+Xuzhou,XUZ
+Isfahan,IFN
+Magwe,MWQ
+Khamti,KHM
+Dalat,DLI
+Dong Hoi,VDH
+Rach Gia,VKG
+Ca Mau,CAH
+Chu Lai,VCL
+Tuy Hoa,TBB
+Pai,PYY
+Brac,BWK
+Yaounde,NSI
+Conakry,CKY
+Trogen,
+Zuerich,
+Aachen,AAH
+Karlsruhe/Baden-Baden,FKB
+Sanford,SFB
+Phu Quoc,PQC
+Johnstown,JST
+Lukla,LUA
+Bhojpur,BHP
+Lamidanda,LDN
+Jomsom,JMO
+Manang,NGX
+Phaplu,PPL
+Thamkharka,TMK
+Rumjatar,RUM
+Dang,DNP
+Rukumkot,RUK
+Jumla,JUM
+Chaurjhari,HRJ
+Taplejung,TPJ
+Tumling Tar,TMI
+Surkhet,SKH
+Simikot,IMK
+Dolpa,DOP
+Bajhang,BJH
+Dhangarhi,DHI
+Muan,MWX
+Astypalaia,JTY
+Ikaria,JIK
+Kalymnos,JKL
+Milos,MLO
+Cyclades Islands,JNX
+Paros,PAS
+Kastelorizo,KZS
+Marsa Alam,RMF
+Weeze,NRN
+Busuanga,USU
+Butuan,BXU
+Dipolog,DPL
+Laoag,LAO
+Legazpi,LGP
+Ozamis,OZC
+Zweibruecken,ZQW
+Cebu,CEB
+Norden,NOE
+Juist,JUI
+Porto Seguro,BPS
+Gounda,GDA
+Cataratas National Park,
+Iguatu,
+Palmas,PMW
+Caldas Novas,CLV
+Missoula,MSO
+Blackall,BKQ
+Bundaberg,BDB
+Grand Canyon,GCN
+Sugar Land,SGR
+Hayman Island,HIS
+Denver,APA
+Clovis,CVN
+Fort Stockton,FST
+Las Vegas,LVS
+Houston,IWS
+La Junta,LHX
+Las Cruces,LRU
+Breckenridge,BKD
+Temple,TPL
+Ozona,OZA
+Hong Kong,
+Athens,HEW
+Waikoloa Village,WKL
+Kaadedhdhoo,KDM
+Aklavik,LAK
+Deline,YWJ
+Tulita,ZFN
+Fort Good Hope,YGH
+Inuvik,
+Inuvik,
+Tanna,TAH
+Sun Island,
+Paulatuk,YPC
+Nicholson Peninsula,
+Santa Cruz,SRZ
+Kulusuk,KUS
+Saba,SAB
+Vail,EGE
+Denver,
+Stokmarknes,SKN
+Richmond Heights,CGF
+Mansfield,MFD
+Columbus,CSG
+Lawton,LAW
+Fort Collins,FNL
+Gouvia,
+Paxos,
+Flagstaff,FLG
+South Lake Tahoe,TVL
+Twin Falls,TWF
+Monaco,MCM
+Vineyard Haven MA,MVY
+Newport RI,UUU
+Springfield VT,VSF
+Concord NH,CON
+Sanford ME,SFM
+Groton CT,GON
+Saint Cloud,STC
+Bagan,BPE
+Columbus Mississippi,GTR
+Nizhniy Novgorod,GOJ
+Hoquiam,HQM
+Erie,ERI
+Rangali Island,
+Barnstable,HYA
+San Pedro,SPR
+Sedona,SDX
+Dry Tortugas,
+Dry Tortugas,
+Dry Tortugas,
+Morgantown,MGW
+Charleston,CRW
+Scranton,AVP
+Bemidji,BJI
+Baku,BAK
+Biloela,THG
+Apia,FGI
+Ballina Byron Bay,BNK
+Fargo,FAR
+Kansas City,MKC
+Mesa,AZA
+Ratanakiri,RBE
+Gillette,GCC
+Tomsk,TOF
+Santa Ana,NZJ
+Phetchabun,PHY
+Chumphon,CJM
+Jiuzhaigou,JZH
+Shantou,SWA
+Enghien-moisselles,
+Georgetown,GEO
+Ciudad del Este,AGT
+Georgetown,OGL
+Kaieteur,KAI
+Dunhuang,DNH
+Ancona,AOI
+Samjiyon,
+East Tawas,ECA
+Copiapo,CPO
+Taba,TCP
+Little Cayman,LYB
+Bodrum,BJV
+Tabarka,TBJ
+Istanbul,SAW
+State College Pennsylvania,SCE
+Broome,BME
+Newcastle,NTL
+Bakki,
+Klagenfurt,KLU
+Ciudad Guayana,CGU
+Schneverdingen,
+Hammerfest,HFT
+Honningsvag,HVG
+Mehamn,MEH
+Vadso,VDS
+Munich,
+Tehran,IKA
+Mashhad,MHD
+Egelsbach,QEF
+Ust Ilimsk,UIK
+Mudanjiang,MDG
+Meridian,MEI
+Springfield,SPI
+Haskovo,HKV
+Cortez,CEZ
+Hayden,HDN
+Gallup,GUP
+Liberal,LBL
+Lamar,LAA
+Goodland,GLD
+Cody,COD
+Orsta-Volda,HOV
+WATTON,
+ST MARY\\\\'S,ISC
+Springfield,SGF
+Narvik,NVK
+Berlevag,BVG
+Oslo,FBU
+Norilsk,NSK
+Anapa,AAQ
+Joplin,JLN
+Allentown,ABE
+Bentonville,XNA
+Atyrau,GUW
+Kzyl-Orda,KZO
+South Bend,SBN
+Moscow,BKA
+Chintheche,
+Arkhangelsk,ARH
+Saratov,RTW
+Novy Urengoy,NUX
+Noyabrsk,NOJ
+Washington,ZWU
+Aktau,SCO
+Ukhta,UCT
+Usinsk,USK
+Pechora,PEX
+Naryan-Mar,NNM
+Pskov,PKV
+Kogalym,KGP
+Krasnoyarsk,KJA
+Karaganda,KGF
+Novosibirsk,
+Uraj,URJ
+Turkmenabat,CRZ
+Ivanovo,IWA
+Changchun,CGQ
+Niigata,KIJ
+Johnston Island,JON
+Fort Wayne IN,SMD
+Arcata CA,ACV
+Austin TX,ATT
+Jacksonville NC,OAJ
+Tuscaloosa AL,TCL
+Dubuque IA,DBQ
+Forde,FDE
+Hong Kong,
+Yakutia,PYJ
+Nakhchivan,NAJ
+Ganja,KVD
+Sandefjord,
+Ust Kamenogorsk,UKK
+Petropavlosk,PPK
+Grand Bourg,GBJ
+St-Fran\'e7ois,SFC
+Codrington,BBQ
+Ji-Paran\'e1,JPR
+Maracay,MYC
+Nazca,NZA
+Cajamarca,CJA
+Gatokae,GTA
+Boorama,BXX
+Mucuri,MVS
+Paramaribo,ORG
+Reyes,REY
+Puerto Rico/Manuripi,PUR
+Yopal,EYP
+Esmeraldas,ESM
+Pucon,ZPC
+Toledo,TOW
+Santa Maria,RIA
+Len\'e7\'f3is,LEC
+Goulburn,GUL
+Juazeiro Do Norte,JDO
+Santa Teresita,SST
+Gobernador Gregores,GGS
+San Antonio Oeste,OES
+Las Heras,LHS
+Tartagal,TTG
+Masbate,MBT
+Catarman,CRM
+Jolo,JOL
+Camiguin,CGM
+Cuyo,CYU
+Chongju,CJJ
+Sacheon,HIN
+Wonju,WJU
+Mokpo,MPK
+Kunsan,KUV
+Miyakejima,MYE
+Shonai,SYO
+Odate Noshiro,ONJ
+Fukushima,FKS
+Iwami,IWJ
+Nagoya,NKM
+Saga,HSG
+Sapporo,OKD
+Kushiro,KUH
+Matsu Islands,MFK
+Hengchun,HCN
+Matsu Islands,LZN
+Eniwetok Atoll,ENT
+Molokai,LUP
+El Nido,ENI
+Wipim,WPM
+Baimuru,VMU
+Nuku,UKU
+Tufi,TFI
+Suki,SKC
+Balimo,OPU
+Obo,OBX
+Losuia,LSA
+Londolovit,LNV
+Lake Murray,LMY
+Kamusi,KUY
+Kokoda,KKD
+Kandrian,KDR
+Jacquinot Bay,JAQ
+Nissan Island,IIS
+Ihu,IHU
+Gasmata Island,GMI
+Aitape,ATP
+Wrangell,WRG
+Chevak,VAK
+Aniak,ANI
+Mountain Village,MOU
+Mcgrath,MCG
+Kalskag,KLG
+Haines,HNS
+Holy Cross,HCR
+Skagway,SGY
+Gustavus,GST
+Adak Island,ADK
+Boca de S\'e1balo,SAX
+Contadora Island,OTD
+El Real,ELE
+Bahia Pi\'f1a,BFQ
+Sayun Intl,GXF
+Kamishly,KAC
+Sulaymaniyah,ISU
+Turbat,TUK
+Sehwan Sharif,SYW
+Skardu,KDU
+Parachinar,PAJ
+Ormara Raik,ORW
+Khuzdar,KDD
+Hyderabad,HDD
+Jiwani,JIW
+Dera Ismael Khan,DSK
+Dera Ghazi Khan,DEA
+Dalbandin,DBA
+Chitral,CJL
+Bahawalpur,BHV
+Bannu,BNP
+Al Ain,AAN
+Uromiyeh,OMH
+Ardabil,ADU
+Lar,LRR
+Dasht-e-naz,SRY
+Noshahr,NSH
+Sabzevar,AFZ
+Bojnourd,BJB
+Rafsanjan,RJN
+Bam,BXR
+Khorram Abad,KHD
+Wadi-al-dawasir,EWD
+Al-Jawf,AJF
+Dawadmi,DWD
+Saul,XAU
+Faizabad,FBD
+\'cele des Pins,ILP
+Waala,BMY
+Tiga,TGJ
+Ipota,IPA
+Futuna Island,FTA
+Dillon's Bay,DLY
+Aniwa,AWD
+Anelghowhat,AUY
+Olpoi,OLZ
+Malekula Island,SWJ
+Valesdir,VLS
+Ambryn Island,ULB
+Tongoa Island,TGH
+Santo,SON
+Redcliffe,RCL
+Gaua Island,ZGU
+Norsup,NUS
+Lonorore,LNE
+Maewo Island,MWF
+Lamen Bay,LNB
+Lamap,LPM
+Paama Island,PBJ
+Pentecost Island,SSR
+Longana,LOD
+Craig Cove,CCV
+Sangafa,EAE
+Loh/Linua,TOH
+Sola,SLH
+Ablow,MTV
+Ua Huka,UAH
+Ua Pou,UAP
+Hiva-oa,AUQ
+Ahe,AHE
+Apataki,APK
+Savaii Island,MXS
+Mountain,MWP
+Futuna Island,FUT
+Alofi,IUE
+Vanua Balavu,VBV
+Niuatoputapu,NTT
+"Angaha, Niuafo'ou Island",NFO
+Lifuka,HPA
+Eua Island,EUA
+Savusavu,SVU
+Rotuma,RTA
+Koro Island,KXF
+Matei,TVU
+Lambasa,LBS
+Lakeba Island,LKB
+Ngau,NGI
+Moala,MFJ
+Mana Island,MNF
+Vunisea,KDV
+Malolo Lailai Island,PTF
+Cicia,ICI
+Penrhyn Island,PYE
+Mitiaro Island,MOI
+Mauke Island,MUK
+Manihiki Island,MHX
+Mangaia Island,MGS
+Atiu Island,AIU
+Nassau,PID
+Colonel Hill,CRI
+Cat Island,CAT
+Arthur's Town,ATC
+Andros,COX
+Long Banga,LBP
+Salina Cruz,SCX
+Trinidad,TND
+Cayo Coco,CCC
+Port-de-Paix,PAX
+Jeremie,JEE
+Playa Samara,PLD
+San Jose,SYQ
+Puerto Jimenez,PJM
+Nandayure,PBP
+Nicoya,TNO
+Pococi,BCL
+Roxana,TTQ
+La Palma,PLP
+Jaqu\'e9,JQE
+Col\'f3n,ONX
+Chitr\'e9,CTD
+Jalapa,JAL
+Guerrero Negro,GUB
+Ciudad Constituci\'f3n,CUA
+Celaya,CYW
+Mili Island,MIJ
+Puerto Lempira,PEU
+Ahuas,AHS
+Wotho Island,WTO
+Wotje Atoll,WTE
+Majuro Atoll,WJA
+Jabor Jaluit Atoll,UIT
+Rongelap Island,RNP
+Namorik Atoll,NDK
+Majkin,MJE
+Mejit Atoll,MJB
+Maloelap Island,MAV
+Likiep Island,LIK
+Kaben,KBT
+Ailinglapalap Atoll,JEJ
+Ailinglapalap Atoll,JAT
+Bikini Atoll,BII
+Aur Atoll,AUL
+Ailuk Island,AIM
+Utirik Island,UTK
+Quezaltenango,AAZ
+Puerto Barrios,PBR
+La Isabela,JBQ
+Samana,AZS
+Salt Cay,SLX
+Middle Caicos,MDS
+Cockburn Town,GDT
+\'8eilina,ILZ
+Ubari,QUB
+Misratah,MRA
+Samsun,SZF
+Balikesir Korfez,EDO
+Isparta,ISE
+Adiyaman,ADF
+Agri,AJI
+Kahramanmaras,KCM
+Sanliurfa,SFQ
+Kars,KSY
+Usak,USQ
+Banja Luka,BNX
+Corvo,CVU
+Salerno,QSR
+Aosta,AOT
+S\'e1rmell\'e9k,SOB
+Gy\u337 r,QGY
+P\'e9cs-Pog\'e1ny,PEV
+Syros Island,JSY
+La M\'f4le,LTT
+Mulhouse,EAP
+Lake Tekapo,
+Angers/Marc\'e9,ANE
+\'cele d'Yeu,IDY
+Logro\'f1o-Agoncillo,RJL
+Nicosia,ECN
+Yakima,YKM
+Kiwayu,KWY
+Worland,WRL
+Valdosta,VLD
+Victoria,VCT
+Quincy,UIN
+Tupelo,TUP
+Santa Maria,SMX
+Salina,SLN
+Saranac Lake,SLK
+Sheridan,SHR
+San Luis Obispo,SBP
+Rutland,RUT
+Rock Springs,RKS
+Rhinelander,RHI
+Reading,RDG
+Portsmouth,PSM
+Pellston,PLN
+Pierre,PIR
+Pocatello,PIH
+Hattiesburg/Laurel,PIB
+Owensboro,OWB
+North Bend,OTH
+Muscle Shoals,MSL
+Miles City,MLS
+Muskegon,MKG
+Lynchburg,LYH
+Lewistown,LWT
+Lancaster,LNS
+Klamath Falls,LMT
+Lebanon,LEB
+North Platte,LBF
+Latrobe,LBE
+Laramie,LAR
+Jamestown,JMS
+Kirksville,IRK
+Kili Island,KIO
+Huntington,HTS
+Hot Springs,HOT
+Grand Island,GRI
+Glasgow,GGW
+Fayetteville,FAY
+New Bedford,EWB
+Elko,EKO
+Eau Claire,EAU
+Du Bois,DUJ
+Dodge City,DDC
+Hancock,CMX
+Port Angeles,CLM
+Clarksburg,CKB
+Sault Ste Marie,CIU
+Cape Girardeau,CGI
+Crescent City,CEC
+Burlington,BRL
+Brunswick,BQK
+Beckley,BKW
+Scottsbluff,BFF
+Bradford,BFD
+Watertown,ATY
+Alpena,APN
+Walla Walla,ALW
+Waterloo,ALO
+Alamogordo,ALM
+Athens,AHN
+Albany,ABY
+Aberdeen,ABR
+Tremiti Islands,TQR
+Gheshm,GSM
+Diu,DIU
+Gulu,ULU
+Arua,RUA
+Tabora,TBO
+Shinyanga,SHY
+Musoma,MUZ
+Lindi,LDI
+Kigoma,TKQ
+Bukoba,BKZ
+Port Sudan,PZU
+Nyala,UYL
+Atbara,ATB
+Al Bayda',LAQ
+Tripoli,MJI
+Tobruk,TOB
+Sirt,SRX
+Nanyuki,NYK
+Malindi,MYD
+Lokichoggio,LKG
+Amboseli National Park,ASV
+Asyut,ATZ
+El Arish,AAC
+Burao,BUO
+Galcaio,GLK
+Mogadishu,MGQ
+Bosaso,BSA
+Alula,ALU
+Tippi,TIE
+Mizan Teferi,MTF
+Kabri Dehar,ABK
+Gore,GOR
+Gode,GDE
+Dembidollo,DEM
+Dessie,DSE
+Beica,BEI
+Baco,BCO
+"Sao Filipe, Fogo Island",SFL
+"Praia, Santiago Island",RAI
+El Aroui,NDR
+El Aai\'fan,EUN
+Essadouira,ESU
+Dakhla,VIL
+Smara,SMW
+Iginniarfik,QFI
+Akunnaaq,QCU
+Groennedal,JGR
+Bissau,OXB
+Kenema,KEN
+Bo,KBS
+Bonthe,BTE
+Ceuta,JCU
+Carriacou Island,CRU
+La Gomera,GMZ
+Papa Stour,PSV
+Outer Skerries,OUK
+Foula,FOA
+Gamba,GAX
+Ilebo,PFR
+Lodja,LJA
+Tshikapa,TSH
+Basankusu,BSU
+Kiri,KRZ
+Nioki,NIO
+Inongo,INO
+Matadi,MAT
+Boma,BOA
+Windhoek,ERS
+Swakopmund,SWP
+Oranjemund,OMD
+Ondangwa,OND
+Luderitz,LUD
+Club Makokola,CMK
+Sarh,SRH
+Cannes,JCA
+Chimoio,VPY
+Tchibanga,TCH
+Mouila,MJL
+Koulamoutou,KOU
+Mocamedes,MSZ
+Ondjiva,VPE
+Dundo,DUE
+Catumbela,CBT
+Manja,MJA
+Mandritsara,WMA
+Tsaratanana,TTS
+Mampikony,WMP
+Soalala,DWB
+Ambanja,IVA
+Port Berg\'e9,WPB
+Ambatondrazaka,WAM
+Tsiroanomandidy,WTS
+Tambohorano,WTA
+Morafenobe,TVA
+Maintirano,MXT
+Belo sur Tsiribihina,BMD
+Ankavandra,JVA
+Antsalova,WAQ
+Moroni,YVA
+Solwesi,SLI
+Chipata,CIP
+Loubomo,DIS
+Tuli Lodge,TLD
+Shakawe,SWX
+Orapa,ORP
+Ghanzi,GNZ
+Mafeking,MBD
+Malamala,AAM
+Mpumalanga,MQP
+Johannesburg,QRA
+Ventspils,VTS
+Shire Indasilase,SHC
+Shilavo,HIL
+Hemavan,HMV
+Mohed,SQO
+\'c4ngelholm,AGH
+Torsby,TYF
+Karlstad,KSD
+Hagfors,HFS
+\'d6stersund,OSD
+Lodz,LCJ
+Bydgoszcz,BZG
+V\'e6r\'f8y,VRY
+Vard\'f8,VAW
+Sorkjosen,SOJ
+Svolv\'e6r,SVJ
+Sogndal,SOG
+Sandane,SDN
+R\'f8st,RET
+R\'f8rvik,RVK
+Mo i Rana,MQN
+Namsos,OSY
+Leknes,LKN
+Sindal,CNL
+Leixlip,
+Dongloe,CFN
+Raron,
+Barra,BRR
+Angelsey,HLY
+Penzance,PZE
+Land's End,LEQ
+Westray,WRY
+Lerwick,LWK
+Sanday,NDY
+Stronsay,SOY
+Papa Westray,PPW
+North Ronaldsay,NRL
+Fair Isle,FIE
+Eday,EOI
+Campbeltown,CAL
+"Doncaster, Sheffield",DSA
+Nottingham,NQT
+Sein\'e4joki / Ilmajoki,SJY
+Helgoland,HGL
+B\'fcsum,HEI
+Heringsdorf,HDF
+Kumasi,KMS
+Guemar,ELU
+Bordj Badji Mokhtar,BMW
+B\'e9char,CBH
+Batna,BLJ
+Wollaston Lake,ZWL
+Churchill Falls,ZUM
+Shamattawa,ZTM
+Sandy Lake,ZSJ
+Round Lake,ZRJ
+Sachigo Lake,ZPB
+Masset,ZMT
+Muskrat Dam,MSA
+Kashechewan,ZKE
+Swan River,ZJN
+Gods River,ZGI
+Fond-Du-Lac,ZFD
+Eastmain River,ZEM
+Bathurst,ZBF
+Ilford,ILF
+York Landing,ZAC
+Salluit,YZG
+Whale Cove,YXN
+Webequie,YWP
+Deer Lake,YVZ
+Big Trout Lake,YTL
+St. Theresa Point,YST
+Sanikiluaq,YSK
+Stony Rapids,YSF
+Red Lake,YRL
+Gam\'e8t\'ec,YRA
+Nakina,YQN
+The Pas,YQD
+Powell River,YPW
+Peawanuck,YPO
+Pikangikum,YPM
+Inukjuak,YPH
+Oxford House,YOH
+Points North Landing,YNL
+Norway House,YNE
+Wemindji,YNC
+Umiujaq,YUD
+Chibougamau,YMT
+Mary's Harbour,YMH
+Kangiqsualujjuaq,XGR
+Lutselk'e,YSG
+Lansdowne House,YLH
+Kimmirut,YLC
+Aupaluk,YPJ
+Waskaganish,YKQ
+Akulivik,AKV
+Island Lake,YIV
+Ivujivik,YIK
+Chevery,YHR
+Hopedale,YHO
+Nemiscau,YNS
+Vancouver,YHC
+Quaqtaq,YQC
+Grise Fiord,YGZ
+Gillam,YGX
+Kuujjuarapik,YGW
+Igloolik,YGT
+Gods Lake Narrows,YGO
+Texada,YGB
+Makkovik,YMN
+Fort Hope,YFH
+Fort Albany,YFA
+Fort Severn,YER
+Nain,YDP
+Chesterfield Inlet,YCS
+Cartwright,YRF
+Lourdes-De-Blanc-Sablon,YBX
+Uranium City,YBE
+Lac Du Bonnet,
+Attawapiskat,YAT
+Kangirsuk,YKG
+Kasabonika,XKS
+Fort Frances,YAG
+Cat Lake,YAC
+Tarapac\'e1,TCD
+Apartad\'f3,APO
+Nantong,NTG
+La Tabati\'e8re,ZLT
+T\'eate-\'e0-la-Baleine,ZTB
+Chisasibi,YKU
+Poplar Hill,YHP
+Ogoki Post,YOG
+Kingfisher Lake,KIF
+Bearskin Lake,XBE
+North Spirit Lake,YNO
+Wunnumin Lake,WNN
+Angling Lake,YAX
+Summer Beaver,SUR
+What\'ec,YLE
+Colville Lake,YCK
+Rigolet,YRG
+Port Hope Simpson,YHA
+St. Lewis,YFX
+Williams Harbour,YWM
+Anahim Lake,YAA
+Whistler,YWS
+Punta Gorda,PND
+Caye Caulker,CUK
+Vopnafj\'f6r\'f0ur,VPN
+Thorshofn,THO
+Puntarenas,DRK
+Gr\'edmsey,GRY
+Uummannaq,JQA
+Upernavik,JUV
+Sisimiut,JHS
+Qaanaaq,NAQ
+Narsaq,JNS
+Nanortalik,JNN
+Maniitsoq,JSU
+Qaqortoq,JJU
+Qeqertarsuaq Airport,JGO
+Paamiut,JFR
+Neerlerit Inaat,CNP
+Alluitsup Paa,LLU
+Wapenamanda,WBM
+Vanimo,VAI
+Tokua,RAB
+Tabubil,TBG
+Tari,TIZ
+Misima Island,MIS
+Moro,MXH
+Momote,MAS
+Mendi,MDU
+Kavieng,KVG
+Kerema,KMA
+Kikori,KRI
+Kiunga,UNG
+Hoskins,HKN
+Girua,PNP
+Gurney,GUR
+Daru,DAU
+Kundiawa,CMU
+Buka Island,BUA
+Ramata,RBV
+Kagau Island,KGE
+Suavanao,VAO
+Marau,RUS
+Rennell Island,RNL
+Stirling Island,MNY
+Gizo,GZO
+Munda,MUA
+Santa Cruz/Graciosa Bay/Luova,SCZ
+Kirakira,IRA
+Mbambanakira,MBU
+Fera Island,FRE
+Ballalae,BAS
+Auki,AKS
+Atoifi,ATD
+Komsomolsk-on-Amur,KXK
+Moyo,OYG
+Tiksi,IKS
+Cherskiy,CYX
+Chokurdah,CKH
+Neryungri,CNN
+Kostanay,KSN
+Zhezkazgan,DZN
+Kokshetau,KOV
+Union Island,UNI
+Bequia,BQU
+Spanish Town,VIJ
+Charlestown,NEV
+Basse Terre,BBR
+Grande Anse,DSD
+El Vig\'eda,VIG
+Maldonado,MDO
+Santa Rosa,SRA
+Hu\'e1nuco,HUU
+Caballococha,LHC
+San Borja,SRJ
+Riberalta,RIB
+Guayaramer\'edn,GYA
+Puerto In\'edrida,PDA
+Nuqu\'ed,NQU
+La Pedrera,LPD
+Puerto Legu\'edzamo,LQM
+Garz\'f3n,GLJ
+Cartago,CRC
+Stanley,PSY
+La Toma (Catamayo),LOH
+San Crist\'f3bal,SCY
+Sorocaba,SOD
+El Salvador,ESR
+Vit\'f3ria Da Conquista,VDC
+Mar\'edlia,MII
+Maca\'e9,MEA
+Necochea,NEC
+El Calafate,ING
+Roxas City,RXS
+Calbayog City,CYP
+Virac,VRC
+Tuguegarao,TUG
+San Fernando,SFE
+Basco,BSO
+Naga,WNP
+Tandag,TDG
+Sangley Point,SUG
+Fremont,
+Sanga Sanga,SGS
+General Santos City,GES
+Olongapo City,SFS
+Sokcho / Gangneung,YNY
+Anadyr,DYR
+Okhotsk,OHO
+Ujae Atoll,UJE
+Mariupol International,MPW
+Lugansk,VSG
+Zaporozhye,OZH
+Krivoy Rog,KWG
+Kharkov,HRK
+Ivano-Frankivsk,IFO
+Chernovtsk,CWC
+Rivne,RWN
+Uzhgorod,UDJ
+Solovetsky Islands,CSH
+Cherepovets,CEE
+Amderma,AMV
+Kotlas,KSZ
+Petrozavodsk,PES
+Hrodna,GNA
+Mogilev,MVQ
+Yeniseysk,EIE
+Kyzyl,KYZ
+Novokuznetsk,NOZ
+Khatanga,HTG
+Igarka,IAA
+Grozny,GRV
+Nalchik,NAL
+Beslan,OGZ
+Elista,ESL
+Aleknagik,WKK
+Brookings,BKX
+Bluefield,BLF
+Kearney,EAR
+Greenville,GLH
+Bullhead,IFP
+Kingman,IGM
+Pasco,PSC
+Akutan,KQA
+Silver City,SVC
+Lopez,LPS
+Salekhard,SLY
+Khanty-Mansiysk,HMA
+Nyagan,NYA
+Sovetskiy,OVS
+Izhevsk,IJK
+Kirov,KVX
+Nadym,NYM
+Raduzhnyi,RAT
+Nefteyugansk,NFG
+Kurgan,KRO
+Khudzhand,LBD
+Andizhan,AZN
+Fergana,FEG
+Namangan,NMA
+Nukus,NCU
+Urgench,UGC
+Khanabad,KSQ
+Termez,TMJ
+Rybinsk,RYB
+Belgorod,EGO
+Kursk,URS
+Lipetsk,LPK
+Vorkuta,VKT
+Bugulma,UUA
+Yoshkar-Ola,JOK
+Cheboksary,CSY
+Ulyanovsk,ULY
+Orsk,OSW
+Penza,PEZ
+Saransk,SKX
+Balakovo,BWO
+Hubli,HBX
+Koggala,KCT
+Wirawila,WRZ
+Battambang,BBM
+Shillong,SHL
+Guwahati,GAU
+Dimapur,DMU
+Tezpur,TEZ
+Barisal,BZL
+Huay Xai,OUI
+Kontum,KON
+Bharatpur,BHR
+Chandragarhi,BDP
+Meghauli,MEY
+Nepalgunj,KEP
+Gan Island,GAN
+Haa Dhaalu Atoll,HAQ
+Laamu Atoll,KDO
+Tak,MAQ
+Buonmethuot,BMV
+Haiphong,HPH
+Nha Trang,CXR
+Conson,VCS
+Can Tho,VCA
+Dienbienphu,DIN
+Phucat,UIH
+Pleiku,PXU
+Vinh,VII
+Banmaw,BMO
+Dawei,TVY
+Kawthoung,KAW
+Loikaw,LIW
+Mawlamyine,MNU
+Pathein,BSX
+Pakhokku,PKK
+Sumbawa Island,SWQ
+Waikabubak-Sumba Island,TMC
+Bokondini-Papua Island,BUI
+Senggeh-Papua Island,SEH
+Tanjung Selor-Borneo Island,TJS
+Datadawai-Borneo Island,DTD
+Tanjung Redep-Borneo Island,BEJ
+Tanjung-Borneo Island,TJG
+Sampit-Borneo Island,SMQ
+Langgur-Kei Islands,LUV
+Alor Island,ARD
+Belaga,BLG
+Long Datih,LGL
+Long Seridan,ODN
+Mukah,MKM
+Bakalalan,BKM
+Lawas,LWY
+Bario,BBN
+Tomanggong,TMG
+Kudat,KUD
+Bandar Lampung-Sumatra Island,TKG
+Jakarta,HLP
+Ranai-Natuna Besar Island,NTX
+Putussibau-Borneo Island,PSU
+Sintang-Borneo Island,SQG
+Talang Gudang-Sumatra Island,PDO
+Lhok Seumawe-Sumatra Island,LSW
+Pangkor Island,PKG
+Laut Island,KBU
+Long Bawan-Borneo Island,LBW
+Nunukan-Nunukan Island,NNX
+Long Apung-Borneo Island,LPU
+Albany,ALH
+Argyle,GYL
+Aurukun,AUU
+Barcaldine,BCI
+Badu Island,BDD
+Birdsville,BVI
+Broken Hill,BHQ
+Hamilton Island,HTI
+Bedourie,BEU
+Bourke,BRK
+Burketown,BUC
+Boigu,GIC
+Oakey,OKY
+Boulia,BQL
+Bathurst,BHS
+Blackwater,BLT
+Carnarvon,CVQ
+Cobar,CAZ
+Coober Pedy,CPD
+Coconut Island,CNC
+Cloncurry,CNJ
+Ceduna,CED
+Cooktown,CTN
+Cunnamulla,CMA
+Coonamble,CNB
+Coen,CUQ
+Cooma,OOM
+Doomadgee,DMD
+Darnley Island,NLF
+Devonport,DPO
+Elcho Island,ELC
+Esperance,EPR
+Flinders Island,FLS
+Geraldton,GET
+Gladstone,GLT
+Groote Eylandt,GTE
+Griffith,GFF
+Horn Island,HID
+Hooker Creek,HOK
+Mount Hotham,MHU
+Hughenden,HGD
+Julia Creek,JCK
+Kalbarri,KAX
+King Island,KNS
+Kalkgurung,KFG
+Karumba,KRB
+Kowanyama,KWM
+Kubin,KUG
+Leonora,LNO
+Lake Evella,LEL
+Lord Howe Island,LDH
+Lockhart River,IRG
+Lismore,LSY
+Lightning Ridge,LHG
+Longreach,LRE
+Leinster,LER
+Laverton,LVO
+Mabuiag Island,UBB
+Meekatharra,MKR
+Merimbula,MIM
+Milingimbi,MGT
+Maningrida,MNG
+McArthur River Mine,MCV
+Mildura,MQL
+Mount Magnet,MMG
+Moree,MRZ
+Moranbah,MOV
+Moruya,MYA
+Mount Gambier,MGB
+Mornington Island,ONG
+Murray Island,MYI
+Maryborough,MBH
+Narrandera,NRA
+Narrabri,NAA
+Normanton,NTN
+Newman,ZNE
+Olympic Dam,OLP
+Argyle,PUG
+Palm Island,PMK
+Paraburdoo,PBO
+Cocos Keeling Island,CCK
+Gove,GOV
+Parkes,PKE
+Port Lincoln,PLO
+Pormpuraaw,EDR
+Port Macquarie,PQQ
+Portland,PTJ
+Quilpie,ULP
+Ramingining,RAM
+Roma,RMA
+St George,SGO
+Shark Bay,MJK
+Saibai Island,SBR
+Strahan,SRN
+Thargomindah,XTG
+Tennant Creek,TCA
+Victoria River Downs,VCD
+Sue Islet,SYU
+Windorah,WNR
+Whyalla,WYA
+Wiluna,WUN
+Wollongong,WOL
+Winton,WIN
+Burnie,BWT
+Yorke Island,OKR
+Yam Island,XMY
+Beijing,NAY
+Chifeng,CIF
+Changzhi,CIH
+Datong,DAT
+Hohhot,HET
+Baotou,BAV
+Shijiazhuang,SJW
+Tongliao,TGO
+Ulanhot,HLH
+Xilinhot,XIL
+Beihai,BHY
+Changde,CGD
+Dayong,DYG
+Meixian,MXZ
+Zhuhai,ZUH
+Liuzhou,LZH
+Zhanjiang,ZHA
+Enshi,ENH
+Nanyang,NNY
+Xiangfan,XFN
+Yichang,YIH
+Ankang,AKA
+Golmud,GOQ
+Hanzhong,HZG
+Qingyang,IQN
+Xining,XNN
+Yan'an,ENY
+Yulin,UYN
+Arvaikheer,AVK
+Altai,LTI
+Bayankhongor,BYN
+Dalanzadgad,DLZ
+Khovd,HVD
+Muren,MXV
+Shangri-La,DIG
+Luxi,LUM
+Simao,SYM
+Zhaotong,ZAT
+Ganzhou,KOW
+Jingdezhen,JDZ
+Jiujiang,JIU
+Quzhou,JUZ
+Lianyungang,LYG
+Huangyan,HYN
+Linyi,LYI
+Quanzhou,JJN
+Huangshan,TXN
+Weifang,WEF
+Weihai,WEH
+Wuxi,WUX
+Wuyishan,WUS
+Wenzhou,WNZ
+Yancheng,YNZ
+Yiwu,YIW
+Zhoushan,HSN
+Bangda,BPX
+Dazhou,DAX
+Guangyuan,GYS
+Luzhou,LZO
+Mianyang,MIG
+Nanchong,NAO
+Nyingchi,LZY
+Wanxian,WXN
+Aksu,AKU
+Qiemo,IQM
+Kuqa,KCA
+Korla,KRL
+Karamay,KRY
+Yining,YIN
+Heihe,HEK
+Jiamusi,JMU
+Jinzhou,JNZ
+Qiqihar,NDG
+Yanji,YNJ
+Valletta,
+Mgarr,
+Mount Keith,WME
+Los Roques,LRV
+Inis Mor,IOR
+Indreabhan,NNR
+Ruegen,GTI
+Berezovo,NBB
+Szczecin,
+Worcester,ORH
+Anqing,AQG
+Ji An,JGS
+Qinhuangdao,SHP
+Yuncheng,YCU
+Lanzhou,LHW
+Jiayuguan,JGN
+Dandong,DDG
+Dongsheng,DSN
+Panzhihua,PZI
+Grytviken,
+South Shetland,
+South Shetland,
+New Rochelle,
+Anoka,
+New Haven,ZVE
+Chicago,
+Dibrugarh,DIB
+Doha,XOZ
+Bremerton,PWT
+Spencer,SPW
+Jefferson City,JEF
+Grand Canyon West,GCW
+Boulder City,BLD
+Tannheim,
+Glenview,
+Baltimore,
+Ice Cap,
+Unst,UNT
+Pagerungan,
+Provincetown,PVC
+Seattle,LKE
+Seria,
+Nazran,%u0
+Gustavia,SBH
+Morro de Sao Paulo,
+Morro de Sao Paulo,
+Belize,TZA
+Kostroma,
+Sukhumi,SUI
+Tambow,TBW
+North Connel,OBN
+Vilamendhoo,
+Vilamendhoo,
+Vilamendhoo,
+Vilamendhoo,
+Aaa,
+Vilamendhoo,
+Vilamendhoo,
+Sharya,
+Shizuoka,FSZ
+Erechim,ERM
+Prangins,
+Courcheval,CVF
+Fullerton,FUL
+Concord,
+Isle Of Wight,
+Fort William,FWM
+Navoi,NVI
+Paris,JPU
+Andernos-Les-Bains,
+Ronda,RRA
+Nauen,
+Etsha 13,
+Champion-7,
+Setif,QSF
+La Rochelle,LRH
+Hailey,SUN
+Yverdon-Les-Bains,
+Portsmouth,PME
+Bielsko-Biala,
+Mason City,MCW
+Salar de Uyuni,
+Isla Pescado,
+Toro Toro,
+Queenstown,
+Queenstown,
+Queenstown,
+Queenstown,
+Nairobi,
+DWEST,
+Niederoeblarn,
+Bad Voeslau,
+Arekuna,
+Uetersen,
+Salzwedel,
+Nordhausen,
+Paetz,
+Jining,JNG
+Mohe County,OHE
+Daqing,DAQ
+Byron,
+Yaroslavl,IAR
+Sredniiy,
+Kazan,
+Komsomolsk-on-Amur,
+Khabarovsk,
+Irkutsk,
+Ramenskoe,
+Gelendzhik,
+Taganrog,
+Neuchatel,QNC
+Locarno,ZJI
+Fehraltorf,
+Lausanne,
+Triengen,
+Rimatara,RMT
+Ust-Ilimsk,
+Ust-Kut,UKX
+Kavalerovo,
+Kirensk,
+St. Marys,1OH
+Bellona,BN1
+Bellona,BNY
+Ringi Cove,RIN
+Arecibo,ARE
+Wenatchee,EAT
+Bendigo,
+Sao Joao del Rei,JDR
+Perth,
+Wangerooge,AGE
+Harlesiel,
+Oshkosh,OSH
+Brest,BQT
+Ternopol,TNL
+Chernigov,CEJ
+Lutsk,UKC
+Benton Harbor,BEH
+Waukesha,UES
+Ronda,
+Thurles,
+Limerick,
+Nowra,NOA
+Laverton,
+Katherine,KTR
+Amberley,
+Geiranger,
+Zell am See,
+Greenwood,10C
+Everglades,X01
+Choibalsan,COQ
+Taree,TRO
+Orange,OAG
+Grafton,GFN
+Gasan,MRQ
+Hamadan,HDM
+St-Augustin,YIF
+Vieques Island,VQS
+Kalemyo,KMV
+Les Saintes,LSS
+Yenisehir,YEI
+\'c7orlu,TEQ
+Sinop,SIC
+Mus,MSR
+Canakkale,CKZ
+Eskissehir,AOE
+Mpacha,MPA
+Walvis Bay,WVB
+Punta del Este,PDP
+Sialkot,SKT
+Bonaventure,YVB
+Brus Laguna,BHG
+Samburu South,UAS
+Chaoyang,CHG
+Walaha,WLH
+Tanjung Manis,TGC
+Long Akah,LKH
+Geneina,EGN
+Togiak Village,TOG
+Port Heiden,PTH
+King Cove,KVC
+New Stuyahok,KNW
+Igiugig,IGG
+Shimla,SLV
+Nanded,NDC
+Kangra,DHM
+Shahre Kord,CQD
+Sege,EGM
+Burgos,RGS
+Leon,LEN
+Deering,DRG
+Zarafshan,AFS
+Mardin,MQM
+Tacheng,TCG
+Tocache,
+Lago Agrio,LGQ
+Parsabad,PFQ
+Ilam,IIL
+Gorgan,GBT
+Maragheh,ACP
+Romblon,TBH
+Wuzhou,WUZ
+Hami,HMI
+Sand Point,SDP
+Gorakhpur,GOP
+Araracuara,ACR
+Hagerstown,HGR
+Bella Coola,QBC
+Pajala,PJA
+Port Clarence,KPC
+Governador Valadares,GVR
+Apatity,KVK
+Cauayan,CYZ
+Nicoya,TMU
+La Fortuna/San Carlos,FON
+Imo,QOW
+Arctic Village,ARC
+Tasiujaq,YTQ
+Puvirnituq,YPX
+Ormoc City,OMC
+Noatak,WTK
+Savoonga,SVA
+Shishmaref,SHH
+Ruby,RBY
+Point Hope,PHO
+Mekoryuk,MYU
+Kivalina,KVL
+St Mary's,KSM
+Kaltag,KAL
+Hooper Bay,HPB
+Gambell,GAM
+Atqasuk,ATK
+Anvik,ANV
+Anaktuvuk Pass,AKP
+Altay,AAT
+Null,
+Dallas,
+Naypyidaw,ELA
+Kyauktu,
+Jan Mayen,ZXB
+Bokepyin,
+Changsha,HHA
+Manzhouli,NZH
+Wuhai,WUA
+Gary,GYY
+Brainerd,BRD
+Lewisburg,LWB
+Greenville,PGV
+Chefornak,CYF
+Oxnard,OXR
+Branson,BKG
+Tongren,TEN
+Jian,KNC
+Baltimore,ZBP
+New York,ZYP
+Niau,NIU
+Scotia NY,SCH
+Nizhnekamsk,NBC
+Bogovarovo,
+Greenland Ice Cap,
+Osubi,QRW
+Volkel,
+Siargao,
+Langeoog,LGO
+Fane,FNE
+Itokama,ITK
+Ononge,ONB
+Tapini,TPI
+Wanigela,AGL
+Woitape,WTP
+Awaba,AWB
+Telefomin,TFM
+Biel,
+Nelspruit,NLP
+Cherkassy,CKC
+Gotland,
+Faro,
+St. Augustine Airport,UST
+Nikolayev,NLV
+Ramechhap,RHP
+Santa Rosa,STS
+Kissimmee,ISM
+Lake City,LCQ
+DeLand,
+Green Cove Springs,
+Santa Lucia,
+Logan,LGU
+Brigham City,BMC
+Malad City,MLD
+Aspen,ASE
+Hilton Head,HHH
+Ulyanovsk,ULV
+Horog,
+Sabi Sabi,GSS
+Philadelphia,ZFV
+Brownwood,BWD
+Mexia,LXY
+Kerrville,ERV
+Birrfeld,
+Georgetown,GED
+Prince Rupert,ZSW
+Great Bend,GBN
+Hays,HYS
+Null,SUS
+Ely,LYU
+Grand Rapids MN,GPZ
+Thief River Falls,TVF
+Eagle River,EGV
+Minocqua - Woodruff,ARV
+Ankeny,IKV
+Berens River,YBV
+Corpus Christi,NGP
+Port Simpson,YPI
+Catalina Island,AVX
+Mojave,MHV
+Interlaken,ZIN
+Kenmore,KEH
+Corozal,CZH
+Inisheer,INQ
+Maennlichen,
+Ostermundigen,
+Strezhevoy,SWT
+Cashel,
+Hutchinson,HUT
+Kabul,BPM
+Al Kharj,
+Eagle,EGA
+Oak Lawn,
+Chicago,
+Gelendzik,GDZ
+Rosecrans,STJ
+Hartford,ZRT
+Stamford,ZTF
+Newark,ZRP
+Papa,
+Cuxhaven,NDZ
+Camp Douglas,VOK
+Beauford,BFT
+Adana,UAB
+Gunnison,GUC
+Xi\\\\'AN,SIA
+Torrance,TOA
+Manistee,MBL
+Honolulu,
+Punta Gorda,PGD
+Grand Canyon,JGC
+Frenchville,WFK
+Jamestown,JHW
+Mont-Tremblant,YTM
+Somerset,SME
+Weyers Cave,SHD
+Devils Lake,DVL
+Dickinson,DIK
+Sidney,SDY
+Chadron,CDR
+Alliance,AIA
+McCook,MCK
+Marathon,MTH
+Glendive,GDV
+Wolf Point,OLF
+West Yellowstone,WYS
+Alamosa,ALS
+Moab,CNY
+Ely,ELY
+Vernal,VEL
+Ruidoso,SRR
+Show Low,SOW
+McCall,MYL
+Salmon,SMN
+Mammoth Lakes,MMH
+Friday Harbor,FRD
+Eastsound,ESD
+Anacortes,OTS
+Astoria,AST
+Newport,ONP
+Emmonak,EMK
+Unalakleet,UNK
+Kuparuk,UUK
+Shageluk,SHX
+Chuathbaluk,CHU
+Nuiqsut,NUI
+Eek,EEK
+Kasigluk,KUK
+Kwethluk,KWT
+Kwigillingok,KWK
+Marshall,MLL
+Russian Mission,RSH
+Tuntutuliak,WTL
+Ekwok,KEK
+Koliganek,KGK
+Levelock,KLL
+Manokotak,KMO
+Twin Hills,TWA
+Chalkyitsik,CIK
+Eagle,EAA
+Hughes,HUS
+Huslia,HSL
+Livingood,LIV
+Minto,MNT
+Nulato,NUL
+Rampart,RMP
+Tanana,TAL
+Venetie,VEE
+Beaver,WBQ
+Central,CEM
+Shungnak,SHG
+Brich Creek,KBC
+Coldfoot,CXF
+Inyokern,IYK
+Visalia,VIS
+Merced,MCE
+Colonia,CYR
+Camelo,
+Campinas,CPQ
+Goodyear,
+Park City,
+Toowoomba,TWB
+Ballera,
+Gatton,
+Arkalyk,AYK
+Hamburg,
+Neujellingsdorf,
+Kirchheim-Teck,
+Angoon,AGN
+Elfin Cove,ELV
+Tenakee Springs,TKE
+Pelican,PEC
+Sitka,CYM
+Funter Bay,FNR
+Excursion Inlet,EXI
+Hoonah,HNH
+Kake,AFE
+Craig,CGA
+Hollis,HYL
+Metakatla,MTM
+Thorne Bay,KTB
+Hydaburg,HYG
+Hyder,WHD
+Point Baker,KPB
+Port Protection,PPV
+North Whale Pass,WWP
+Chignik Lake,KCQ
+Egegik,EGX
+Chignik Lagoon,KCL
+Chignik,KBW
+Perryville,KPV
+Pilot Point,PIP
+South Naknek,WSN
+Akhiok,AKK
+Karluk,KYK
+Larsen Bay,KLN
+Old Harbor,OLH
+Ouzinkie,KOZ
+Port Lions,ORI
+Lazy Bay,ALZ
+Amook Bay,AOS
+Kitoi Bay,KKB
+Moser Bay,KMY
+Olga Bay,KOY
+Port Bailey,KPY
+Port Williams,KPR
+Seal Bay,SYB
+San Juan,WSJ
+West Point,KWP
+Zachar Bay,KZB
+Ambler,ABL
+Buckland,BKC
+Kiana,IAN
+Kobuk,OBU
+Noorvik,ORV
+Selawik,WLK
+Brevig Mission,KTS
+Elim,ELI
+Golovin,GLV
+Teller,TLA
+Wales,WAA
+White Mountain,WMO
+Council,CIL
+Koyuk,KKA
+St. Michael,SMK
+Shaktoolik,SKK
+Stebbins,WBB
+Tin City,TNC
+Atka,AKB
+Nikolski,IKO
+Icy Bay,ICY
+Yakataga,CYT
+Alakanuk,AUK
+Nunam Iqua,SXP
+Kipnuk,KPN
+False Pass,KFP
+Nelson Lagoon,NLG
+Cold Bay,PML
+Klawock,KLW
+Quinhagak,KWN
+Kotlik,KOT
+Koyukuk,KYU
+Scammon Bay,SCM
+Nondalton,NNL
+Pedro Bay,PDB
+Nunapitchuk,NUP
+Kongiganak,KKH
+Nikolai,NIB
+Takotna,TCT
+Pilot Station,PQS
+Akiak,AKI
+Tuluksak,TLT
+Grayling,KGX
+Wainwright,AIN
+ZAPALA,APZ
+Rincon de los Sauces,RDS
+Colonia Sarmiento,OLN
+Grytvyken,
+Rio Turbio,RYO
+Puerto Natales,PNT
+Caleta Olivia,CVI
+El Chalten,
+Sierra Grande,SGV
+Ingeniero Jacobacci,IGB
+Lago Posadas,
+El Chalten,ELX
+Chenega,NCN
+Chisana,CZN
+Tok,6K8
+Circle,IRC
+Coffman Cove,KCC
+Crooked Creek,CKD
+Red Devil,RDV
+Sleetmute,SLQ
+Stony River,SRV
+Healy,HKB
+Kake,KAE
+Klawock,AQC
+Lake Minchumina,MHM
+Manley Hot Springs,MLY
+St. George,STG
+Tatitlek,TEK
+Ketchikan,WFB
+Fox Harbour,
+Natuashish,
+Postville,YSO
+Kangiqsujuaq,YWB
+Alma,YTF
+Havre-Saint-Pierre,YGV
+Rimouski,YXK
+Vakarufahli Island,
+Vakarufalhi Island,
+Tadoule Lake,XTL
+Lac Brochet,XLB
+South Indian Lake,XSI
+Brochet,YBT
+Little Grand Rapids,ZGR
+Cross Lake,YCR
+Red Sucker Lake,YRS
+Rainbow Lake,YOP
+Bonnyville,YBY
+Nanaimo,ZNA
+Ganges,
+Bedwell Harbour,
+Qualicum Beach,XQU
+Fort St. James,YJM
+Boundary Bay,YDT
+Langley Township,
+Bella Bella,ZEL
+Sechelt-Gibsons,YHS
+Wekweeti,
+Guasave,
+Cedros,
+Cabo San Lucas,
+Bahia Tortugas,
+San Bruno,PVP
+Ziyaraifushi,
+Brussels,ZYR
+Caye Chapel,CYC
+Big Creek,BGK
+Dangriga,DGA
+Placencia,PLJ
+Sarteneja,SJX
+Huehuetenango,
+Corn Island,RNI
+Bonanza,BZA
+Rosita,RFS
+Siuna,SIU
+Waspam,WSP
+San Carlos,
+Carrillo,RIK
+Fussen,FUS
+Montserrat,
+Monte Plata,
+Constanza,COZ
+Negril,NEG
+Bochum,EBO
+Kaufbeuren,KFB
+Munich,ZMU
+Nuernberg,ZAQ
+Ceiba,RVR
+Merlo,RLO
+Charlotte Amalie,
+Christiansted,SSB
+Alto Rio Senguer,ARR
+Jose de San Martin,JSM
+Uyuni,UYU
+Augsburg,ZAU
+Mannheim,ZMA
+Essen,ZES
+Rerrenabaque,RBQ
+Lancaster,
+Ardmore,
+Abaiang Atoll,ABF
+Iselin,
+East St. Louis,CPS
+Afobaka,
+Alapadu,
+Albina,ABN
+Anapaike,
+Apetina,
+Botopasi,BTO
+Djoemoe,DOE
+Drietabbetje,DRJ
+Kabalebo,
+Kayser,
+Kwamelasemoetoe,
+Moengo,
+Nieuw Nickerie,ICK
+Paloemeu,OEM
+Sarakreek,
+Sipaliwini,
+Stoelmans Eiland,SMZ
+Totness,TOT
+Wageningen,AGI
+Kaieteur Falls,KIA
+Guapiles,CSC
+Newport News,
+Portland,
+Orinduik,ORJ
+Annai,NAI
+Apoteri,
+Imbaimadai,IMB
+Kamarang,KAR
+Mabaruma,USI
+Mahdia,MHA
+Pedro Juan Caballero,PJC
+Acandi,ACD
+Saravena,RVE
+La Chorrera,LCR
+Batagay,
+La Macarena,LMC
+Villa Garzon,VGZ
+El Bagre,EBG
+Caucasia,CAQ
+Condoto,COG
+Tolu,TLU
+Cabo Frio,CFB
+Westport,
+Trenton,
+Sinop,OPS
+Gurupi,GRP
+Santana do Araguaia,CMP
+Breves,BVS
+Soure,SFK
+Parintins,PIN
+Barreiras,BRA
+Santa Terezinha,STZ
+Minacu,MQH
+Araguaina,AUX
+Novo Aripuana,NVP
+Lucas do Rio Verde,LVR
+Franca,FRC
+Dourados,DOU
+Labrea,LBR
+Rondonopolis,ROO
+Guarapuava,GPB
+Joacaba,JCB
+Philadelphia,
+Aberdeen,
+Glasgow,
+Edinburgh,ZXE
+Newcastle Upon Tyne,
+Leeds,
+Manchester,
+Liverpool,
+London,
+Rio Verde,RVD
+Araxa,AAX
+Maues,MBZ
+Borba,RBB
+Coari,CIZ
+Barcelos,BAZ
+Juneau,
+Seattle,
+Juneau,
+Skagway,
+Ketchikan ,
+Victoria,
+Diamantino,DMT
+Guanambi,GNM
+Djelfa,QDJ
+Nzagi,
+Catoca,
+Lucapa,LBZ
+Kapanda,KNP
+Am Timan,AMC
+Sharq Al-Owainat,GSQ
+Martinsburg,MRB
+Awasa,AWA
+Jijiga,JIJ
+Mekane Selam,MKS
+Debre Marqos,DBM
+Debre Tabor,DBT
+Debre Zeyit,QHR
+Goba,GOB
+Mayumba,MYB
+Masai Mara,MRE
+Lewa,
+Meru National Park,
+Rumbek,RBX
+Yei,
+Greenville,CPA
+Ambatomainty,AMY
+Kyoto,UKY
+Ecuvillens,
+Andermatt,
+Wohlen bei Bern,
+Bazaruto Island,BZB
+Benguera Island,BCW
+Inhaca,
+Indigo Bay Lodge,IBL
+Gombe,
+Uyo,
+Katsina,
+Matam,MAX
+Bird Island,BDI
+Mogadishu,
+El Daein,
+Wadi Halfa,WHF
+Enfidha,NBE
+Kidepo,
+Kitgum,
+Pakuba,PAF
+Sveagruva,
+Ny-Alesund,
+Hatay,HTY
+Kihnu,
+Ruhnu,
+Raivavae,RVV
+Foshan,FUO
+Huizhou,HUZ
+Lleida,ILD
+Porvenir,WPR
+Ouessant,
+Montreal,YMY
+Toronto,YBZ
+Bildudalur,BIU
+Gjogur,GJR
+Saudarkrokur,SAK
+Selfoss,
+Inishmaan,IIA
+Taldykorgan,TDK
+Olgii,ULG
+Lille,XDB
+Kurgan Tyube,
+Vologda,VGD
+Evensk,
+Olenyok,
+Saskylakh,
+Lensk,
+Iturup Island,BVV
+Okha,OHH
+Arkhangelsk,LDG
+Nizhneangarsk,
+Taksimo,
+Vanavara,
+Aykhal,
+Yekaterinburg,
+Baykit,
+Biysk,
+Huesca,HSK
+Ciudad Real,CQM
+Najaf,NJF
+Hilversum,QYI
+Colonsay,CSA
+Coll,COL
+Rock Hill,RKH
+Pittsburgh,AGC
+Jacksonville,NZC
+Atlanta,FTY
+Tresco,TSO
+Tarin Kowt,TII
+Zaranj,ZAJ
+Chaghcharan,CCN
+Four Corners,
+Fuyang,FUG
+Longyan,LCX
+Baoshan,BSD
+Xingyi,ACX
+Macau,XZM
+Liping,HZH
+Ocean Isle Beach,60J
+Stepanakert,
+Columbus,OSU
+Rio Sidra,RSI
+Addison,ADS
+Destin,DTS
+Fort Jefferson - Dry Tortugas,RBN
+Kherson,KHE
+Stewart Island,SZS
+Assumption Island,
+Zhijiang,HJJ
+Assumption Island,
+Yarmouth,YQI
+Kinston,ISO
+Kill Devil Hills,FFA
+Pebble Island Settlement,
+Sea Lion Island,
+Lively Island,
+Lincang,LNJ
+Wenshan,WNH
+Manaus,PLL
+Sao Gabriel da Cachoeira,SJL
+Maturaca,
+Parauapebas,CKS
+Alcantara,
+Itaituba,ITB
+Latur,LTU
+Anambas Islands,MWK
+Mainz,QFZ
+Wuerzburg,
+Mainz,QMZ
+Berlin,GWW
+Rheine,ZPQ
+Aveiro,
+Toraja,TTR
+Hopsten,
+Ceiba,
+Khalije Fars,PGU
+Yasuj,YES
+Mosul,OSB
+Toyooka,TJH
+Amakusa,AXJ
+Kikai,KKX
+Aguni,AGJ
+Chongjin,
+Haeju,HAE
+Layang Layang Atoll,LAC
+Uliastai,
+Bulgan,UGA
+Ulaangom,ULO
+Borongan,BPR
+Lubang,LBX
+Bentota,BJT
+Dickwella,DIW
+Kulyab,TJU
+Cimei,CMJ
+Dasoguz,TAZ
+Barrow Island,BWB
+Morawa,MWB
+Exmouth,EXM
+Derby,DRB
+Walgett,WGE
+Bathurst Island,BRT
+Dunk Island,DKI
+Lizard Island,LZR
+Hamilton,HLT
+Halls Creek,HCQ
+Fitzroy Crossing,FIZ
+Ravensthorpe,RVT
+Budd Coast,
+Provo,PVU
+Steamboat Springs,SBS
+Delta,DTA
+Richfield,RIF
+Price,PUC
+Los Alamos,LAM
+Borrego Springs,BXS
+Lake Havasu City,HII
+Winslow,INW
+Douglas,DGL
+Marakei,MZK
+Abemama,AEA
+Buariki,AAK
+Kuria,KUC
+Arorae,AIS
+Tamana,TMN
+Beru Island,BEZ
+Nikunau,NIG
+Butaritari,BBG
+Makin,MTK
+Maiana,MNK
+Nonouti,NON
+Tabiteuea,TSU
+Bosset,BOT
+Ine,IMI
+Tinak,TIC
+Ebon,
+Elenak,EAL
+Lae,LML
+Airok,AIC
+Enejit,EJT
+Whitianga,WTZ
+Takaka,KTF
+Peleliu,C23
+Angaur,
+Savai\\\\'i,AAU
+Afutara,AFT
+Ulawa,RNA
+Choiseul Bay,CHY
+Santa Ana,NNB
+Yandina,XYA
+Batuna,BPF
+Bartow,BOW
+Kostroma,KMW
+Yuryevets,
+Ozerny,
+Enkheluk,
+Khakusy,
+Fiti\\\\'uta,FTI
+Ofu,OFU
+Livermore,LVK
+Mariposa,MPI
+Seogwipo,
+Grootfontein,GFY
+Rundu,NDU
+Beppu,BPU
+Heron Island,HRN
+Lady Elliot Island,LYT
+Orpheus Island,ORS
+London,QQP
+Liskeard,
+Roscoff,
+Angmagssalik,AGM
+Ketchikan,
+Fraser BC,
+Carcross YT,
+Palm Springs,TRM
+Santa Monica,SMO
+Palm Springs,UDD
+Scottsdale,ZSY
+Olympia,OLM
+Davis-Woodland-Winters,DWA
+Rifle,RIL
+SARATOGA,SAA
+Atlanta,PDK
+Bloomington,BMG
+Stuart,SUA
+Morristown,MMU
+Napa,APC
+San Diego,SDM
+Wangen-Lachen,
+Pahokee,PHK
+Venice,
+Pahokee,
+Kineshma,KIE
+Nezhitino,NEZ
+Glasgow,
+London,
+Machu Pichu,MFT
+Panama City,ECP
+San Bernardino,SBD
+Valenca,VAL
+Mossoro,MVF
+Caruaru,CAU
+Wake island,AWK
+Nova Iguacu,QNV
+Paris,XPG
+Paris,XGB
+Tours,XSH
+Buenos Aires,
+Montevideo,
+Colonia del Sacramento,
+Montevideo,
+San Carlos,SQL
+Courtelary ,
+Koszalin,OSZ
+Okavango Delta,
+Dujiangyan,
+Maiwa,
+Lelystad,LEY
+Rocky Mount,RWI
+Whittier,
+Soldotna,SXQ
+El Cajon,SEE
+San Clemente Island,
+Latacunga,LTX
+London,STP
+Amsterdam,ZYA
+Freetown,JMY
+Victoria Falls,
+Phan Rang,PHA
+Son-La,SQH
+Truckee,TKF
+Frejus,FRJ
+Geelong,GEX
+Detroit,
+Ventura,
+Berlin,QPP
+Amsterdam,ZYA
+Moultrie,MGR
+Mezen,
+Arkhangelsk,
+Atlanta,RYY
+Oneonta,ONH
+Tulln,
+Georgetown Acension Island Santa Helena,ASI
+Dell,4U9
+Livingston-Montana,LVM
+Kota Kinabalu,ZWR
+Valetta,
+Big Timber,6S0
+Holland,BIV
+London,
+Venice,
+Tallinn,
+Helsinki,HEN
+Linkenheim,
+Monument Valley,
+Hilversum,
+New York,JRA
+Texel,
+Das i Fontanals de Cerdanya,
+Lakeland,LAL
+Valetta,
+Mgarr,
+Bangkok,
+Jebel Ali Golf Resort,
+Baa Atoll,
+Stary Oskol,
+Savona,
+Barcelona,
+Casablanca,
+Arrecife Lanzarote,
+Santa Cruz de Tenerife,
+Funchal Madeira,
+Malaga,
+Ponta Delgada Acores,
+Vigo,
+Fort Lauderdale,
+Southampton,
+Miami,
+Nassau,
+Lisbon,
+Cadiz,
+Marseille,
+Los Angeles,
+Kailua Kona Hawaii,
+Nawiliwili Kauai Hawaii,
+Hilo Hawaii,
+Honolulu Oahu,
+Lahaina Maui Hawaii,
+Ensenada,
+Nanaimo Station British Columbia,
+Victoria Station British Columbia,
+Vancouver BC,
+Seattle WA,
+Syangboche,SYH
+New York,IDL
+Krasnoyarsk,
+Murrieta-Temecula,RBK
+Anchorage Alaska,
+Seward Alaska,
+Oristano,FNU
+Maidenhead,
+Mysore,MYQ
+Port Clinton,PCW
+Dayton,MGY
+Richmond,RID
+Findley,FDY
+Niagara Falls,
+Deputatsky,
+Burlington,
+Baganara,
+Penneshaw,PEA
+Matamanoa,
+Kaufbeuren,KFX
+Munich,MUQ
+Nurnberg,NUR
+Ebenhofen,EBE
+Augsburg,AUB
+Biessenhofen,BIE
+Buchloe,BUH
+Fussen,FUX
+Kempten,KEX
+Aiome,AIE
+Simbai,SIM
+Ambunti,AUJ
+Okavango,
+Sossusvlei,
+Marktoberdorf,OAL
+Marktoberdorf,MOS
+Essen,ESX
+Bochum,BOX
+Koln,KOX
+Mannheim,
+Wycombe,
+Bembridge,BBP
+Waterville,
+Chojna,
+Leuterschach,LES
+Spearfish-South Dakota,SPF
+Knokke,KNO
+Rothwell,
+Gdynia,QYD
+Malbork,
+Lask,
+Miroslawiec,
+Poznan,
+Olive Branch,OLV
+Vina del Mar,
+Bangkok,
+Brampton,
+Zonguldak,ONQ
+Broomfield-CO,BJC
+Minot,
+Havre,
+Wishram,
+Salem,SLE
+Tunica,UTM
+Batken,
+Sun Island,
+Kasaba Bay,ZKB
+Lindau,LND
+Puerto Williams,WPU
+Volkel,UDE
+Hoogeveen,
+Deventer,
+Middelburg,
+Ameland,
+Saint-Cyr,
+Milwaukee,MWC
+Janesville,JVL
+Mantsonyane,
+Hatfield,HTF
+Perth,
+Toronto,
+Montreal,
+Arlington,GKY
+Lawrenceville,LZU
+Bowling Green,BWG
+Tulsa,RVS
+Emeryville,
+Bakersfield,
+Novorossiysk,NOI
+Minhad AB,NHD
+Kirovograd,KGO
+Roitzschjora,
+Dabaa City,DBB
+Bryce Canyon,BCE
+Heidelberg,HDB
+Burlington,BUY
+Shchyolkovo,CKL
+Tengchong,TCZ
+Sevastopol,UKS
+Berlin,BER
+Nassau,WZY
+Selous National Park,
+Deurne,
+Camp Bastion,
+Olathe,JCI
+Easton,ESN
+Hamar,HMR
+Frya,
+Elverum,
+Republic,R49
+Yuba City,MYV
+Basel,
+Stockholm,STO
+Helsingborg,JHE
+Phillip Island,
+Duncan,DUC
+New York,
+N.Nilandhoo Atoll,
+Helsinki,
+Chinle,E91
+Uvalde,UVA
+Lockport,LOT
+Urbana,C16
+Concord,CCR
+Ocean Reef Club Airport,OCA
+Denver,
+DELETE,
+Strasbourg Neudorf,
+Nannhausen,
+Yushu,YUS
+Playon Chico,PYC
+Ustupo,UTU
+Mamitupo,MPU
+Huai An,HIA
+Mureck,
+Guessing,
+El Porvenir,PVE
+Oshawa,YOO
+Recklinghausen,
+Farila,
+Lahr,LHA
+Monywa,
+Athens,
+Springfield,SGH
+South Aari Atoll,MSI
+Fes,
+Santo Domingo,HEX
+Cooinda,CDA
+Jabiru,JAB
+Pitt Island,
+Plattling,
+Osterhofen Niederbayern,
+Passau,
+Regensburg,
+Regensburg,RGB
+Treuchtlingen,TLG
+Rivera,
+Miami,MPB
+Freetown,HGS
+Topeka,TOP
+Serengeti National Park,
+Emporia,EMP
+Uvalde,
+Null,
+Smyrna,
+Sewanee,
+Shiquanhe,NGQ
+Cochstedt,CSO
+Wurzburg,WZB
+DALLAS,TKI
+Chicago-Wheeling,PWK
+Masai Mara National Park,
+Kelso,KLS
+Benesov,
+Put-in-Bay,3W2
+Bougouni,
+Glenwood Springs,
+Grand Junction,
+Reno,
+Sacramento,
+Tureia,ZTA
+Ross Island,
+Keekorok,
+Mara Intrepids,
+Mara Intrepids,
+Kichwa Tembo,
+Busan,
+Busan,
+Chessy,
+Port Townsend,TWD
+Lynden,38W
+Port Townsend,0S9
+Savut,
+Xakan,
+Xakan,
+Xugan,
+Puerto Obaldia,PUE
+Kerch,KHC
+Surat Thani,
+Surat Thani,
+Boston,
+Tarifa,
+Ottawa,XDS
+Belleville,XVV
+Edmonton,XZL
+Richmond,ZRD
+Kuala Lumpur,XKL
+Churchill,XAD
+Winnipeg,XEF
+Kingston,
+Ukunda,UKA
+Whitsunday Island,
+Wilmington,ILN
+Tucson,AVW
+Casa Grande,CGZ
+Mobile,
+Buckeye,BXK
+Gila Bend,E63
+Athens,MMI
+Sterling,STK
+Rawlins,RWL
+Mackenzie British Columbia,YZY
+Jalu,
+Jalu,
+Caldwell,CDW
+Kaiser Lake Ozark,AIZ
+Yuryevets,
+Big Bear,L35
+KIEV,KIP
+Los Angeles,
+Bamberg,BAM
+Ingolstadt,IGS
+Thomasville,TVI
+Henderson,HSH
+Kiev,GML
+Kaohsiung,
+Taipei,
+Donghae,
+Sakaiminato,
+Tifton,TMA
+Landshut,
+Itzehoe,
+Savannah,
+CHARLESTON,
+NEW YORK,
+HAMILTON,
+Tokyo,
+Osaka,
+Hiroshima,
+Frankfurt,ZRB
+Amsterdam,
+Prague,
+Vienna,
+Prague,XYG
+Vienna,
+Venice,
+Florence,
+Rome,
+London,QQS
+Chitabe,
+Fish River Canyon,
+Sossusvlei,
+Ulusaba,ULX
+RADOM,QXR
+Phoenix ,DVT
+Calgary,YBW
+Golden,YGE
+Revelstoke,YRV
+Farmingdale,
+Allstedt,
+Amberg,
+Peine,
+Curico,
+Peine,
+Seattle,
+Tula,TYA
+Hondo,HDO
+Zhongwei,ZHY
+Milwaukee,
+Springfield,
+St. Louis,
+Camarillo,
+Seattle,
+Bremerton,
+McKinley Park,MCL
+Anchorage,LHD
+Prospect Creek,PPC
+Khwai River,KHW
+Welzow,
+Taichung,TXG
+Hudson NY,HCC
+Sasovo,
+Hong Kong,
+Hong Kong,
+Macau,
+Macau,
+Wheeling,HLG
+Fitzgerald,FZG
+Perry,40J
+Cairo,70J
+Vancouver,
+Mestia,
+Samsun,SSX
+Ye,XYE
+Isla San Felix,
+Kingston,XEG
+Dorval,XAX
+Brockville,
+Brockville,
+Shaybah,
+Dubai,DWC
+Rockport,RKP
+Bandanaira-Naira Island,NDA
+Verdun,MVV
+Ajaccio,MFX
+Oldbury,
+Baise,AEB
+Okaukuejo,OKF
+Mokuti Lodge,OKU
+Rotenburg Wuemme,
+Wipperfuerth,
+Osnabrueck,
+Ballenstedt,
+Hasenmoor,
+Ganderkesee,
+Nienburg Weser,
+Damme,
+Duelmen,
+Obermehler,
+Hodenhagen,
+Grube,
+Toender,
+Celle,
+Uelzen,
+Hamm,
+Luesse,
+Bad Oeynhausen,
+Brilon,
+Bad Pyrmont,
+Cuxhaven,
+Koethen,
+Sankt Michaelisdonn,
+Salzgitter,
+Karlshoefen,
+Oldenburg,
+Rinteln,
+Muenster,
+Sankt Peter-Ording,PSH
+Luechow,
+Scharlibbe,
+Burg,
+Cordele,CKF
+Ormond Beach,OMN
+Bad Neuenahr,
+Bad Duerkheim,
+Troutdale,TTD
+Hillsboro,HIO
+New York,
+Leverkusen,
+Live Oak,24J
+Wershofen,
+Khost,KHT
+Tengiz,
+Tengiz,
+NAYPYITAW,NYT
+Livingstone,
+Bend,
+Christmas Valley,
+Burns,
+Prineville,
+Red Bluff,
+Novato,
+Lakeview,
+Tillamook,
+Ontario,
+The Dalles,
+Gaithersburg,GAI
+Cincinnati,
+Sharan,
+Sharona,AZ3
+Pembroke,YTA
+Tsumeb,TSB
+Suffield,YSD
+Wainwright,
+Wainwright,
+BLUMENAU,BNU
+Targu Mures,
+Sibiu,
+Sibiu,SIB
+Stupino,
+Timisoara,
+Timisoara,CIO
+Tsavo East,
+Tsavo East,
+Cleveland,
+Charelvoix,CVX
+Quincy,2J9
+Pferdsfeld,
+Mykines,
+Cape Town,
+Cape Town,
+Cape Town,
+Roche Harbor,RCE
+Blakely Island,BYW
+Rosario,RSJ
+Westsound,WSX
+Friday Harbor,FBS
+Big Bay,YRR
+Death Valley National Park,L06
+Cornwall,YCC
+Bosschenhoofd,
+St.Stephan,
+Juiz de Fora,IZA
+Brasov,
+Flagler,XFL
+Deva,DVA
+Dezmir,DZM
+Antarctica,
+Antarctica,
+Morrisville,MVL
+Dallas,RBD
+Como,
+Vellezzo Bellini,
+Beaver Island,6Y8
+Baikonur,
+Moscow,MOW
+Washington County,WST
+Block Island,BID
+Atmautluak,
+Atmautluak,
+Atmautluak,369
+Nightmute,NME
+Toksook Bay,OOK
+Tununak,TNK
+Goodnews Bay,GNU
+Newtok,WWT
+Achutupo,ACU
+Tubuala,TUW
+Garachine,GHE
+Mulatupo,MPP
+Ittoqqortoormiit,OBY
+Vinnitsa,VIN
+Gent,
+Bruges,
+Bruges,
+Yokohama,
+Angers,QXG
+Bainbridge,BGE
+La Romaine,
+Kegaska,ZKG
+Black Tickle,YBI
+Silver Springs,SPZ
+Los Angeles,WHP
+Madera,MAE
+Mountain Home,U76
+Trail,YZZ
+Patricia Bay,
+Arctic Bay,YAB
+Hope Bay,
+Belmopan,BCV
+Grand-Santi,
+Maripasoula,MPY
+Saint-Laurent-du-Maroni,LDX
+Cayana,AAJ
+Laduani,LDO
+Burqin,KJI
+Capurgana,CPB
+Sohag,HMB
+Rivera,RVY
+Patos de Minas,POJ
+Bauru,JTC
+Ourilandia do Norte,OIA
+Redencao,RDC
+Sao Felix do Xingu,SXX
+Bointo,BYO
+Sao Felix do Araguaia,SXO
+Cacador,CFC
+Carauari,CAF
+Porto Urucu,
+Eirunepe,ERN
+Concordia,CCI
+Francisco Beltrao,FBE
+Confresa,CFO
+Jefferson,19A
+Apalachicola,AAF
+Umuarama,UMU
+Diamantina,DTI
+Fonte Boa,FBA
+Sao Paulo de Olivenca,OLC
+Humaita,HUW
+Santa Isabel do Rio Negro,IRZ
+Oriximina,ORX
+Una,UNA
+Algeciras,
+Algeciras,
+Hong Kong,
+Hong Kong,
+Telfer,TEF
+Alanya,GZP
+Shank,
+St. Augustine,SGJ
+Londolozi,LDZ
+Sabi Sands,
+Sabi Sands,
+Sabi Sands,INY
+Douglas,DQH
+Fort Pierce,FRP
+Alexandria,ALX
+Taunton,TAN
+Plymouth,PYM
+North Kingstown,OQU
+Mansfield,1B9
+Norwood,OWD
+Westfield,BAF
+Willimantic,IJD
+Montgomery,MGJ
+Harrisburg,CXY
+Marshfield,GHG
+Danbury,DXR
+Nashua,ASH
+Lawrence,LWM
+Oxford,OXC
+Fitchburg,FIT
+Villa Rica,
+Cartersville,VPC
+Centre,PYP
+Rome,RMG
+Gadsden,GAD
+Knoxville,DKX
+Winder,WDR
+Sylvania,JYL
+Dalton,DNN
+Carrollton,CTJ
+Fort Payne,4A9
+LaGrange,LGC
+Milledgeville,MLJ
+Cedartown,4A4
+Pine Mountain,PIM
+Atlanta,FFC
+Covington,9A1
+Gainesville,GVL
+Canton,
+DeFuniak Springs,54J
+LaFayette,9A5
+New Philadelpha,PHD
+Darlington,UDG
+Hilton Head Island,HXD
+Ellijay,49A
+Elizabethton,0A9
+Tuskegee,06A
+Augusta,DNL
+Morganton,MRN
+Pikeville,PBX
+Locust Grove,
+Toccoa,TOC
+Shaftesbury,
+MFO,
+MFO,
+MFO,
+MFO,
+Poltava,PLV
+Calais,
+Dover,
+Aweil,
+Wau,WUU
+Humera,HUE
+Moyale,OYL
+Zagora,
+Yengema,WYE
+Gbangbatok,GBK
+Hong Kong,
+Tampa,VDF
+Turukhansk,
+Bor,
+Fort Worth,AFW
+East Troy,57C
+Kolpashevo,
+San Diego,MYF
+Seoul,SEL
+Kuwait,
+Renmark,RMK
+Leigh Creek,
+Warburton Community,
+Cunderdin,
+Rottnest Island,
+Forrest,
+Ballarat,
+Keewaywin,KEW
+Marathon,YSP
+Hearst,YHF
+Hornepayne,YHN
+Kirkland Lake,YKX
+Manitouwadge,YMG
+Wawa,YXZ
+Manitowaning,YEM
+Slate Falls,
+Collingwood,
+Brantford,YFD
+Lawrence,LWC
+Wellington,EGT
+Isla San Jose,
+Griffin,6A2
+Saint-Elie,
+REMIRE-MONTJOLY,
+Morsbach,
+REMIRE-MONTJOLY,
+Elysee,
+Citron,
+Maripasoula,
+REMIRE-MONTJOLY,
+Nicosia,NIC
+Pompano Beach,PMP
+Mallacoota,XMC
+Al-Ula,ULH
+Pogapa,
+Pogapa,
+Washington DC,
+Brisbane,
+Brisbane,
+Rockhampton,
+Sydney,
+Melbourne,
+Nambour,
+Bundaberg,
+Hong Kong,
+Hong Kong,
+Alabaster,EET
+Yuendumu ,YUE
+Strasbourg,XWG
+Carefree,
+St. Petersburg,
+Guangzhou,GZS
+Okavango Oddballs Camp,
+Praya,LOP
+Marmul,OMM
+One Hundred Mile House,
+108 Mile Ranch,ZML
+Glasgow,
+Yarram,
+Handan,HDG
+Soufriere,
+Indianapolis,UMP
+London,LOZ
+Baltimore,
+Fredericksburg,FBG
+Cuyo,
+Warsaw,WMI
+Buffalo,
+Princetown,
+Jixi,JXA
+Seattle,
+Palatka,
+Gimli,YGM
+Matheson Island,
+Matheson Island,
+Matheson Island,
+Tura,
+Beloyarsky,EYK
+Ypenburg,
+Racine,RAC
+Taytay,RZP
+Gera,
+Gera,
+Mira Flores,
+Saint-Petersburg,
+Otaru,QOT
+Noboribetsu,
+Arnhem,
+Schaffen,
+Blomberg,
+Buckeburg,
+Shigatse,RKZ
+Redlands,REI
+Chemehuevi Valley,49X
+Riverside,RIR
+Tacoma,TIW
+Tampa,X39
+Athuruga,
+Athuruga,
+Athuruga,
+STROE,
+Oldebroek,
+WERL,
+SZEGED,
+BERLIN,
+COOKSON,
+HOEVENEN,
+HARREVELD,
+TELGTE,
+Gulf Shores,JKA
+Isabela,
+Balzers,
+Vieste,VIF
+Cork,
+Island of Gogland,
+Offshore,
+Punitz-Guessing,
+Khmeinitskiy,HMJ
+Hiroshima,HIW
+Annapolis,
+High River,
+Yalata,
+Hazleton,HZL
+Cumberland,CBE
+Key West,
+Wyndham,
+Bob Quinn Lake,YBO
+Songo Songo Island,
+Ruaha National Park,
+Msembe,
+Fox Glacier,FGL
+Kaluga,KLF
+Reykjahlid,
+Stockholm,XEV
+Uppsala,QYX
+Rotterdam,QRH
+Praha,XYJ
+Bonn,BNJ
+Copenhagen,ZGH
+Salzburg,ZSB
+Antwerp,ZWE
+Lephalale,ELL
+Lone Rock,LNR
+Phillips,
+Monroe,
+Joliet,JOT
+Peru,VYS
+Dirk Hartog Island,
+Jackson,JXN
+Furstenwalde,
+Eberswalde,
+Connellsville,
+Bedford,
+Philadelphia,BBX
+Okeechobee,OBE
+Sebring,SEF
+Avon Park,AVO
+Winter Haven,GIF
+Zephyrhills,ZPH
+Ocala,OCF
+Jesup,JES
+Madison,52A
+Newnan,CCO
+Thomson,HQU
+Aiken,AIK
+Camden,CDN
+Lumberton,LBT
+Ridgeland,3J1
+Pinehurst-Southern Pines,SOP
+Rockingham,RCZ
+Bamberg,99N
+Richland Center,93C
+Viroqua,Y51
+Baraboo,DLL
+Apple River,7A4
+Statesville,SVH
+Sturtevant,C89
+Burlington,BUU
+East Stroudsburg,N53
+Sterling,70N
+Middletown,06N
+Lock Haven,LHV
+Grove City,29D
+Youngstown,04G
+Wadsworth,3G3
+Ashland,3G4
+Monroeville,4G0
+Zelienople,
+Somerset,2G9
+Youngstown,4G4
+Braceville,41N
+Lorain-Elyria,LPR
+Geneva,7D9
+Cleveland,BKL
+Dunkirk,DKK
+Hamburg,4G2
+Trenton,N87
+Mount Holly,VAY
+Pedricktown,7N7
+Linden,LDJ
+Morgantown,O03
+Churchville,0W3
+Angola,ANQ
+Plymouth,C65
+Warsaw,
+Van Wert,VNW
+Bucyrus,17G
+Lake Wales,X07
+Marshall,RMY
+Batavia,GVQ
+Seneca Falls,0G7
+Stormville,N69
+Plainville,4B8
+Bryan,0G6
+Clearwater,CLW
+Lakeland,X49
+Scatsta,SCS
+Buchan Alpha,
+Buchan Alpha,
+Claymore,
+FPSO Anasuria,
+BP Bruce,
+Buchan Alpha,
+Buzzard,
+Clyde,
+Cormorant Alpha,
+Forties Alpha,
+Forties Charlie,
+Fulmar,
+Gannet Alpha,
+Montrose Alpha,
+Tern,
+FPSO Xikomba,
+Berlin,QWC
+Frankfurt Oder,ZFR
+Paris,PLY
+Paris,XHP
+Paris,PAR
+Berlin,BHF
+London,LON
+New York,NYC
+Chicago,CHI
+Chicago,CGX
+Tokyo,TYO
+Beijing,BJS
+Milan,MIL
+Washington,WAS
+Montreal,YMQ
+Toronto,YTO
+Shanghai,
+Jasper,JZP
+Berlin,BGS
+Saarmund,
+North Myrtle Beach,CRE
+Sun Moon Lake,SMT
+Lansing,IGQ
+Tomah,Y72
+Ramona,RNM
+Pont Sur Yonne,
+St Florentin Cheu,
+Saulieu,
+Olten,
+Buochs,BXO
+Quinto,
+Lodrino,
+Roudnice nad Lebem,
+Usti Nad Labem,
+Mauterndorf,
+Notsch Im Gailtal,
+Karlsruhe,
+Weinheim,
+Meaux,
+Chateau-Thierry,
+Coldwater,OEB
+Wilkes-Barre,WBW
+Willoughby,LNN
+Taoyuan,
+Uummannaq,UMD
+Civitavecchia,
+Bayannur,RLK
+Frankfort,FFT
+Lewiston,LEW
+Inowroclaw,
+Pruszcz Gdansk,
+Florence,6S2
+Copperhead,1A3
+Berlin,
+Glenview,NBU
+Tomah,
+Beijing,
+Marco Island Airport,MRK
+Boipeba Island,
+Boipeba Island,
+Drummond Island,DRM
+Lewiston,8M8
+Gladwin,GDW
+Lowell,24C
+South Haven,LWA
+Schaumburg,06C
+Khulna,
+Khulna,
+Khulna,
+Marshfield,MFI
+Wisconsin Rapids,ISW
+Clinton,CWI
+Langenfeld,
+Wadi Rum Desert,
+Beverly,BVY
+Priob\\\\'e,
+Nagaur,
+Moscow,
+Oakdale,O27
+Trois Rivieres,YRQ
+Poplar Bluff,POF
+Somerville,
+Eastport,EPM
+Keokuk,EOK
+Swans Island,ME5
+Perth,PSL
+Caernarfon,
+Grefrath,
+Offenburg,
+Oberwolfach,
+Karlsruhe,
+Lichtenwalde,
+Karlsruhe,
+Holzhau,
+Porto,
+Lisboa,
+Bad Herrenalb,
+St. Paul,
+Soderhamn,SOO
+Newcastle,
+Saravane,VNA
+Lisboa,
+Lisboa-Oriente,
+Zurich,
+Bagdad,E51
+Segeletz,
+Segovia,
+Akeno,
+Ust Kamchatsk,
+Oconomowoc,
+Kozyrevsk,
+Dikson,DKS
+Mine Site,
+Bogande,XBG
+Bantry,BYT
+Caherciveen,CHE
+Aliwal North,
+Alkantpan,
+Alldays,ADY
+Barberton,
+Gualala,E55
+Kent,1G3
+Hamilton,
+Bungoma,
+Bura,
+Busia,
+Embu,
+Garba Tula,
+Garissa,GAS
+Hola,HOA
+Homa Bay,
+Isiolo,
+Kalokol,KLK
+Kericho,KEY
+Kilaguni,ILU
+Kimwarer,KRV
+Andavadoaka,DVD
+Antsirabe,ATJ
+Bekily,OVA
+Ust-Tsylma,
+Atlantic City NJ,ZRA
+Springfield MA,ZSF
+Amherst MA,XZK
+Cape May NJ,
+Lewes DE,
+Bar Harbor ME,
+Yarmouth NS,
+Montreux,
+London,QQK
+Stevenage,XVJ
+Peterborough,XVH
+Pomalaa,PUM
+St. Ignace MI,
+Mackinac Island MI,
+YUR'EVETS,
+Whittlesford,WLF
+Gorno-Altaysk,RGK
+Gryzliny,
+Fond du Lac,FLD
+Waupaca,PCZ
+Stevens Point,STE
+Mys Shmidta,
+Honuu,
+Newberry,ERY
+Forest Lake,25D
+Hannover,ZVM
+Peenemunde,PEF
+Goraszka,
+Nusawiru,
+Pom Pom,
+Moremi,
+New Delhi,
+Agra,
+Urumqi,
+Turpan,
+Galion,GQQ
+Musiara,
+Tiputini,TPN
+Pastaza,PTZ
+Clarksville,CKV
+Oban,
+Memmingen,
+Ulm,
+Aachen,
+Liege,XHN
+Brussels,
+Wyk,OHR
+Lompoc,LPC
+Coatesville,CTH
+Lashkar Gah,BST
+Lankaran,LLK
+Qabala,GBB
+Zaqatala,ZTU
+Lake Placid,LKP
+Long Lake,NY9
+Khandyga,
+Yakutsk,
+Qianjiang,JIQ
+Yuzhno-Kurilsk,DEE
+Wishram,WIH
+Lima,AOH
+Hamhung,DSO
+Samjiyon,YJS
+Geiranger Fjord,
+Gangtok,
+Brunswick,SSI
+Beaver Falls,BFP
+Winterhaven,F57
+Georgetown,GGE
+Cleveland,HDI
+Dayton,2A0
+Steubenville,2G2
+Renton,RNT
+Bromont,ZBM
+La Verne,POC
+Jekyll Island,09J
+Cedar Key,CDK
+Cross City,CTY
+Clemson,CEU
+Heber,36U
+Wichita,BEC
+Canton,47A
+Fernandina Beach,55J
+Padang,
+Calhoun,
+Cornelia,
+Hamburg,ZMB
+Georgetown,GTU
+Rhinebeck,
+Duxford,QFO
+Blankenburg,
+Sidney,SNY
+Bengassi,
+Schofields,
+Luray,
+Waynesboro,W13
+Great Keppel Island,GKL
+Roper Bar,RPB
+Mount Garnet,
+Innisfail,IFL
+Kapolei,
+Bamyan,BIN
+Baishan,NBS
+Sausalito,
+Lewa Downs,
+Huaorani,
+Chongjin,RGO
+Moomba,MOO
+Lublin,LUZ
+Huntsville,
+Leesburg,JYO
+Guelph,
+Geulph,
+San Juan Bautista,
+Maamigili,VAM
+Maldives Hilton Iru fushi,IRU
+Dhigurah,DHG
+Beijing,
+Chengde,
+Yongzhou,LLF
+Mali Losinj,LSZ
+Onslow,ONS
+Theodore,TDR
+RUDNIKI,CZW
+Williamson,SDC
+Clear Lake City,CLC
+Cafayate,CFX
+Fairoaks,
+Boulder,WBU
+Neustadt-Glewe,
+Bischofswiesen,
+Warnemuende,
+Tangshan,TVS
+GOETSENHOVEN,
+Wildenrath,
+Bremgarten,
+Birburg,
+Toul,
+Palo Alto,PAO
+Dubai,
+Ust-Nera,
+Vysoke Myto,
+Spa,
+Mesa,FFZ
+Cooldige,P08
+Cottonwood,P52
+Namur,
+Hasselt,
+Phoenix,A39
+Wickenburg,E25
+Yangzhou,YTY
+Pontiac,PTK
+Fuzhou,
+Xiamen,
+Kissidougou,KSI
+Pecs,QPJ
+Neuwied,
+Castelnuovo di Garfagnana,
+Portovenere,
+Amsterdam,
+Budapest,
+Zagreb,
+Keene,EEN
+Tianshui,THQ
+Kawama,
+Yumuri Valley,
+Kooddoo,GKK
+Glasgow,
+Rochester,RCS
+Den Haag,
+Paris,
+Venlo,
+Monchengladbach,
+Utrecht ,
+Albany,
+Tacoma,
+Orlando,
+Healy,
+Wood Buffalo,JHL
+Charlotte,EQY
+Aare,
+Villach,
+Krakow,
+Vienna,
+Rome,
+Naples,
+London,
+Kankan,KNN
+Rio Hondo,RHD
+Guangzhou,
+Shenzhen,
+Shenzhen,
+Keetmanshoop,KMP
+Shenzhen,
+Zhuhai,
+Kangding,KGT
+Aranyaprathet,
+Nha Trang,
+Veliky Ustyug,VUS
+Iowa City,IOW
+Turpan,TLQ
+Morro de Sao Paulo,
+Windom,MWM
+Sasakwa,
+Yabuli Town,
+Longview,
+Rothera Research Station,
+Sortavala,
+Valaam,
+Annapolis,ANP
+Taipei,
+Kaohsiung,
+Hualien,
+El Merk,
+Budapest,
+Bratislava,
+Ndutu,DUU
+Cuamba,FXO
+Bodaibo,ODO
+Berdoba,
+Zhytomyr,ZTR
+Mozyr,
+Paluknys,
+Mattala,HRI
+Pecos,PEQ
+Hattiesburg,HBG
+Botucatu,QCJ
+Anapolis,
+Sao Carlos,QSC
+Byron Bay,
+Grindelwald,
+Grindelwald,
+Yankton,YKN
+Selma Alabama,SES
+Hwange National Park,
+Sir Bani Yas Island,XSB
+Dalma Island,ZDY
+Playa del Carmen,PCM
+Beccles,
+Kratie,KTI
+Caldera,
+San Pedro de Atacama,
+Copacabana,
+Havelock Island,
+Guyuan,GYU
+Brawdy,
+Paxi,
+Changhai,CNI
+Redhill,KRH
+Bad Gastein,
+Maratea,
+London,
+Jiagedaqi District,JGD
+Chinchilla,CCL
+Hollister,1C9
+Hayward,HWD
+Motueka,MZP
+Shute Harbour,JHQ
+Enstone,
+Portoferrario,
+Pittsburgh,
+Raton,
+Ann Arbor,ARB
+Myrdal,
+Flam,
+Leikanger,
+Gryphon FPSO,
+Shepparton,SHT
+Temora,TEM
+Gayndah,GAH
+Popondetta,EIA
+Wilcannia,WIO
+Bollards Lagoon Station,
+Delamere Range,
+Ivanhoe,
+Menindee,
+Naduri,
+Pooncarie,
+Wiawera station,
+Tilpa,
+Yarramba Station,
+Reichenbach im Kandertal,
+Takayama,
+Himeji,
+Miyajimaguchi,
+Miyajima,
+Brown Bluff,
+Devil Island,
+Gourdin Island,
+Cuverville Island,
+Neko Harbor,
+Port Lockroy,
+Walker Bay,
+Deception Island,
+Labadee,
+Lekki,
+Escravos,
+Volosovo,
+Bijie,BFJ
+Lensk,ULK
+Fairbanks,
+Denali,
+Talkeetna,
+Anchorage,
+Whittier,
+Qingdao,
+Beijing,
+Shanghai,
+Suzhou,
+Khamar-Daban,
+Khamar-Daban,
+Khamar-Daban,
+Khamar-Daban,
+Khamar-Daban,
+Baikal,
+Kavalerovo,
+Igdir,IGD
+Sanliurfa,GNY
+Kutahya,KZR
+Barentsburg,
+Piramida,
+Velikiye Luki,VLU
+Boston,ZTY
+Burlington,
+Niagra Falls,
+Niagara Falls,
+Bangalore,YLK
+Novosibirsk,
+Veligandu,
+Kuramathi,
+Masai Mara,
+Shanghai,
+Suzhou,
+Ulithi,ULI
+Mar-Kuel,
+Kodinsk,
+Nanjing,
+Balkanabat,BKN
+Lake Macquarie,BEO
+Hampton,4A7
+Denver,
+Brampton Island,BMP
+Shanghai,
+Nuernberg,
+Alameda,NGZ
+Stein,
+Dippenricht,
+Lagoon Cove,
+Endelage,
+St. Johann in Tirol,
+Echo Bay,
+Kingcome,
+Thalmaessing,
+Taganrog,
+Buffalo,
+Wilmington,ZWI
+Viceroy Resort,
+Fort McMurray,NML
+Genova,
+Suzhou,
+Elkhart,EKI
+Cochrane,YCN
+Braganca Paulista,BJP
+Brusselton,BQB
+Srednekolymsk,
+Garowe,GGR
+Salt Lake City,
+Hoedspruit,
+Inverell,IVR
+Glen Innes,GLI
+Hangzhou,
+San Diego,
+San Diego,
+Ansbach,
+Venice,
+Immokalee ,IMM
+Sulawesi Tenggara,
+Cambria,
+Brevard County,
+Ragged Island,
+Yichun,YIC
+Costa maya,
+Costa maya,
+Fajardo,
+Essex,
+Cuidad del Carmen,
+Cork,
+Saint-Petersburg,
+Gogland Island,
+New Carrollton,ZRZ
+Ship Channel Cay,
+Walkersville,
+Seattle,
+Petersburg,PTB
+Aso,
+Aso,
+Kasongo,KGN
+McMurdo Station,
+Klatovy,
+Sheboygan,SBM
+Cloudbreak,KFE
+Ephraim,3D2
+Kangel Danda,
+Khanidanda,
+Rara National Park,
+Bajura,BJU
+Frederick,
+Chara,
+Thanh Hoa,THD
+Herning,
+Schleissheim,
+Marana,MZJ
+Glendale,GEU
+Safford,SAD
+Verden,
+Masai Mara,
+Dania Beach,
+Deerfield Beach,
+Korinthos,
+Solomon,SLJ
+Nittenau,
+Kerama,KJP
+Americana,
+Brussels,
+Comino,JCO
+Udine,
+Bratislava,
+Sungai Penuh,
+Kolosovka,
+Ekibastuz,
+Znamenskoe,
+Tevriz,
+Bestobe,
+Stepnogorsk,
+Karabogaz,
+Adamovka,
+Kvarkeno,
+Sikeston,SIK
+Nynashamn,NYN
+Rodby,ROD
+Puttgarden,QUA
+Sonevafushi,
+Royal Island Resort,
+Royal Island Resort,
+Belfast,BE2
+Stranraer,SR2
+Oceano,L52
+Eupen,
+Tetiaroa,TTI
+Osnabrueck,
+Hannover,
+Queensbury,GFL
+Ballston Spa,5B2
+Mechanicville,K27
+Mamuju,MJU
+Crystal River,CGC
+Baltimore,MTN
+Lincoln,LHM
+Fostoria,FZI
+Fryeburg,IZG
+Placida,
+New Orleans,NEW
+Coeur d'Alene,COE
+Beaumont,BMT
+Danville,DNV
+Varberg,
+Coonabarabran,COJ
+Toronto,
+Windsor,
+Dearborn,
+Cocoa,COI
+Valkaria,X59
+Titusville,TIX
+Sebastian,X26
+Terrace Bay,TCY
+Nxabega,
+Colombo,KEZ
+Kandy,KDZ
+Bumi Hills,
+Lagos,
+Warnervale Airport,
+Hati,
+Hati,
+Hati,
+Hati,
+Port Au Prince,
+Saint Marc,
+Dodard,
+Bouarfa,
+Beijing,
+Hong Kong,
+NYERI,NYE
+Alifu Dhaalu Atoll,
+Alifu Atoll,
+Effingham,1H2
+Stoke-on-Trent,
+Tobermory,
+South Baymouth,
+Houston,AAP
+Eden Prairie,FCM
+Likoma Island,LIX
+Olathe,OJC
+Sigiriya,GIU
+Vienna,XWW
+York Mills,
+Neumuenster,EUM
+Tak,TKT
+Marshall,
+Meedhuffushi Island,
+Barrie-Orillia,YLS
+Midland,YEE
+Markham,NU8
+Haliburton,ND4
+Lindsay,NF4
+Saint Catherines,YCM
+Orlando,X04
+Edenvale,
+Orillia,
+Holland Landing,
+Chatham,XCM
+Parry Sound,YPD
+Hanover,
+West Goshen Township,OQN
+Livingston,
+Manassas,MNZ
+Angleton,
+Bubovice,
+Shenzhen,
+Rakkestad,
+Johnstown,
+Snohomish WA,
+Urgup,
+Dolo Ado,
+Yaou,
+Camopi,
+Croisee d Apatou,
+Citron,
+Dieu Merci,
+Dorlin,
+Elysee,
+Morsbach,
+Saint Elie,
+Remire,
+Istanbul,
+Istanbul,
+Bingol,BGG
+Kastamonu,KFS
+Okawango,
+Hong Kong,
+Elstree,
+Sandtoft,
+Hurtsbourne Tarrant,
+Hanksville,UT3
+Dieppe,
+Newhaven,
+Ollantaytambo,
+Aguas Calientes,
+Cusco,
+Aberdeen,
+Lerwick,
+Torshavn,
+Seydisfjordur,
+Glasgow,GLQ
+Torit,
+Falmouth,
+Cozumel,
+Philipsburg,
+Basseterre,
+Charlotte Amalie,
+San Juan,
+Santa Barbara,
+Eugene,
+Lincolnville,
+Mormugao,
+Cochin,
+Penang,
+Port Klang,
+Singapore,
+Shelbyville,2H0
+Champaign,
+Mattoon,
+Lvliang,LLV
+Delft,
+Daocheng,DCY
+Xiahe city,GXH
+Komandoo,
+Komandoo,
+Meck Island,
+Nizhny Novgorod,
+Peach Springs,1G4
+Vangso,
+Moscow,
+Perm,
+Novosibirsk,
+Ulan Bator,
+Beijing,
+Irkutsk,
+Kuredu,
+Umea,
+Sundsvall,
+Comiso,CIY
+Leroo La Tau,
+Xaxanaka,
+Xugana,
+Nxamaseri,
+Kwando,
+Boston,
+Rockport,
+Salem,
+Salem,
+Boston,
+Joliet,
+New Lenox,
+Chicago,
+London,
+Norfolk,
+London,
+Gloucester,
+Kitchener,
+Quebec,
+Johnstown,
+Enumclaw,
+Tarentum,9G1
+New York,
+New York,
+Newburyport,2B2
+Brooks Camp,
+Kulik Lake,LKK
+Glasgow,ZGG
+London,QQU
+London,QQW
+Moscow,
+Omsk,
+Krasnoyarsk,
+Naushki,
+Erlian,
+Guangzhou,
+Moscow,
+St. Petersburg,
+Minaki,
+Severobajkalsk,
+Vanino,
+Holmsk,
+Nogliki,
+Markovo,KVM
+Seymchan,
+Zyryanka,ZKP
+Susuman,
+OYMYAKON,
+Ust-Maya,UMS
+Aldan,ADH
+Olekminsk,
+Vitim,
+Pellworm,
+Tynda,
+Tommot,
+Etretat,
+Le Havre,
+Weimar,
+Xinyuan,NLT
+Port alsworth,PTA
+Belfort,BOR
+Belo Horizonte,BHZ
+Winnsboro,FDW
+Obock,OBC
+Tadjoura,TDJ
+Santa Cruz des Quiche,AQB
+Nordfjordur,NOR
+Bursa,BTZ
+Rochester,DAW
+Waris-Papua Island,WAR
+Port Oceanic,PRL
+Newton,EWK
+La Ferte Alais,
+Angguruk,
+Bairnsdale,BSJ
+Columbus,TZR
+Ocean Shores,W04
+Packwood,55S
+Fort Bridger,FBR
+Prosser,S40
+Chehalis,CLS
+Mattawa,M94
+Lebanon,S30
+Evanston,EVW
+Sabetha,K83
+Mount Pleasant,LRO
+Americus,ACJ
+Eufala,EUF
+Saluda,6J4
+Manteo,MQI
+Auburn,AUO
+Endicott,CZG
+Culebrita,
+Isla Culebrita,
+Apollo Bay,
+Baku,
+Caspian Sea,
+Kendall,
+Lipa Noi,
+Don Sak,
+Bessemer,EKY
+Ellicott,A50
+Didsbury,
+Sundre,
+Depew,
+South Bend,
+Michigan City,
+Chicago,
+St. Louis,
+Kansas City,
+Albuquerque,
+San Francisco,
+Oakland,
+Mountain View,
+San Mateo,
+Sunnyvale,
+San Mateo,
+Cleveland,
+Tamchy,"
+\f1 \uc0\u1048 \u1050 \u1059 
+\f0 "
+Crystal,MIC
+Quitman,23M
+Ellaidhoo,
+Dublin,DBN
+New York,
+Allentown,
+Binghamton,
+Syracuse,
+Utica,UCA
+Clinton,
+Dublin,
+Killarney,
+Williamsport,
+Wilkes-Barre,
+Hazelton,
+Lewisburg,
+Madison,
+Maplewood,
+Harrisburg,
+Poughkeepsie,
+Fort Lauderdale,
+Charlotte Amalie,
+Roseau,
+St. George's,
+Fort de France,
+Philipsburg,
+Little San Salvador Island,
+Pukarua,PUK
+Kabale,
+Cruz Bay,
+Red Hook,
+Fort-de-France,
+Saint Pierre,
+Philipsburg,
+Marigot,
+Summit,
+Dambwa - Livingstone,
+Sevilla,
+Cordoba,
+Granada,
+Madrid,
+Corvallis,CVO
+Boisar,
+Caspian Sea,
+Phantom Lake,
+Tuzla,
+Toledo,
+Madrid,
+Bilbao,
+Barcelona,
+Barcelona,
+Barcelona,
+Figueres,
+Scranton,
+New Brunswick,
+Trenton,
+Philadelphia,
+White Plains,
+Southeast,
+San Diego,
+Puerto Vallarta,
+Cabo San Lucas,
+Anacortes,
+Friday Harbor,
+Morristown,
+Seattle,
+Whittier,
+Valdez,
+Saint-Louis,
+La Riviere,
+Cilaos,
+Hell-Bourg,
+Salazie,
+St Andre,
+Saint Denis,
+Saint Pierre,
+Praslin,
+La Digue,
+Bainbridge Island,
+Phnom Penh,
+Siem Reap,
+Sihanoukville,
+Kampot,
+Kep,
+Taipei,
+Prominent Hill,PXH
+Chatsworth,CWT
+Algerciras,
+Ganges,YGG
+Pender Harbour,YPT
+Mansons Landing,YMU
+Port McNeill,YMP
+Sullivan Bay,YTG
+Deer Harbor,DHB
+San Diego,OLT
+,
