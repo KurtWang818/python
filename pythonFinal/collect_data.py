@@ -13,7 +13,7 @@ import glob
 # data1.to_csv('~/Downloads/flightData/carrierOriginDest.csv', sep=',', index = False)
 
 # read all the csv files, get UniqueCarrier Origin Dest columns and concatenate into one dataframe and write the result to a csv file
-files = ["~/Downloads/2006flight/2006.1.csv", "~/Downloads/2006flight/2006.2.csv", "~/Downloads/2006flight/2006.3.csv", "~/Downloads/2006flight/2006.4.csv"]
+files = ["~/Downloads/2006flight/2006.1.csv", "~/Downloads/2006flight/2006.2.csv", "~/Downloads/2006flight/2006.3.csv", "~/Downloads/2006flight/2006.4.csv", "~/Downloads/2006flight/2006.5.csv", "~/Downloads/2006flight/2006.6.csv", "~/Downloads/2006flight/2006.7.csv", "~/Downloads/2006flight/2006.8.csv"]
 data1 = concat([read_csv(f, sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"]) for f in files], keys=files)
 
 data1.to_csv('~/Downloads/flightData/carrierOriginDest.csv', sep=',', index = False)
