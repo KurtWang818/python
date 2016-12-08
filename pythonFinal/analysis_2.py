@@ -4,6 +4,10 @@ import argparse
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
+import sys 
+import os
+
+path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
 # get the airport of the city
 parser = argparse.ArgumentParser(description='search for city')
@@ -11,7 +15,7 @@ parser.add_argument("city", help="city")
 args = parser.parse_args()
 
 # read the carrierOriginDest.csv file and get number of each origin and destination city
-city = pd.read_csv('~/Downloads/flightData/carrierOriginDest.csv', sep=",", usecols = ["Origin", "Dest"])
+city = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["Origin", "Dest"])
 originArray = city.Origin.unique()
 destArray = city.Dest.unique()
 flights = len(city.index)

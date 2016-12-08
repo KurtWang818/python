@@ -4,6 +4,10 @@ import argparse
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
+import sys 
+import os
+
+path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
 # get month 
 parser = argparse.ArgumentParser(description='search for month')
@@ -12,7 +16,7 @@ parser.add_argument("dayOfWeek", help="day of week")
 args = parser.parse_args()
 
 # read the carrierOriginDest.csv file and get number of each origin and destination city
-month = pd.read_csv('~/Downloads/flightData/flightday.csv', sep=",", usecols = ["Month", "DayOfWeek"])
+month = pd.read_csv(path + '/flightData/flightday.csv', sep=",", usecols = ["Month", "DayOfWeek"])
 # flightByMonthArray = month.Month.unique()
 # dayofWeekArray = month.DayOfWeek.unique()
 flights = len(month.index)

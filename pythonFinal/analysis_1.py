@@ -4,6 +4,10 @@ import argparse
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
+import sys 
+import os
+
+path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
 # get the name of the carrier from the parameter 
 parser = argparse.ArgumentParser(description='search for flight')
@@ -11,7 +15,7 @@ parser.add_argument("carrier", help="flight carrier")
 args = parser.parse_args()
 
 # read the carrierOriginDest.csv file and get name of carriers and total number of flights by carriers
-carriers = pd.read_csv('~/Downloads/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"])
+carriers = pd.read_csv(path + '/pythonFinal/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"])
 carrierArray = carriers.UniqueCarrier.unique()
 flights = len(carriers.index)
 
@@ -21,6 +25,8 @@ for i in carrierArray:
     countByCarrier = carriers.loc[carriers['UniqueCarrier'] == i]
     print len(countByCarrier.index)
     carrierCountArray.append(len(countByCarrier.index))
+
+np.savetxt("~/Downloads/pythonFinal/result1.csv", carrierCountArray, delimiter=",")
 
 # create bar chart for number of flights by carrier
 

@@ -5,6 +5,10 @@ import argparse
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
+import sys 
+import os
+
+path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
 
 # get month 
@@ -13,7 +17,7 @@ parser.add_argument("months", help="month")
 parser.add_argument("carrier", help="carrier")
 args = parser.parse_args()
 
-month = pd.read_csv('~/Downloads/flightData/flightdelaybymonth.csv', sep=",", usecols = ["Month", "UniqueCarrier", "ArrDelay", "DepDelay"])
+month = pd.read_csv(path + '/flightData/flightdelaybymonth.csv', sep=",", usecols = ["Month", "UniqueCarrier", "ArrDelay", "DepDelay"])
 carrierArray = month.UniqueCarrier.unique()
 flights = len(month.index)
 
@@ -182,7 +186,7 @@ plt.show()
 # create pie chart by specific carrier
 explode = (0.1, 0)
 colors = ['blue', 'green']
-labels = [args.carrier, 'Other month']
+labels = [args.carrier, 'Other Carrier']
 number = carrierdelayCountArray.get(args.carrier)
 rest = totalarrivedelay - number
 sizes = [number, rest]
