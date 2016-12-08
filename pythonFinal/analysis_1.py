@@ -15,7 +15,7 @@ parser.add_argument("carrier", help="flight carrier")
 args = parser.parse_args()
 
 # read the carrierOriginDest.csv file and get name of carriers and total number of flights by carriers
-carriers = pd.read_csv(path + '/pythonFinal/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"])
+carriers = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"])
 carrierArray = carriers.UniqueCarrier.unique()
 flights = len(carriers.index)
 
