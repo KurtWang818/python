@@ -68,10 +68,10 @@ data3.to_csv(path + '/flightData/flightdelaybymonth.csv', sep=',', index = False
 file_splitter(path + '/flightData/flightdelaybymonth.csv', 1428385)
 
 
-# data4 = pd.read_csv(path + '/airports.csv', sep=",", usecols = ["Name", "Code"])
-# data4.head()
+data4 = pd.read_csv(path + '/airports.csv', sep=",", usecols = ["Name", "Code"])
+data4.head()
 
-# data4.to_csv(path + '/flightData/airportcode.csv', sep=',', index = False)
+data4.to_csv(path + '/flightData/airportcode.csv', sep=',', index = False)
 
 # files = ["~/Downloads/pythonFinal/flightData/flights/2006.1.csv", "~/Downloads/pythonFinal/flightData/flights/2006.2.csv", "~/Downloads/pythonFinal/flightData/flights/2006.3.csv", "~/Downloads/pythonFinal/flightData/flights/2006.4.csv", "~/Downloads/pythonFinal/flightData/flights/2006.5.csv", "~/Downloads/pythonFinal/flightData/flights/2006.6.csv", "~/Downloads/pythonFinal/flightData/flights/2006.7.csv", "~/Downloads/pythonFinal/flightData/flights/2006.8.csv", "~/Downloads/pythonFinal/flightData/flights/2006.9.csv", "~/Downloads/pythonFinal/flightData/flights/2006.10.csv", "~/Downloads/pythonFinal/flightData/flights/2006.11.csv", "~/Downloads/pythonFinal/flightData/flights/2006.12.csv", "~/Downloads/pythonFinal/flightData/flights/2006.13.csv", "~/Downloads/pythonFinal/flightData/flights/2006.14.csv", "~/Downloads/pythonFinal/flightData/flights/2006.15.csv", "~/Downloads/pythonFinal/flightData/flights/2006.16.csv", "~/Downloads/pythonFinal/flightData/flights/2006.17.csv", "~/Downloads/pythonFinal/flightData/flights/2006.18.csv", "~/Downloads/pythonFinal/flightData/flights/2006.19.csv", "~/Downloads/pythonFinal/flightData/flights/2006.20.csv", "~/Downloads/pythonFinal/flightData/flights/2006.21.csv", "~/Downloads/pythonFinal/flightData/flights/2006.22.csv", "~/Downloads/pythonFinal/flightData/flights/2006.23.csv", "~/Downloads/pythonFinal/flightData/flights/2006.24.csv", "~/Downloads/pythonFinal/flightData/flights/2006.25.csv", "~/Downloads/pythonFinal/flightData/flights/2006.26.csv", "~/Downloads/pythonFinal/flightData/flights/2006.27.csv", "~/Downloads/pythonFinal/flightData/flights/2006.28.csv", "~/Downloads/pythonFinal/flightData/flights/2006.29.csv", "~/Downloads/pythonFinal/flightData/flights/2006.30.csv", "~/Downloads/pythonFinal/flightData/flights/2006.31.csv", "~/Downloads/pythonFinal/flightData/flights/2006.32.csv"]
 # data1 = pd.read_csv('~/Downloads/2006.csv', sep=",", usecols = ["UniqueCarrier", "Origin", "Dest"])
