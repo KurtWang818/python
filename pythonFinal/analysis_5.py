@@ -2,6 +2,7 @@
 
 import argparse
 import pandas as pd
+from pandas import *
 from matplotlib import pyplot as plt
 import numpy as np
 import sys 
@@ -15,7 +16,9 @@ parser = argparse.ArgumentParser(description='search for carrier')
 parser.add_argument("carrier", help="carrier")
 args = parser.parse_args()
 
-origin = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin"])
+files = [path + "/flightData/carrierOriginDest_0.csv", path + "/flightData/carrierOriginDest_1785550.csv", path + "/flightData/carrierOriginDest_3571100.csv", path + "/flightData/carrierOriginDest_5356650.csv"]
+# origin = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["UniqueCarrier", "Origin"])
+origin = concat([read_csv(f, sep=",", usecols = ["UniqueCarrier", "Origin"]) for f in files], keys=files)
 city = pd.read_csv(path + '/flightData/airportcode.csv', sep=",", usecols = ["Name", "Code"])
 airline = pd.read_csv(path + '/flightData/airlines.csv', sep=",", usecols = ["Airline", "AirlineName"])
 

@@ -2,6 +2,7 @@
 
 import argparse
 import pandas as pd
+from pandas import *
 from matplotlib import pyplot as plt
 import numpy as np
 import sys 
@@ -15,7 +16,9 @@ parser.add_argument("city", help="city")
 args = parser.parse_args()
 
 # read the carrierOriginDest.csv file and get number of each origin and destination city
-city = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["Origin", "Dest"])
+files = [path + "/flightData/carrierOriginDest_0.csv", path + "/flightData/carrierOriginDest_1785550.csv", path + "/flightData/carrierOriginDest_3571100.csv", path + "/flightData/carrierOriginDest_5356650.csv"]
+# city = pd.read_csv(path + '/flightData/carrierOriginDest.csv', sep=",", usecols = ["Origin", "Dest"])
+city = concat([read_csv(f, sep=",", usecols = ["Origin", "Dest"]) for f in files], keys=files)
 originArray = city.Origin.unique()
 destArray = city.Dest.unique()
 flights = len(city.index)
@@ -26,9 +29,9 @@ destCountDict = {}
 print "origin city and count"
 
 for i in originArray:
-    # print i
+    print i
     countByOrigin = city.loc[city['Origin'] == i]
-    # print len(countByOrigin.index)
+    print len(countByOrigin.index)
     originCountDict[i] = len(countByOrigin.index)
     # originCountArray.append(len(countByOrigin.index))
 
@@ -36,9 +39,9 @@ print "**************************************************"
 print "destination city and count"
 
 for i in destArray:
-    # print i
+    print i
     countByDest = city.loc[city['Dest'] == i]
-    # print len(countByDest.index)
+    print len(countByDest.index)
     destCountDict[i] = len(countByDest.index)
     # destCountArray.append(len(countByDest.index))
 
@@ -57,7 +60,7 @@ for c in sorted(originCountDict, key=originCountDict.get, reverse = True):
 		break
 
 	toporiginCountDict[c] = originCountDict[c]
-	# print c, originCountDict[c]
+	print c, originCountDict[c]
 		
 print "**************************************************"
 print "top destination city and count"
@@ -69,7 +72,7 @@ for c in sorted(destCountDict, key=destCountDict.get, reverse = True):
 		break
 
 	topdestCountDict[c] = destCountDict[c]
-	# print c, destCountDict[c]
+	print c, destCountDict[c]
 
 # combine origin city and destination city
 print "**************************************************"

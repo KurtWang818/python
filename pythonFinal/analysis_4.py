@@ -3,6 +3,7 @@
 from __future__ import division
 import argparse
 import pandas as pd
+from pandas import *
 from matplotlib import pyplot as plt
 import numpy as np
 import sys 
@@ -17,7 +18,10 @@ parser.add_argument("months", help="month")
 parser.add_argument("carrier", help="carrier")
 args = parser.parse_args()
 
-month = pd.read_csv(path + '/flightData/flightdelaybymonth.csv', sep=",", usecols = ["Month", "UniqueCarrier", "ArrDelay", "DepDelay"])
+# read flightdelaybymonth.csv file and get Month UniqueCarrier ArrDelay and DepDelay values
+files = [path + "/flightData/flightdelaybymonth_0.csv", path + "/flightData/flightdelaybymonth_1428385.csv", path + "/flightData/flightdelaybymonth_2856770.csv", path + "/flightData/flightdelaybymonth_4285155.csv", path + "/flightData/flightdelaybymonth_5713540.csv"]
+# month = pd.read_csv(path + '/flightData/flightdelaybymonth.csv', sep=",", usecols = ["Month", "UniqueCarrier", "ArrDelay", "DepDelay"])
+month = concat([read_csv(f, sep=",", usecols = ["Month", "UniqueCarrier", "ArrDelay", "DepDelay"]) for f in files], keys=files)
 carrierArray = month.UniqueCarrier.unique()
 flights = len(month.index)
 
