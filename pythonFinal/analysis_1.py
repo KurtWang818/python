@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import sys 
 import os
+import csv
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -29,7 +30,16 @@ for i in carrierArray:
     print len(countByCarrier.index)
     carrierCountArray.append(len(countByCarrier.index))
 
-# carrierCountArray.to_csv(path + '/flightData/flightday.csv', sep=',', index = False)
+csvfile = open(path + "/results/analysis1.csv", "w")
+writer = csv.writer(csvfile)
+title = ["Carrier", "Count"]
+writer.writerow(title)
+for i in range(len(carrierArray)):
+	carrier = carrierArray[i]
+	count = carrierCountArray[i]
+	data = [carrier, count]
+	writer.writerow(data)
+
 
 # create bar chart for number of flights by carrier
 
@@ -40,6 +50,7 @@ plt.xticks(y_pos, carrierArray)
 plt.ylabel('Number of flights')
 plt.title('Total numbe of flights by carrier')
  
+plt.savefig(path + '/pythonFinalscreen/image1.gif')
 plt.show()
 
 # create pie chart by specific carrier
@@ -54,4 +65,6 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by carrier')
+
+plt.savefig(path + '/pythonFinalscreen/image2.gif')
 plt.show()

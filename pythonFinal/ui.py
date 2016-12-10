@@ -4,6 +4,10 @@ from Tkinter import *
 import tkMessageBox
 import sys 
 import os
+import pandas as pd
+import csv
+from collections import defaultdict
+# from PIL import ImageTk, Image
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -13,24 +17,62 @@ def analyze():
 		carrier = parameter1.get()
 		# tkMessageBox.showinfo('Message', "You chose, %s" % carrier)
 		os.system("python " + path + "/analysis_1.py " + carrier)
+		window = Toplevel(app)
+		window.title("Result for analysis_1, total number of flights for carriers")
+		window.config(height = '600', width = '600')
+		carrier = pd.read_csv(path + '/results/analysis1.csv', sep=",", usecols = ["Carrier", "Count"])
+		noti = Label(window, text = carrier)
+		noti.grid(row = 0, column = 0, sticky="nsew", padx=1, pady=1)
+		# img1 = PhotoImage(file = (path + "/pythonFinalscreen/image1.gif"))
+		# img1 = img1.zoom(5)
+		# panel1 = Label(window, image = img1)
+		# panel1.image = img1
+		# panel1.pack()
+		# img2 = ImageTk.PhotoImage(Image.open(path + "/pythonFinalscreen/image2.png"))
+		# panel2 = Label(window, image = img2)
+		# panel2.pack()
 	elif radioValue == "analysis_2":
 		city = parameter1.get()
 		# tkMessageBox.showinfo('Message', "You chose, %s" % radioValue % city)
 		os.system("python " + path + "/analysis_2.py " + city)
+		window = Toplevel(app)
+		window.title("Result for analysis_2, top origin city, destination city, and route")
+		window.config(height = '600', width = '600', bg = "lightblue")
+		city = pd.read_csv(path + '/results/analysis2.csv', sep=",", usecols = ["Origin", "Count"])
+		noti = Label(window, text = city)
+		noti.grid(row = 0, column = 0, sticky="nsew", padx=1, pady=1)
 	elif radioValue == "analysis_3":
 		month = parameter1.get()
 		day = parameter2.get()
 		# tkMessageBox.showinfo('Message', "You chose, %s" % radioValue % month % day)
 		os.system("python " + path + "/analysis_3.py " + month + " " + day)
+		window = Toplevel(app)
+		window.title("Result for analysis_3, total flights by month and day")
+		window.config(height = '600', width = '600', bg = "lightblue")
+		time = pd.read_csv(path + '/results/analysis3.csv', sep=",", usecols = ["Month", "Count"])
+		noti = Label(window, text = time)
+		noti.grid(row = 0, column = 0, sticky="nsew", padx=1, pady=1)
 	elif radioValue == "analysis_4":
 		month = parameter1.get()
 		carrier = parameter2.get()
 		# tkMessageBox.showinfo('Message', "You chose, %s" % radioValue % month % carrier)
 		os.system("python " + path + "/analysis_4.py " + month + " " + carrier)
+		window = Toplevel(app)
+		window.title("Result for analysis_4, departure, arrival, and carrier delay percentage")
+		window.config(height = '600', width = '600', bg = "lightblue")
+		info = pd.read_csv(path + '/results/analysis4.csv', sep=",", usecols = ["Month", "Count"])
+		noti = Label(window, text = info)
+		noti.grid(row = 0, column = 0, sticky="nsew", padx=1, pady=1)
 	elif radioValue == "analysis_5":
-		carrier.parameter1.get()
+		carrier = parameter1.get()
 		# tkMessageBox.showinfo('Message', "You chose, %s" % radioValue % carrier)
 		os.system("python " + path + "/analysis_5.py " + carrier)
+		window = Toplevel(app)
+		window.title("Result for analysis_5, top cities for carrier")
+		window.config(height = '600', width = '600', bg = "lightblue")
+		time = pd.read_csv(path + '/results/analysis5.csv', sep=",", usecols = ["City", "Count"])
+		noti = Label(window, text = time)
+		noti.grid(row = 0, column = 0, sticky="nsew", padx=1, pady=1)
 
 def insert1():
 	yourParameter1.delete(0,END)
@@ -58,6 +100,7 @@ def insert5():
 	yourParameter1.delete(0,END)
 	yourParameter2.delete(0,END)
 	yourParameter1.insert(0, "AA")
+
 
 app = Tk()
 app.title("Flight Information")

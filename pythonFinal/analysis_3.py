@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import sys 
 import os
+import csv
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -57,8 +58,9 @@ plt.plot(x, y)
 plt.title('Total flights by month')
 plt.ylabel('Number of flights')
 plt.xlabel('Month')
-plt.show()
 
+plt.savefig(path + '/pythonFinalscreen/image8.png')
+plt.show()
 
 dayOfWeekArray = list(dayofWeekCountDict.keys())
 countByDayOfWeekArray = list(dayofWeekCountDict.values())
@@ -69,12 +71,14 @@ plt.plot(x, y)
 plt.title('Total flights by day of week')
 plt.ylabel('Number of flights')
 plt.xlabel('Day of week')
-plt.show()
 
+plt.savefig(path + '/pythonFinalscreen/image9.png')
+plt.show()
 
 monthDict = {'1': 'January', '2': 'February', '3': 'March', '4': 'April', '5': 'May', '6': 'June', '7': 'July', '8': 'August', '9': 'September', '10': 'October', '11': 'November', '12': 'December'}
 weekDict = {'1': 'Monday', '2': 'Tuesday', '3': 'Wednesday', '4': 'Thursday', '5': 'Friday', '6': 'Saturday', '7': 'Sunday'}
-
+monthArray = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+weekArray = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # create pie chart by specific month
 explode = (0.1, 0)
@@ -89,6 +93,8 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by month')
+
+plt.savefig(path + '/pythonFinalscreen/image10.png')
 plt.show()
 
 # create pie chart by specific day of week
@@ -104,6 +110,24 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by day of week')
+
+plt.savefig(path + '/pythonFinalscreen/image11.png')
 plt.show()
 
+csvfile = open(path + "/results/analysis3.csv", "w")
+writer = csv.writer(csvfile)
+title = ["Month", "Count"]
+writer.writerow(title)
+for i in range(12):
+    month = monthArray[i]
+    count = countByMonthArray[i]
+    data = [month, count]
+    writer.writerow(data)
 
+title = ["Day", "Count"]
+writer.writerow(title)
+for i in range(7):
+    day = weekArray[i]
+    count = countByDayOfWeekArray[i]
+    data = [day, count]
+    writer.writerow(data)

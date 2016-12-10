@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import sys 
 import os
+import csv
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -117,6 +118,7 @@ plt.xticks(y_pos, topRouteArray)
 plt.ylabel('Number of flights')
 plt.title('Total numbe of flights by route')
  
+plt.savefig(path + '/pythonFinalscreen/image3.png')
 plt.show()
 
 # create bar chart for number of flights by origin
@@ -130,6 +132,7 @@ plt.xticks(y_pos, toporiginArray)
 plt.ylabel('Number of flights')
 plt.title('Total numbe of flights by origin city')
  
+plt.savefig(path + '/pythonFinalscreen/image4.png')
 plt.show()
 
 # create bar chart for number of flights by destination
@@ -143,6 +146,7 @@ plt.xticks(y_pos, topdestArray)
 plt.ylabel('Number of flights')
 plt.title('Total numbe of flights by destination city')
  
+plt.savefig(path + '/pythonFinalscreen/image5.png')
 plt.show()
 
 # create pie chart by specific origin city
@@ -157,6 +161,8 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by origin city')
+
+plt.savefig(path + '/pythonFinalscreen/image6.png')
 plt.show()
 
 # create pie chart by specific destination city
@@ -171,7 +177,35 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by destination city')
+
+plt.savefig(path + '/pythonFinalscreen/image7.png')
 plt.show()
+
+csvfile = open(path + "/results/analysis2.csv", "w")
+writer = csv.writer(csvfile)
+title1 = ["Origin", "Count"]
+writer.writerow(title1)
+for i in range(10):
+	origin = toporiginArray[i]
+	count = toporiginCountArray[i]
+	data = [origin, count]
+	writer.writerow(data)
+
+title2 = ["Destination", "Count"]
+writer.writerow(title2)
+for i in range(10):
+	dest = topdestArray[i]
+	count = topdestCountArray[i]
+	data = [dest, count]
+	writer.writerow(data)
+
+title3 = ["Route", "Count"]
+writer.writerow(title3)
+for i in range(10):
+	route = topRouteArray[i]
+	count = topRouteCountArray[i]
+	data = [route, count]
+	writer.writerow(data)
 
 
 

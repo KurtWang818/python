@@ -8,6 +8,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import sys 
 import os
+import csv
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -67,8 +68,8 @@ plt.xticks(y_pos, monthArray)
 plt.ylabel('percentage')
 plt.title('Percentage of departure delay flights by month')
  
+plt.savefig(path + '/pythonFinalscreen/image12.png')
 plt.show()
-
 
 arrivedelayflightByMonthCountDict = {}
 print "delay flights by month and count"
@@ -102,8 +103,8 @@ plt.xticks(y_pos, monthArray)
 plt.ylabel('percentage')
 plt.title('Percentage of arrival delay flights by month')
  
+plt.savefig(path + '/pythonFinalscreen/image13.png')
 plt.show()
-
 
 totaldepartdelay = 0
 totalarrivedelay = 0
@@ -117,6 +118,8 @@ print totalarrivedelay
 
 monthDict = {'1': 'January', '2': 'February', '3': 'March', '4': 'April', '5': 'May', '6': 'June', '7': 'July', '8': 'August', '9': 'September', '10': 'October', '11': 'November', '12': 'December'}
 weekDict = {'1': 'Monday', '2': 'Tuesday', '3': 'Wednesday', '4': 'Thursday', '5': 'Friday', '6': 'Saturday', '7': 'Sunday'}
+monthArray = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+weekArray = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # create pie chart for percentage of depart delay flight by month
 explode = (0.1, 0)
@@ -130,6 +133,8 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of depart delay by month')
+
+plt.savefig(path + '/pythonFinalscreen/image14.png')
 plt.show()
 
 # create pie chart for percentage of arrive delay flight by month
@@ -144,8 +149,9 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of arrive delay by month')
-plt.show()
 
+plt.savefig(path + '/pythonFinalscreen/image15.png')
+plt.show()
 
 
 
@@ -184,8 +190,8 @@ plt.xticks(y_pos, carrierArray)
 plt.ylabel('percentage')
 plt.title('Percentage of arrival delay flights by carrier')
  
+plt.savefig(path + '/pythonFinalscreen/image16.png')
 plt.show()
-
 
 # create pie chart by specific carrier
 explode = (0.1, 0)
@@ -198,8 +204,36 @@ plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
 plt.axis('equal')
 plt.title('Percentage of flights by carrier')
+
+plt.savefig(path + '/pythonFinalscreen/image17.png')
 plt.show()
 
+csvfile = open(path + "/results/analysis4.csv", "w")
+writer = csv.writer(csvfile)
+title = ["Month", "Count"]
+writer.writerow(title)
+text1 = ["Departure delay", ""]
+writer.writerow(text1)
+for i in range(12):
+    month = monthArray[i]
+    count = departpercentArray[i]
+    data = [month, count]
+    writer.writerow(data)
+
+text2 = ["Arrival delay", ""]
+writer.writerow(text2)
+for i in range(12):
+    month = monthArray[i]
+    count = arrivepercentArray[i]
+    data = [month, count]
+    writer.writerow(data)
+
+text3 = ["Carrier", "Count"]
+for i in range(len(carrierArray)):
+    carrier = carrierArray[i]
+    count = carrierpercentArray[i]
+    data = [carrier, count]
+    writer.writerow(data)
 
 
 

@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import sys 
 import os
+import csv
 
 path = os.path.split(os.path.realpath(sys.argv[0]))[0]
 
@@ -64,5 +65,20 @@ plt.xticks(y_pos, citylist)
 plt.ylabel('Number of flights')
 plt.title('Total numbe of flights by city for ' + carrierName)
  
+plt.savefig(path + '/pythonFinalscreen/image18.png')
 plt.show()
 
+csvfile = open(path + "/results/analysis5.csv", "w")
+writer = csv.writer(csvfile)
+# text = "Top ten origin cites for carrier: " + carrierName
+# writer.writerow(text)
+title = ["City", "Count"]
+writer.writerow(title)
+for i in range(10):
+    city = citylist[i]
+    count = countlist[i]
+    data = [city, count]
+    writer.writerow(data)
+
+text = ["Top ten origin cities by: ", carrierName]
+writer.writerow(text)
