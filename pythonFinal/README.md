@@ -8,7 +8,7 @@ The information in this data are dates of the flights, origin city, destination 
 I have created 7 py files for this project, the first collection_data.py file is for collecting data. It will extract useful columns from the data and save them into seperate small csv files. The analysis_1.py, analysis_2.py, analysis_3.py, analysis_4.py, analysis_5.py
 are for analysis, and the ui.py file is the gui page that can make users easier to execute the analysis. 
 
-#1. collect_data_py:
+#1. collect_data.py:
 
   The collect_data.py file is the file that read the flight data and get the useful columns as dataframe and write the dataframe into
   a new csv file for futher analysis. 
@@ -31,7 +31,20 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%202.10.03%20PM.png)
 
 #2. ui.py
+
   The ui.py file is a gui for all the analysis. User can choose one of the five analysis and input the parameter. Then the corresponding analysis will be executed based on the user selection. Then the results and the image will be shown on a new window of the gui.
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.40%20PM.png)
+  
+  When the user chooses one of the analysis from the radio buttons, the input boxes will be filled automatically to help users understand what kind of parameter users can input for each analysis, and user can also change the parameters input based on his/her preference. 
+  
+  Airline codes that user can input are: **US, WN, YV, OH, OO, XE, TZ, UA, DL, EV, F9, FL, HA, MQ, NW, AA, AS, B6, CO, AQ**
+  
+  Month and day of week input are: **1 - 12 for month, 1 - 7 for day of week**
+  
+  Cities input are: **for example ATL for Atlanta, BOS for Boston, etc**
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.56%20PM.png)
   
 #3. analysis_1.py:
   When executing this file, should run ./analysis_1.py AA. AA is the carrier code for American Airline, this is an example of what kind
