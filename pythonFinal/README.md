@@ -70,8 +70,10 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   
   If the user chooses analysis_1 and clicks on submit button, analysis_1.py file will be executed and the results will be shown on the user interface window. 
   
-  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.50.41%20PM.png) 
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.50.41%20PM.png)
+  **Total number of flights by carrier**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis1.1.png)
+  **Percentage of flights operated by American Airline, result will vary by what the user inputs**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis1.2.png)
     
 #4. analysis_2.py:
@@ -95,21 +97,53 @@ will also get the total number of flights for a route. And create bar chart for 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.23.03%20PM.png)
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.23.14%20PM.png)
   
-  After executin this analysis, the results will be shown on the new window of the user interface window: 
-  ![alt tag]()
+  After executin this analysis, the results will be shown on the new window of the user interface window. From these results, we can understand which cities are more inportant in the US.  
   
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.51.54%20PM.png)
+  
+  **Top ten routes and their total counts**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.1.png)
+  
+  **Top ten origin cities**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.2.png)
+  
+  **Top ten destination cities**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.3.png)
+  
+  **Percentage of flights from Atlanta, result will vary by what the user inputs**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.4.png)
+  
+  **Percentage of flights to Atlanta, result will vary by what the user inputs**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.5.png)
   
     
 #5. analysis_3.py:
-  When executing this file, should run ./analysis_3.py 1 1. The first 1 is the month number (from 1 - 12), and the second 1 is the day   of week (from 1 to 7). This analysis will get total count of flights by month and also day of week, and create bar chart for number     of flights in each month and each day of week. Then it will get the month and day of week from the parameter and create bie charts of   the percentage of flights for each month and each day of week. 
+  When executing this file, should run **python analysis_3.py 1 1**. The first 1 is the month number (from 1 - 12), and the second 1 is the day of week (from 1 to 7). This analysis will get total count of flights by month and also day of week, and create bar chart for number of flights in each month and each day of week. Then it will get the month and day of week from the parameter and create bie charts of the percentage of flights for each month and each day of week. 
   
   Link to the analysis_3.py file: [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/analysis_3.py)
-    
+  
+  This analysis will count total flight numbers by month and day of week and store the results into dictionaries. The it will create line charts to show the trend for flights with respect to month and day of week. This analysis will also get the percentage of flights in the specified month and day of week. 
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.45.23%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.45.43%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.45.57%20PM.png)
+  
+  The results will be shown on the screen. This analysis will tell us which month and what day will be more busy. 
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.54.34%20PM.png)
+  
+  **Number of flights by month**
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis3.1.png)
+  
+  **Number of flights by day of week**
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis3.2.png)
+  
+  **Percentage of flights in January, result will vary by what the user inputs**
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis3.3.png)
+  
+  **Percentage of flights on Mondays, result will vary by what the user inputs**
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis3.4.png)
+  
+  
 #6. analysis_4.py:
   When executing this file, should run ./analysis_4.py 1 AA. The parameter 1 is the month number (from 1 - 12), and the aprameter AA is   the code for carrier. This analysis will get total count of departure and arrival delayed flights by month and calculate the           percentage of delayed flights by each month. It will create bar chart for percentge of departure and arrival delayed flights in each   month. Then it will also get the month from the parameter and create bie charts of the percentage of delayed flights over all the       delayed flights for the specific month. It also get the carrier name from the parameter and calculate percentage of delayed flghts of   this carrier.
   
