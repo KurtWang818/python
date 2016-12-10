@@ -79,6 +79,31 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
 will also get the total number of flights for a route. And create bar chart for top ten origin city, destination city, and top ten     routes in a year. Then it will get the city from the parameter and create a bie chart of the percentage of flights for this city in a whole year. 
   
   Link to the analysis_2.py file: [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/analysis_2.py)
+  
+  The code below shows that the origin city, destinations city their corresponding counts are stored in dictionaries, then the dictinaries are sorted in descending order and values can be printed and saved. 
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.22.11%20PM.png)
+  
+  I have created a function to combine the origin city and the destination city and produce a route, then count the route and store the values into a dictionary, sort this dictionary and print and save the top ten routes. **This analysis will be executed for about 15 minutes, because the process for combining route takes a long time.**
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.28.37%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.22.26%20PM.png)
+  
+  Then I will create charts for top origin city, destination city, routes, percentage of filghts from the specified city and percentage of flights landing at the specified city. Save the image and show them on the screen. 
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.23.01%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.23.03%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.23.14%20PM.png)
+  
+  After executin this analysis, the results will be shown on the new window of the user interface window: 
+  ![alt tag]()
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.1.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.2.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.3.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.4.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.5.png)
+  
     
 #5. analysis_3.py:
   When executing this file, should run ./analysis_3.py 1 1. The first 1 is the month number (from 1 - 12), and the second 1 is the day   of week (from 1 to 7). This analysis will get total count of flights by month and also day of week, and create bar chart for number     of flights in each month and each day of week. Then it will get the month and day of week from the parameter and create bie charts of   the percentage of flights for each month and each day of week. 
