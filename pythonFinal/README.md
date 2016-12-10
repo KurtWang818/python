@@ -11,7 +11,7 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
 #1. collect_data.py:
 
   The collect_data.py file is the file that read the flight data and get the useful columns as dataframe and write the dataframe into
-  a new csv file for futher analysis. 
+  a new csv file for futher analysis. When executing this file, just run **python collect_data.py** and the useful data will be           collected and saved into csv files. 
   
   It first reads "UniqueCarrier", "Origin", "Dest" columns and write the results to a new csv file
   called carrierOriginDest.csv.
@@ -32,7 +32,7 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
 
 #2. ui.py
 
-  The ui.py file is a gui for all the analysis. User can choose one of the five analysis and input the parameter. Then the corresponding analysis will be executed based on the user selection. Then the results and the image will be shown on a new window of the gui.
+  The ui.py file is a gui for all the analysis. Run **python ui.py** will start the ui page for this project. User can choose one of the five analysis and input the parameter. Then the corresponding analysis will be executed based on the user selection. Then the results and the image will be shown on a new window of the gui.
   
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.40%20PM.png)
   
@@ -47,50 +47,11 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.56%20PM.png)
   
 #3. analysis_1.py:
-  When executing this file, should run ./analysis_1.py AA. AA is the carrier code for American Airline, this is an example of what kind
-  of parameter can be included when executing this file. This analysis will get total count of flights for each carrier in a year, and 
-  create a bar chart for the result. This file will also get the carrier name from the parameter and create a pie chart for the           percentage of this carrier in the whole market. 
+  
+  When executing this file, should run **python analysis_1.py AA**. AA is the carrier code for American Airline, this is an example of what kind of parameter can be included when executing this file. This analysis will get total count of flights for each carrier in a year, and create a bar chart for the result. This file will also get the carrier name from the parameter and create a pie chart for the percentage of this carrier in the whole market. 
+  
   Result for analysis_1: 
-    US
-    504844
-    WN
-    1099321
-    YV
-    304764
-    OH
-    278099
-    OO
-    548109
-    XE
-    441470
-    TZ
-    19602
-    UA
-    500008
-    DL
-    506086
-    EV
-    273143
-    F9
-    90181
-    FL
-    237645
-    HA
-    52173
-    MQ
-    550088
-    NW
-    432880
-    AA
-    643597
-    AS
-    159404
-    B6
-    155732
-    CO
-    309389
-    AQ
-    35387
+    
     
 #4. analysis_2.py:
   When executing this file, should run ./analysis_2.py ATL. ATL is the city code for Atlanta, this is an example of what kind of         parameter can be included when executing this file. This analysis will get total count of origin city and destination city, it
