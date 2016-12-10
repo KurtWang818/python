@@ -1,6 +1,6 @@
 Introduction:
   This python analysis project is aimed to analyze US domestic flights in a whole year. Due to size limit on single files, I have split the original flight data into 32 small files and stored them under pythonFinal/flightData/flights file. A sample of the flights data is shown as below:
-  ![alt tag]("~/Desktop/Screen Shot 2016-12-10 at 1.24.44 PM")
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.24.44%20PM.png)
 
 1. collect_data_py:
   The collect_data.py file is the file that read the flight data and get the useful columns as dataframe and write the dataframe into
