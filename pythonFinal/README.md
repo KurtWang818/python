@@ -1,4 +1,4 @@
-Introduction:
+#Introduction:
 
   This python analysis project is aimed to analyze US domestic flights in a whole year. Due to size limit on single files, I have split the original flight data into 32 small files and stored them under pythonFinal/flightData/flights file. A sample of the flights data is shown as below:
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.24.44%20PM.png)
@@ -11,13 +11,24 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
 #1. collect_data_py:
 
   The collect_data.py file is the file that read the flight data and get the useful columns as dataframe and write the dataframe into
-  a new csv file for futher analysis. It first reads "UniqueCarrier", "Origin", "Dest" columns and write the results to a new csv file
+  a new csv file for futher analysis. 
+  
+  It first reads "UniqueCarrier", "Origin", "Dest" columns and write the results to a new csv file
   called carrierOriginDest.csv.
 
   Then it reads "Month", "DayofMonth", "DayOfWeek" columns and write the results to a new csv file called flightday.csv.
+  
   Then it reads "Month", "UniqueCarrier", "ArrDelay", "DepDelay" columns and write the results to a new file called                       flightdelaybymonth.csv
-
+  
   It also reads a file called airports.csv, and collect "Name" and "Code" columns and write the results to airportcode.csv
+  
+  The following image includes the codes for extracting useful columns and write them into new csv files:
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%202.10.21%20PM.png)
+  
+  Since the size limit of the file for my github is 25mb, I have to seperate the csv files into smaller files. The following code is how   to seperate csv files. 
+  
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%202.10.03%20PM.png)
 
 #2. ui.py
   The ui.py file is a gui for all the analysis. User can choose one of the five analysis and input the parameter. Then the corresponding analysis will be executed based on the user selection. Then the results and the image will be shown on a new window of the gui.
