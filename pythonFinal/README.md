@@ -1559,3 +1559,6 @@
     San Francisco 12770
     Orlando 11517
     Austin 9341
+
+7. ui.py
+  The ui.py file is a gui for all the analysis. User can choose one of the five analysis and input the parameter. Then the corresponding analysis will be executed based on the user selection. Then the results and the image will be shown on a new window of the gui. 
