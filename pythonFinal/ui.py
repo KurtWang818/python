@@ -101,6 +101,17 @@ def insert5():
 	yourParameter2.delete(0,END)
 	yourParameter1.insert(0, "AA")
 
+def record1():
+	os.system("python " + path + "/speak.py ")
+	file = open(path + "/results/recordResult.txt", 'r')
+	yourParameter1.delete(0,END)
+	yourParameter1.insert(0, file.read())
+
+def record2():
+	os.system("python " + path + "/speak.py ")
+	file = open(path + "/results/recordResult.txt", 'r')
+	yourParameter2.delete(0,END)
+	yourParameter2.insert(0, file.read())
 
 app = Tk()
 app.title("Flight Information")
@@ -131,11 +142,15 @@ radio3.pack()
 radio4.pack()
 radio5.pack()
 
+
 text1 = StringVar()
 text1.set("parameter 1: ")
 label2 = Label(app, textvariable = text1, height = 4)
 label2.configure(background='lightblue')
 label2.pack()
+
+button1 = Button(app, text = "Start recording", width = 20, command = record1)
+button1.pack(padx = 5, pady = 5)
 
 parameter1 = StringVar(None)
 yourParameter1 = Entry(app, textvariable = parameter1)
@@ -147,11 +162,14 @@ label3 = Label(app, textvariable = text1, height = 4)
 label3.configure(background='lightblue')
 label3.pack()
 
+button2 = Button(app, text = "Start recording", width = 20, command = record2)
+button2.pack(padx = 5, pady = 5)
+
 parameter2 = StringVar(None)
 yourParameter2 = Entry(app, textvariable = parameter2)
 yourParameter2.pack()
 
-button = Button(app, text = "Submit", width = 20, command = analyze)
-button.pack(side = 'bottom', padx = 15, pady = 15)
+button3 = Button(app, text = "Submit", width = 20, command = analyze)
+button3.pack(side = 'bottom', padx = 5, pady = 5)
 
 app.mainloop()
