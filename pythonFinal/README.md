@@ -59,8 +59,8 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   
 #3. speak.py
 
-  This python file is designed to use a speech-to-text api to help users change the input. When the user clicks on the Start recording button, the speak.py file will be executed and start recording. The result will be saved to /pythonFinal/results/recordResult.txt file. 
-Then the ui.py file will read the content from this file and insert the text to the corresponding input. The code below illustrates this process: 
+  This python file is designed to use a speech-to-text api to help users change the input. When the user clicks on the Start recording button, the **speak.py** file will be executed and start recording. The result will be saved to /pythonFinal/results/recordResult.txt file. 
+  Then the ui.py file will read the content from this file and insert the text to the corresponding input. The code below illustrates this process: 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%209.12.56%20PM.png)
 
 **Link to speak.py file:** [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/speak.py)
