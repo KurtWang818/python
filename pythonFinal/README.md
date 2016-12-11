@@ -53,7 +53,7 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.56%20PM.png)
   
-  The code listed below is for executing the proper analysispy file and print the results on a new window of the user interface. 
+  The code listed below is for executing the proper analysis.py file and print the results on a new window of the user interface. 
   
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.04.39%20PM.png)
   
