@@ -41,7 +41,7 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   
   **Link to the ui.py file:** [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/ui.py)
   
-  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%201.09.40%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%209.09.12%20PM.png)
   
   When the user chooses one of the analysis from the radio buttons, the input boxes will be filled automatically to help users understand what kind of parameter users can input for each analysis, and user can also change the parameters input based on his/her preference. 
   
@@ -57,7 +57,16 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%203.04.39%20PM.png)
   
-#3. analysis_1.py:
+#3. speak.py
+
+  This python file is designed to use a speech to text api to help users change the input. When the user clicks on the Start recording button, the speak.py file will be executed and start recording. The result will be saved to /pythonFinal/results/recordResult.txt final. 
+Then the ui.py file will read the content from this file and insert the text to the corresponding input. 
+
+  For instance, if user inputs AA for American Airline. And click on the Start recording button and speaks B6 (JetBlue Airline), AA will be replaced by B6. 
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%209.09.12%20PM.png)
+  ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/Screen%20Shot%202016-12-10%20at%209.09.20%20PM.png)
+  
+#4. analysis_1.py:
   
   When executing this file, should run **python analysis_1.py AA**. AA is the carrier code for American Airline, this is an example of what kind of parameter can be included when executing this file. This analysis will get total count of flights for each carrier in a year, and create a bar chart for the result. This file will also get the carrier name from the parameter and create a pie chart for the percentage of this carrier in the whole market. 
   
@@ -77,7 +86,7 @@ are for analysis, and the ui.py file is the gui page that can make users easier 
   **Percentage of flights operated by American Airline, result will vary by what the user inputs**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis1.2.png)
     
-#4. analysis_2.py:
+#5. analysis_2.py:
   When executing this file, should run **python analysis_2.py ATL**. ATL is the city code for Atlanta, this is an example of what kind of parameter can be included when executing this file. This analysis will get total count of origin city and destination city, it
 will also get the total number of flights for a route. And create bar chart for top ten origin city, destination city, and top ten     routes in a year. Then it will get the city from the parameter and create a bie chart of the percentage of flights for this city in a whole year. 
   
@@ -118,7 +127,7 @@ will also get the total number of flights for a route. And create bar chart for 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis2.5.png)
   
     
-#5. analysis_3.py:
+#6. analysis_3.py:
   When executing this file, should run **python analysis_3.py 1 1**. The first 1 is the month number (from 1 - 12), and the second 1 is the day of week (from 1 to 7). This analysis will get total count of flights by month and also day of week, and create bar chart for number of flights in each month and each day of week. Then it will get the month and day of week from the parameter and create bie charts of the percentage of flights for each month and each day of week. 
   
   **Link to the analysis_3.py file:** [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/analysis_3.py)
@@ -145,7 +154,7 @@ will also get the total number of flights for a route. And create bar chart for 
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis3.4.png)
   
   
-#6. analysis_4.py:
+#7. analysis_4.py:
   When executing this file, should run **python analysis_4.py 1 AA**. The parameter 1 is the month number (from 1 - 12), and the aprameter AA is   the code for carrier. This analysis will get total count of departure and arrival delayed flights by month and calculate the percentage of delayed flights by each month. It will create bar chart for percentge of departure and arrival delayed flights in each month. Then it will also get the month from the parameter and create bie charts of the percentage of delayed flights over all the delayed flights for the specific month. It also get the carrier name from the parameter and calculate percentage of delayed flghts of this carrier.
   
   **Link to the analysis_4.py file:** [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/analysis_4.py)
@@ -179,7 +188,7 @@ will also get the total number of flights for a route. And create bar chart for 
   **Percentage of flights arrived late for the specifed carrier, result will vary by what user inputs**
   ![alt tag](https://github.com/KurtWang818/python/blob/master/pythonFinal/images/analysis4.6.png)
 
-#7. analysis_5.py:
+#8. analysis_5.py:
   When executing this file, should run **python analysis_5.py AA**. AA is the carrier code. This analysis will get total count of flights by origin city for the specified carrier. Then it will sort the dictionary and return top ten origin cities for this carrier. This analysis will show which city is the hub for each carrier.  
   
   **Link to the analysis_5.py file:** [GitHub](https://github.com/KurtWang818/python/blob/master/pythonFinal/analysis_5.py)
